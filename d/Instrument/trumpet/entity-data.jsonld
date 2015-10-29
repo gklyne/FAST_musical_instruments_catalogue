@@ -1,0 +1,15 @@
+{
+  "rdfs:label": "Trumpet",
+  "rdfs:comment": "A brass instrument with three valves and a folded tube.",
+  "annal:type_id": "Instrument",
+  "annal:uri": "http://annalist.net:8000/annalist/c/MusicalInstruments/d/Instrument/trumpet/",
+  "annal:url": "http://annalist.net:8000/annalist/c/MusicalInstruments/d/Instrument/trumpet/",
+  "annal:id": "trumpet",
+  "@id": "./",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData",
+  "micat:instrument_type": "brass"
+}

@@ -1,0 +1,15 @@
+{
+  "rdfs:label": "Clarinet",
+  "rdfs:comment": "An approximately tubular instrument with a mouthpiece, a reed which vibrates in an airflow created by blowing into the mouthpiece, and holes which are covered or uncovered by fingered keys to change the pitch of the note thus produced.",
+  "annal:type_id": "Instrument",
+  "annal:uri": "http://annalist.net:8000/annalist/c/MusicalInstruments/d/Instrument/clarinet/",
+  "annal:url": "/annalist/c/MusicalInstruments/d/Instrument/clarinet/",
+  "annal:id": "clarinet",
+  "@id": "./",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData",
+  "micat:instrument_type": "wind"
+}

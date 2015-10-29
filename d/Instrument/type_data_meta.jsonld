@@ -1,0 +1,11 @@
+{
+  "annal:type_id": "_entitytypedata",
+  "annal:uri": "http://annalist.net:8000/annalist/c/MusicalInstruments/d/Instrument/",
+  "annal:url": "http://annalist.net:8000/annalist/c/MusicalInstruments/d/Instrument/",
+  "annal:id": "Instrument",
+  "@id": "./",
+  "@type": [
+    "annal:Type_Data"
+  ],
+  "annal:type": "annal:Type_Data"
+}

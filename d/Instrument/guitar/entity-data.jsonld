@@ -1,0 +1,15 @@
+{
+  "rdfs:label": "Guitar (accoustic)",
+  "rdfs:comment": "String instrument with a sound box, fretted neck and six strings.",
+  "annal:type_id": "Instrument",
+  "annal:uri": "http://annalist.net:8000/annalist/c/MusicalInstruments/d/Instrument/guitar/",
+  "annal:url": "/annalist/c/MusicalInstruments/d/Instrument/guitar/",
+  "annal:id": "guitar",
+  "@id": "./",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData",
+  "micat:instrument_type": "string"
+}

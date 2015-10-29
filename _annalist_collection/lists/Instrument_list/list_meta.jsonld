@@ -1,0 +1,31 @@
+{
+  "rdfs:label": "List of instruments",
+  "rdfs:comment": "Presents a list of musical instruments",
+  "annal:id": "Instrument_list",
+  "annal:default_type": "Instrument",
+  "annal:type_id": "_list",
+  "annal:list_entity_selector": "micat:Instrument in [@type]",
+  "annal:display_type": "List",
+  "annal:list_fields": [
+    {
+      "annal:field_placement": "small:0,3",
+      "annal:field_id": "Entity_id"
+    },
+    {
+      "annal:field_placement": "small:3,3",
+      "annal:field_id": "InstrumentType"
+    },
+    {
+      "annal:field_placement": "small:6,6",
+      "annal:field_id": "Entity_label"
+    }
+  ],
+  "annal:uri": "http://annalist.net:8000/annalist/c/MusicalInstruments/d/_list/Instrument_list/",
+  "annal:url": "http://annalist.net:8000/annalist/c/MusicalInstruments/d/_list/Instrument_list/",
+  "annal:default_view": "Instrument_view",
+  "@id": "./",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:type": "annal:List"
+}

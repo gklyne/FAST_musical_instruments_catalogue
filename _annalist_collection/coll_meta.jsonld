@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Catalogue of musical instruments",
+  "rdfs:comment": "",
+  "annal:type_id": "_collection",
+  "annal:uri": "/annalist/c/MusicalInstruments/",
+  "annal:url": "http://annalist.net:8000/annalist/c/MusicalInstruments/",
+  "annal:default_list": "Instrument_list",
+  "annal:id": "MusicalInstruments",
+  "@id": "../",
+  "@type": [
+    "annal:Collection"
+  ],
+  "annal:type": "annal:Collection"
+}
