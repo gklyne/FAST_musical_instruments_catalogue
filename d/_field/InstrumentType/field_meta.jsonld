@@ -1,0 +1,25 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/InstrumentType",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:field_placement": "small:0,6",
+  "annal:field_render_type": "_enum_render_type/Text",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "annal:Text",
+  "annal:id": "InstrumentType",
+  "annal:placeholder": "(Instrument type; e.g. string, brass, keyboard, etcd.)",
+  "annal:property_uri": "micat:instrument_type",
+  "annal:tooltip": "Type or class of instrument",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "annal:uri": "http://annalist.net:8000/annalist/c/MusicalInstruments/d/_field/InstrumentType/",
+  "rdfs:comment": "# Instrument type\r\n\r\nType or class of instrument",
+  "rdfs:label": "Instrument type"
+}

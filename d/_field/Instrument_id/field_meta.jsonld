@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/Instrument_id",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "http://id.loc.gov/authorities/performanceMediums/mp2013015354",
+  "annal:field_entity_type": "micat:Instrument",
+  "annal:field_fields": [],
+  "annal:field_placement": "small:0,12",
+  "annal:field_ref_field": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "",
+  "annal:field_render_type": "_enum_render_type/URILink",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "annal:Identifier",
+  "annal:id": "Instrument_id",
+  "annal:placeholder": "(URI or CURIE of instrument type)",
+  "annal:property_uri": "micat:InstrumentTypeId",
+  "annal:repeat_label_add": "Add",
+  "annal:repeat_label_delete": "Remove",
+  "annal:superproperty_uri": [],
+  "annal:tooltip": "URI from LoC \"Medium of performance\" authority that indicates a type of instrument.  (Default value is generic musical instrument.)",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "# Instrument type id\r\n\r\nA URI that designates the type of instrument.  Should be based on LoC [Medium of performance](http://id.loc.gov/authorities/performanceMediums.html) thesaurus.\r\n\r\n## Example\r\n\r\n    http://id.loc.gov/authorities/performanceMediums/mp2013015154 (clarinet)\r\n\r\n",
+  "rdfs:label": "Instrument type Id"
+}

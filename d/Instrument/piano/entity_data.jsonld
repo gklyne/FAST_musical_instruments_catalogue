@@ -1,15 +1,20 @@
 {
-  "rdfs:label": "Grand piano",
-  "rdfs:comment": "Keyboard instrument with a mechanism that links key presses to hammers that strike strings stretched on a metal fram",
-  "annal:type_id": "Instrument",
-  "annal:uri": "http://annalist.net:8000/annalist/c/MusicalInstruments/d/Instrument/piano/",
-  "annal:url": "/annalist/c/MusicalInstruments/d/Instrument/piano/",
-  "annal:id": "piano",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/piano",
   "@type": [
     "micat:Instrument",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData",
-  "micat:instrument_type": "keyboard"
+  "annal:id": "piano",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "annal:uri": "http://annalist.net:8000/annalist/c/MusicalInstruments/d/Instrument/piano/",
+  "micat:instrument_type": "keyboard",
+  "rdfs:comment": "Keyboard instrument with a mechanism that links key presses to hammers that strike strings stretched on a metal fram",
+  "rdfs:label": "Grand piano"
 }

@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_vocab/pm",
+  "@type": [
+    "annal:Vocabulary"
+  ],
+  "annal:id": "pm",
+  "annal:type": "annal:Vocabulary",
+  "annal:type_id": "_vocab",
+  "annal:uri": "http://id.loc.gov/authorities/performanceMediums/",
+  "rdfs:comment": "# LoC Performance Medium\r\n\r\nFrom [Library of Congress Medium of Performance Thesaurus for Music](http://id.loc.gov/authorities/performanceMediums.html).",
+  "rdfs:label": "LoC Performance Medium",
+  "rdfs:seeAlso": []
+}

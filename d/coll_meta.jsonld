@@ -1,0 +1,20 @@
+{
+  "@context": [
+    {
+      "@base": "./"
+    },
+    "coll_context.jsonld"
+  ],
+  "@id": "../",
+  "@type": [
+    "annal:Collection"
+  ],
+  "annal:default_list": "Instrument_list",
+  "annal:id": "MusicalInstruments",
+  "annal:software_version": "0.5.9",
+  "annal:type": "annal:Collection",
+  "annal:type_id": "_coll",
+  "annal:uri": "/annalist/c/MusicalInstruments/",
+  "rdfs:comment": "",
+  "rdfs:label": "Catalogue of musical instruments"
+}
