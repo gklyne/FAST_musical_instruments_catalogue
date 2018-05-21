@@ -38,13 +38,18 @@
       "annal:property_uri": ""
     },
     {
-      "annal:field_id": "_field/InstrumentType",
+      "annal:field_id": "_field/Instrument_id",
       "annal:field_placement": "small:0,12",
       "annal:property_uri": ""
     },
     {
-      "annal:field_id": "_field/Instrument_id",
-      "annal:field_placement": "small:0,12",
+      "annal:field_id": "_field/Note_low",
+      "annal:field_placement": "",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/Note_high",
+      "annal:field_placement": "",
       "annal:property_uri": ""
     },
     {

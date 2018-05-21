@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/Note_high",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "C8",
+  "annal:field_entity_type": "micat:Instrument",
+  "annal:field_fields": [],
+  "annal:field_placement": "small:0,12;medium:6,6",
+  "annal:field_ref_field": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "",
+  "annal:field_render_type": "_enum_render_type/Text",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "annal:Text",
+  "annal:id": "Note_high",
+  "annal:placeholder": "(High note (SPN))",
+  "annal:property_uri": "sofa:maxNote",
+  "annal:repeat_label_add": "Add",
+  "annal:repeat_label_delete": "Remove",
+  "annal:superproperty_uri": [],
+  "annal:tooltip": "Pitch range: high note.\r\nIndicates the highest note that is normally playable by this instrument, represented in its symbolic form using Scientific Pitch Notation.\r\n",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "# Note range: high note\r\n\r\nIndicates the highest note that is normally playable by this instrument.\r\n\r\nThe note is represented by its symbolic form in [Scientific Pitch Notation](https://en.wikipedia.org/wiki/Scientific_pitch_notation) (SPN)\r\n\r\nDefault value is C8 (4186.01Hz, the highest note on a standard piano, per [Wikipedia](https://en.wikipedia.org/wiki/Piano_key_frequencies)).\r\n\r\nSee also: [Wikipedia: Musical note](https://en.wikipedia.org/wiki/Musical_note).",
+  "rdfs:label": "Note range: high"
+}
