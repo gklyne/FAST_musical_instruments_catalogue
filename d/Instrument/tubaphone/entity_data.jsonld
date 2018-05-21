@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/tubaphone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "tubaphone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "", 
+    "rdfs:comment": "## Tubaphone\n\nTubaphone", 
+    "rdfs:label": "Tubaphone", 
+    "sofa:maxNote": "108", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "84", 
+    "sofa:minPitch": ""
+}

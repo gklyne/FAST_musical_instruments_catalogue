@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/chalumeau", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "chalumeau", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.chalumeau", 
+    "rdfs:comment": "## Chalumeau\n\nChalumeau", 
+    "rdfs:label": "Chalumeau", 
+    "sofa:maxNote": "62", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "48", 
+    "sofa:minPitch": ""
+}

@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/quena", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "quena", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.quena", 
+    "rdfs:comment": "## Quena\n\nQuena", 
+    "rdfs:label": "Quena", 
+    "sofa:maxNote": "92", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "72", 
+    "sofa:minPitch": ""
+}

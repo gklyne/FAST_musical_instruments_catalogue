@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/chains", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "chains", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "", 
+    "rdfs:comment": "## Chains\n\nChains", 
+    "rdfs:label": "Chains", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
+}

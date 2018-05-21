@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/celesta", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "celesta", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.celesta", 
+    "rdfs:comment": "## Celesta\n\nCelesta", 
+    "rdfs:label": "Celesta", 
+    "sofa:maxNote": "113", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "48", 
+    "sofa:minPitch": ""
+}

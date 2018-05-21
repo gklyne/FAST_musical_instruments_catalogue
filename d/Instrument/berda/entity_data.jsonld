@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/berda", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "berda", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.tambura", 
+    "rdfs:comment": "## Berda\n\nBerda", 
+    "rdfs:label": "Berda", 
+    "sofa:maxNote": "66", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "28", 
+    "sofa:minPitch": ""
+}

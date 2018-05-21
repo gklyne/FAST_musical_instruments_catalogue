@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/posthorn", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "posthorn", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.posthorn", 
+    "rdfs:comment": "## Posthorn\n\nPosthorn", 
+    "rdfs:label": "Posthorn", 
+    "sofa:maxNote": "67", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "34", 
+    "sofa:minPitch": ""
+}

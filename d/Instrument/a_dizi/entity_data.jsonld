@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/a_dizi", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "a_dizi", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.di-zi", 
+    "rdfs:comment": "## A Dizi\n\nA Dizi", 
+    "rdfs:label": "A Dizi", 
+    "sofa:maxNote": "102", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "76", 
+    "sofa:minPitch": ""
+}

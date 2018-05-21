@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/timbales", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "timbales", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/drum.timbale", 
+    "rdfs:comment": "## Timbales\n\nTimbales", 
+    "rdfs:label": "Timbales", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
+}

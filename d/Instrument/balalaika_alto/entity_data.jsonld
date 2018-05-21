@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/balalaika_alto", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "balalaika_alto", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.balalaika.alto", 
+    "rdfs:comment": "## Alto Balalaika\n\nAlto Balalaika ", 
+    "rdfs:label": "Alto Balalaika", 
+    "sofa:maxNote": "74", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "52", 
+    "sofa:minPitch": ""
+}

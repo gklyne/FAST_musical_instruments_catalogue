@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/electric_guitar", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "electric_guitar", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.guitar.electric", 
+    "rdfs:comment": "## Electric Guitar\n\nElectric Guitar", 
+    "rdfs:label": "Electric Guitar", 
+    "sofa:maxNote": "86", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "40", 
+    "sofa:minPitch": ""
+}

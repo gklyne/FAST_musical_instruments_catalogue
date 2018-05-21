@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/double_contrabass_flute", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "double_contrabass_flute", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute.double-contrabass", 
+    "rdfs:comment": "## Double Contrabass Flute\n\nDouble Contrabass Flute", 
+    "rdfs:label": "Double Contrabass Flute", 
+    "sofa:maxNote": "53", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "24", 
+    "sofa:minPitch": ""
+}

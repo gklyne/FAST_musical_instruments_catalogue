@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/slap", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "slap", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/effect.slap", 
+    "rdfs:comment": "## Slap\n\nSlap", 
+    "rdfs:label": "Slap", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
+}

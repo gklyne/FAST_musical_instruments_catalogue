@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/5_string_electric_bass_high_c", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "5_string_electric_bass_high_c", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.bass.electric", 
+    "rdfs:comment": "## 5-str. Electric Bass\n\n5-string Electric Bass (High C/Tenor)", 
+    "rdfs:label": "5-str. Electric Bass", 
+    "sofa:maxNote": "65", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "23", 
+    "sofa:minPitch": ""
+}

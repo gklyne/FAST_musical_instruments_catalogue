@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/triangle", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "triangle", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/metal.triangle", 
+    "rdfs:comment": "## Triangle\n\nTriangle", 
+    "rdfs:label": "Triangle", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
+}

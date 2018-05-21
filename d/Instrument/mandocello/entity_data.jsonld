@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/mandocello", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "mandocello", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.mandocello", 
+    "rdfs:comment": "## Mandocello\n\nMandocello", 
+    "rdfs:label": "Mandocello", 
+    "sofa:maxNote": "75", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "36", 
+    "sofa:minPitch": ""
+}

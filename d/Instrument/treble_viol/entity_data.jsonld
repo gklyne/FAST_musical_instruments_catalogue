@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/treble_viol", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "treble_viol", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/strings.viol.treble", 
+    "rdfs:comment": "## Treble Viol\n\nTreble Viol", 
+    "rdfs:label": "Treble Viol", 
+    "sofa:maxNote": "86", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "50", 
+    "sofa:minPitch": ""
+}

@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/tenor_trombone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "tenor_trombone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.trombone.tenor", 
+    "rdfs:comment": "## Tenor Trombone\n\nTenor Trombone", 
+    "rdfs:label": "Tenor Trombone", 
+    "sofa:maxNote": "70", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "40", 
+    "sofa:minPitch": ""
+}

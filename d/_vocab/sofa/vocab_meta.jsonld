@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_vocab/sofa",
+  "@type": [
+    "annal:Vocabulary"
+  ],
+  "annal:id": "sofa",
+  "annal:type": "annal:Vocabulary",
+  "annal:type_id": "_vocab",
+  "annal:uri": "http://meld.linkedmusic.org/sofa/terms/",
+  "rdfs:comment": "# SOFA application namespace\r\n\r\nSOFA is the SOFA Ontological Fragment Assembler, a semantic music system which illustrates the assembly of a music composition using semantically annotated music fragments.\r\n\r\nThe system demonstrates architectural design principles which may have more general applicability in the semantic music domain, notably the adoption of the Linked Data Platform to realize each component of the end-to-end pipeline so that data specialization takes the place of service specialization.\r\n",
+  "rdfs:label": "SOFA app namespace",
+  "rdfs:seeAlso": []
+}

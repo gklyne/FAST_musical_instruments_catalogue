@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/treble_flute", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "treble_flute", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute", 
+    "rdfs:comment": "## Treble Flute\n\nTreble Flute pitched a fifth above concert flute", 
+    "rdfs:label": "Treble Flute", 
+    "sofa:maxNote": "100", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "67", 
+    "sofa:minPitch": ""
+}

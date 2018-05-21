@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/wagner_tuba", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "wagner_tuba", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.wagner-tuba", 
+    "rdfs:comment": "## Wagner Tuba\n\nF Wagner Tuba (generic)", 
+    "rdfs:label": "Wagner Tuba", 
+    "sofa:maxNote": "74", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "35", 
+    "sofa:minPitch": ""
+}

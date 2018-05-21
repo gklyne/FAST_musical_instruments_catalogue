@@ -1,20 +1,17 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/violin",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "violin",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "annal:uri": "http://annalist.net:8000/annalist/c/MusicalInstruments/d/Instrument/violin/",
-  "micat:instrument_type": "string",
-  "rdfs:comment": "A stringed instrument with sound box and neck without frets, which produces notes usually by drawing a boxm over the strings or sometimes by plucking the strings.",
-  "rdfs:label": "Standard violin"
+    "@id": "Instrument/violin", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "violin", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/strings.violin", 
+    "rdfs:comment": "## Violin\n\nViolin", 
+    "rdfs:label": "Violin", 
+    "sofa:maxNote": "88", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "55", 
+    "sofa:minPitch": ""
 }

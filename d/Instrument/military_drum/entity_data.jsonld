@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/military_drum", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "military_drum", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/drum.snare-drum", 
+    "rdfs:comment": "## Field Drum\n\nMilitary Field Drum", 
+    "rdfs:label": "Field Drum", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
+}

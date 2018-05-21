@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/baryton", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "baryton", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/strings.baryton", 
+    "rdfs:comment": "## Baryton\n\nBaryton", 
+    "rdfs:label": "Baryton", 
+    "sofa:maxNote": "74", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "33", 
+    "sofa:minPitch": ""
+}

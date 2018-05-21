@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/alto_kelhorn", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "alto_kelhorn", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "", 
+    "rdfs:comment": "## Alto Kelhorn\n\nAlto Kelhorn", 
+    "rdfs:label": "Alto Kelhorn", 
+    "sofa:maxNote": "67", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "53", 
+    "sofa:minPitch": ""
+}

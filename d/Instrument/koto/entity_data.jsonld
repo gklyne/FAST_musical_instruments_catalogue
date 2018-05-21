@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/koto", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "koto", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.koto", 
+    "rdfs:comment": "## Koto\n\nKoto", 
+    "rdfs:label": "Koto", 
+    "sofa:maxNote": "83", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "43", 
+    "sofa:minPitch": ""
+}

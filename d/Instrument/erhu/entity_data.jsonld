@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/erhu", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "erhu", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/strings.erhu", 
+    "rdfs:comment": "## Erhu\n\nErhu", 
+    "rdfs:label": "Erhu", 
+    "sofa:maxNote": "93", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "62", 
+    "sofa:minPitch": ""
+}

@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/baritone_ukulele", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "baritone_ukulele", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.ukulele.tenor", 
+    "rdfs:comment": "## Baritone Ukulele\n\nBaritone Ukulele", 
+    "rdfs:label": "Baritone Ukulele", 
+    "sofa:maxNote": "76", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "50", 
+    "sofa:minPitch": ""
+}

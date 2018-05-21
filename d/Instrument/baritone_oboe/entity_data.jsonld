@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/baritone_oboe", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "baritone_oboe", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.oboe.bass", 
+    "rdfs:comment": "## Baritone Oboe\n\nBaritone Oboe", 
+    "rdfs:label": "Baritone Oboe", 
+    "sofa:maxNote": "76", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "47", 
+    "sofa:minPitch": ""
+}

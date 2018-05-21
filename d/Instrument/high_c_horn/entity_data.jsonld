@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/high_c_horn", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "high_c_horn", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.natural-horn", 
+    "rdfs:comment": "## High C Horn\n\nHigh C Horn", 
+    "rdfs:label": "High C Horn", 
+    "sofa:maxNote": "75", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "46", 
+    "sofa:minPitch": ""
+}

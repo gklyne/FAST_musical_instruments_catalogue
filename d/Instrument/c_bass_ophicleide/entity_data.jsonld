@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/c_bass_ophicleide", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "c_bass_ophicleide", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.ophicleide", 
+    "rdfs:comment": "## C Bass Ophicleide\n\nC Bass Ophicleide", 
+    "rdfs:label": "C Bass Ophicleide", 
+    "sofa:maxNote": "63", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "35", 
+    "sofa:minPitch": ""
+}

@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/orff_alto_metallophone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "orff_alto_metallophone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.metallophone.alto", 
+    "rdfs:comment": "## Orff Alto Metallophone\n\nOrff Alto Metallophone", 
+    "rdfs:label": "Orff Alto Metallophone", 
+    "sofa:maxNote": "81", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "60", 
+    "sofa:minPitch": ""
+}

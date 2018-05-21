@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/ukulele", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "ukulele", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.ukulele", 
+    "rdfs:comment": "## Ukulele\n\nUkulele", 
+    "rdfs:label": "Ukulele", 
+    "sofa:maxNote": "81", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "60", 
+    "sofa:minPitch": ""
+}

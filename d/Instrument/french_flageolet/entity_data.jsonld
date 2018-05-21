@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/french_flageolet", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "french_flageolet", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flageolet", 
+    "rdfs:comment": "## French Flageolet\n\n4 hole Flageolet", 
+    "rdfs:label": "French Flageolet", 
+    "sofa:maxNote": "105", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "80", 
+    "sofa:minPitch": ""
+}

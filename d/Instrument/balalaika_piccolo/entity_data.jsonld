@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/balalaika_piccolo", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "balalaika_piccolo", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.balalaika.piccolo", 
+    "rdfs:comment": "## Piccolo Balalaika\n\nPiccolo Balalaika (the smallest and rarest of the family)", 
+    "rdfs:label": "Piccolo Balalaika", 
+    "sofa:maxNote": "98", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "71", 
+    "sofa:minPitch": ""
+}

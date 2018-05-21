@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/eb_contrabass_ophicleide", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "eb_contrabass_ophicleide", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.ophicleide", 
+    "rdfs:comment": "## E\u266d Contrabass Ophicleide\n\nE\u266d Contrabass Ophicleide", 
+    "rdfs:label": "E\u266d Contrabass Ophicleide", 
+    "sofa:maxNote": "55", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "26", 
+    "sofa:minPitch": ""
+}

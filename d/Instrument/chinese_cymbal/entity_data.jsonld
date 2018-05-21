@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/chinese_cymbal", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "chinese_cymbal", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/metal.cymbal.chinese", 
+    "rdfs:comment": "## Chinese Cymbal\n\nChinese Cymbal", 
+    "rdfs:label": "Chinese Cymbal", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
+}

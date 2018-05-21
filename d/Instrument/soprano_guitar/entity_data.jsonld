@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/soprano_guitar", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "soprano_guitar", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.guitar", 
+    "rdfs:comment": "## Soprano Guitar\n\nSoprano Guitar", 
+    "rdfs:label": "Soprano Guitar", 
+    "sofa:maxNote": "93", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "52", 
+    "sofa:minPitch": ""
+}

@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/contrabass_saxophone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "contrabass_saxophone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.saxophone.contrabass", 
+    "rdfs:comment": "## Contrabass Saxophone\n\nContrabass Saxophone", 
+    "rdfs:label": "Contrabass Saxophone", 
+    "sofa:maxNote": "53", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "25", 
+    "sofa:minPitch": ""
+}

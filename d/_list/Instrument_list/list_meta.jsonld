@@ -9,22 +9,23 @@
   "@type": [
     "annal:List"
   ],
-  "annal:default_type": "Instrument",
-  "annal:default_view": "Instrument_view",
+  "annal:default_type": "_type/Instrument",
+  "annal:default_view": "_view/Instrument_view",
   "annal:display_type": "_enum_list_type/List",
   "annal:id": "Instrument_list",
   "annal:list_entity_selector": "micat:Instrument in [@type]",
+  "annal:list_entity_type": "micat:Instrument",
   "annal:list_fields": [
     {
-      "annal:field_id": "Entity_id",
+      "annal:field_id": "_field/Entity_id",
       "annal:field_placement": "small:0,3"
     },
     {
-      "annal:field_id": "InstrumentType",
+      "annal:field_id": "_field/Instrument_id",
       "annal:field_placement": "small:3,3"
     },
     {
-      "annal:field_id": "Entity_label",
+      "annal:field_id": "_field/Entity_label",
       "annal:field_placement": "small:6,6"
     }
   ],

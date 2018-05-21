@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/timpani", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "timpani", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/drum.timpani", 
+    "rdfs:comment": "## Timpani\n\nTimpani", 
+    "rdfs:label": "Timpani", 
+    "sofa:maxNote": "60", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "38", 
+    "sofa:minPitch": ""
+}

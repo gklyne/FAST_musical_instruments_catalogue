@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/subcontrabass_saxophone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "subcontrabass_saxophone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.saxophone.subcontrabass", 
+    "rdfs:comment": "## Subcontrabass Saxophone\n\nSubcontrabass Saxophone", 
+    "rdfs:label": "Subcontrabass Saxophone", 
+    "sofa:maxNote": "52", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "20", 
+    "sofa:minPitch": ""
+}

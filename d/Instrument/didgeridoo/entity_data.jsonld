@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/didgeridoo", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "didgeridoo", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.didgeridoo", 
+    "rdfs:comment": "## Didgeridoo\n\nDidgeridoo", 
+    "rdfs:label": "Didgeridoo", 
+    "sofa:maxNote": "36", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "24", 
+    "sofa:minPitch": ""
+}

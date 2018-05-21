@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/orff_alto_glockenspiel", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "orff_alto_glockenspiel", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.glockenspiel.alto", 
+    "rdfs:comment": "## Orff Alto Glockenspiel\n\nOrff Alto Glockenspiel", 
+    "rdfs:label": "Orff Alto Glockenspiel", 
+    "sofa:maxNote": "93", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "72", 
+    "sofa:minPitch": ""
+}

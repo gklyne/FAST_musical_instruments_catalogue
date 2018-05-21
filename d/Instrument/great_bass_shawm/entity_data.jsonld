@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/great_bass_shawm", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "great_bass_shawm", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.shawm", 
+    "rdfs:comment": "## Great Bass Shawm\n\nGreat Bass Shawm", 
+    "rdfs:label": "Great Bass Shawm", 
+    "sofa:maxNote": "52", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "36", 
+    "sofa:minPitch": ""
+}

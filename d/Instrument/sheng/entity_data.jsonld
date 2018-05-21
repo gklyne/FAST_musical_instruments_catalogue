@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/sheng", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "sheng", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.sheng", 
+    "rdfs:comment": "## Sheng\n\nSheng (generic)", 
+    "rdfs:label": "Sheng", 
+    "sofa:maxNote": "90", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "55", 
+    "sofa:minPitch": ""
+}

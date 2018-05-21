@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/soprano_steel_drums", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "soprano_steel_drums", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/metal.steel-drums", 
+    "rdfs:comment": "## Soprano Steel Drums\n\nSoprano Steel Drums", 
+    "rdfs:label": "Soprano Steel Drums", 
+    "sofa:maxNote": "88", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "60", 
+    "sofa:minPitch": ""
+}

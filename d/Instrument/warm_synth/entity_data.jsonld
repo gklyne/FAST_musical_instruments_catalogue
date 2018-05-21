@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/warm_synth", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "warm_synth", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/synth.pad.warm", 
+    "rdfs:comment": "## Warm Synthesizer\n\nWarm Pad Synthesizer", 
+    "rdfs:label": "Warm Synthesizer", 
+    "sofa:maxNote": "96", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "36", 
+    "sofa:minPitch": ""
+}

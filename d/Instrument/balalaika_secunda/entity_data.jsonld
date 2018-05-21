@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/balalaika_secunda", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "balalaika_secunda", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.balalaika.secunda", 
+    "rdfs:comment": "## Secunda Balalaika\n\nSecunda Balalaika", 
+    "rdfs:label": "Secunda Balalaika", 
+    "sofa:maxNote": "79", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "57", 
+    "sofa:minPitch": ""
+}

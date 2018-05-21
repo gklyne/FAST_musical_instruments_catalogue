@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/low_bb_horn", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "low_bb_horn", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.natural-horn", 
+    "rdfs:comment": "## Horn in B\u266d basso\n\nLow B\u266d Horn", 
+    "rdfs:label": "Horn in B\u266d basso", 
+    "sofa:maxNote": "65", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "32", 
+    "sofa:minPitch": ""
+}

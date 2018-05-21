@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/brightness_synth", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "brightness_synth", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/synth.effects.brightness", 
+    "rdfs:comment": "## Brightness Synthesizer\n\nBrightness Effect Synthesizer", 
+    "rdfs:label": "Brightness Synthesizer", 
+    "sofa:maxNote": "96", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "36", 
+    "sofa:minPitch": ""
+}

@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/mezzo_soprano_saxophone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "mezzo_soprano_saxophone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.saxophone.mezzo-soprano", 
+    "rdfs:comment": "## Mezzo-Soprano Saxophone\n\nMezzo-Soprano Saxophone", 
+    "rdfs:label": "Mezzo-Soprano Saxophone", 
+    "sofa:maxNote": "82", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "51", 
+    "sofa:minPitch": ""
+}

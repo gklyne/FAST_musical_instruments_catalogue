@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/octavin", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "octavin", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.octavin", 
+    "rdfs:comment": "## Octavin\n\nOctavin", 
+    "rdfs:label": "Octavin", 
+    "sofa:maxNote": "86", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "56", 
+    "sofa:minPitch": ""
+}

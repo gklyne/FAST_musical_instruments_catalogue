@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/bass_crumhorn", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bass_crumhorn", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.crumhorn.bass", 
+    "rdfs:comment": "## Bass Crumhorn\n\nBass Crumhorn", 
+    "rdfs:label": "Bass Crumhorn", 
+    "sofa:maxNote": "55", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "41", 
+    "sofa:minPitch": ""
+}

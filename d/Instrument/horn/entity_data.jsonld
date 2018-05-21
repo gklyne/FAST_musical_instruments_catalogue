@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/horn", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "horn", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.french-horn", 
+    "rdfs:comment": "## Horn in F\n\nHorn", 
+    "rdfs:label": "Horn in F", 
+    "sofa:maxNote": "69", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "41", 
+    "sofa:minPitch": ""
+}

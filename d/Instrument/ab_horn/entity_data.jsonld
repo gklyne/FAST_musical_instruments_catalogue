@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/ab_horn", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "ab_horn", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.natural-horn", 
+    "rdfs:comment": "## Horn in A\u266d\n\nA\u266d Horn", 
+    "rdfs:label": "Horn in A\u266d", 
+    "sofa:maxNote": "75", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "42", 
+    "sofa:minPitch": ""
+}

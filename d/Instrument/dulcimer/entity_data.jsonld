@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/dulcimer", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "dulcimer", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.hammer-dulcimer", 
+    "rdfs:comment": "## Dulcimer\n\nDulcimer", 
+    "rdfs:label": "Dulcimer", 
+    "sofa:maxNote": "86", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "48", 
+    "sofa:minPitch": ""
+}

@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/alto_viol", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "alto_viol", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/strings.viol.alto", 
+    "rdfs:comment": "## Alto Viol\n\nAlto Viol (a smaller version of the tenor viol tuned higher)", 
+    "rdfs:label": "Alto Viol", 
+    "sofa:maxNote": "81", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "45", 
+    "sofa:minPitch": ""
+}

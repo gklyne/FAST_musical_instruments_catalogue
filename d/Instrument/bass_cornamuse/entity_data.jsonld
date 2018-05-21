@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/bass_cornamuse", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bass_cornamuse", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.cornamuse", 
+    "rdfs:comment": "## Bass Cornamuse\n\nBass Cornamuse", 
+    "rdfs:label": "Bass Cornamuse", 
+    "sofa:maxNote": "55", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "41", 
+    "sofa:minPitch": ""
+}

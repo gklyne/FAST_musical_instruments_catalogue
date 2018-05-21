@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/bassoon", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bassoon", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.bassoon", 
+    "rdfs:comment": "## Bassoon\n\nBassoon", 
+    "rdfs:label": "Bassoon", 
+    "sofa:maxNote": "69", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "34", 
+    "sofa:minPitch": ""
+}

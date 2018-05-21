@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/melody_saxophone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "melody_saxophone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.saxophone.melody", 
+    "rdfs:comment": "## Melody Saxophone\n\nTenor Saxophone in C", 
+    "rdfs:label": "Melody Saxophone", 
+    "sofa:maxNote": "77", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "46", 
+    "sofa:minPitch": ""
+}

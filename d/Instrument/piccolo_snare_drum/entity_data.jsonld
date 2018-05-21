@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/piccolo_snare_drum", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "piccolo_snare_drum", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/drum.snare-drum", 
+    "rdfs:comment": "## Piccolo Snare\n\nPiccolo Snare Drum", 
+    "rdfs:label": "Piccolo Snare", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
+}

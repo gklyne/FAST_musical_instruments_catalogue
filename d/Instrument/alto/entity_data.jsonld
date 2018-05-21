@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/alto", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "alto", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/voice.alto", 
+    "rdfs:comment": "## Alto\n\nAlto", 
+    "rdfs:label": "Alto", 
+    "sofa:maxNote": "74", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "55", 
+    "sofa:minPitch": ""
+}

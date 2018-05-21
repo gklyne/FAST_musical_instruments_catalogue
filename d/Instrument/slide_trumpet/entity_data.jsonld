@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/slide_trumpet", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "slide_trumpet", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.trumpet.slide", 
+    "rdfs:comment": "## Slide Trumpet\n\nSlideTrumpet in B\u266d", 
+    "rdfs:label": "Slide Trumpet", 
+    "sofa:maxNote": "80", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "52", 
+    "sofa:minPitch": ""
+}

@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/c_duduk", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "c_duduk", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.duduk", 
+    "rdfs:comment": "## C Duduk\n\nC Duduk", 
+    "rdfs:label": "C Duduk", 
+    "sofa:maxNote": "84", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "69", 
+    "sofa:minPitch": ""
+}

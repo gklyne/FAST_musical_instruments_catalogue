@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/upright_piano", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "upright_piano", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.piano.upright", 
+    "rdfs:comment": "## Upright Piano\n\nPiano", 
+    "rdfs:label": "Upright Piano", 
+    "sofa:maxNote": "108", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "21", 
+    "sofa:minPitch": ""
+}

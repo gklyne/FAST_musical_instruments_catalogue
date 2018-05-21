@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/rotary_organ", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "rotary_organ", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.organ.rotary", 
+    "rdfs:comment": "## Rotary Organ\n\nElectronic Rotary Organ (usually means Hammond with Leslie Speaker)", 
+    "rdfs:label": "Rotary Organ", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
+}

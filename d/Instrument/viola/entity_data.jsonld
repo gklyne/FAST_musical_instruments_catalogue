@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/viola", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "viola", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/strings.viola", 
+    "rdfs:comment": "## Viola\n\nViola", 
+    "rdfs:label": "Viola", 
+    "sofa:maxNote": "79", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "48", 
+    "sofa:minPitch": ""
+}

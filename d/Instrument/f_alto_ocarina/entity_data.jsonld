@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/f_alto_ocarina", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "f_alto_ocarina", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.ocarina", 
+    "rdfs:comment": "## F Alto Ocarina\n\nF Alto Ocarina", 
+    "rdfs:label": "F Alto Ocarina", 
+    "sofa:maxNote": "79", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "65", 
+    "sofa:minPitch": ""
+}

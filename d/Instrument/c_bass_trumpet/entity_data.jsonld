@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/c_bass_trumpet", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "c_bass_trumpet", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.trumpet.bass", 
+    "rdfs:comment": "## Bass Trumpet in C\n\nBass Trumpet in C", 
+    "rdfs:label": "Bass Trumpet in C", 
+    "sofa:maxNote": "66", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "39", 
+    "sofa:minPitch": ""
+}

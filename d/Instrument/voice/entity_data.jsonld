@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/voice", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "voice", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/voice.vocals", 
+    "rdfs:comment": "## Voice\n\nVoice", 
+    "rdfs:label": "Voice", 
+    "sofa:maxNote": "79", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "40", 
+    "sofa:minPitch": ""
+}

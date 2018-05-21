@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/crystal_synth", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "crystal_synth", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/synth.effects.crystal", 
+    "rdfs:comment": "## Crystal Synthesizer\n\nCrystal Effect Synthesizer", 
+    "rdfs:label": "Crystal Synthesizer", 
+    "sofa:maxNote": "96", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "36", 
+    "sofa:minPitch": ""
+}

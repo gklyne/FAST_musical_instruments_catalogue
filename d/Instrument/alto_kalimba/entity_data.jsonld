@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/alto_kalimba", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "alto_kalimba", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.kalimba", 
+    "rdfs:comment": "## Alto Kalimba\n\nAlto Kalimba", 
+    "rdfs:label": "Alto Kalimba", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
+}

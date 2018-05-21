@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/orff_soprano_xylophone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "orff_soprano_xylophone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.xylophone.soprano", 
+    "rdfs:comment": "## Orff Soprano Xylophone\n\nOrff Soprano Xylophone", 
+    "rdfs:label": "Orff Soprano Xylophone", 
+    "sofa:maxNote": "93", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "72", 
+    "sofa:minPitch": ""
+}

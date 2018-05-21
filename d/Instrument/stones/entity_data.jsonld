@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/stones", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "stones", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/rattle.lava-stones", 
+    "rdfs:comment": "## Stones\n\nStones", 
+    "rdfs:label": "Stones", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
+}

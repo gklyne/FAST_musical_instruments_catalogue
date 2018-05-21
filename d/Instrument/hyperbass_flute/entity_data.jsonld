@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/hyperbass_flute", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "hyperbass_flute", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute.double-contrabass", 
+    "rdfs:comment": "## Hyperbass Flute\n\nHyperbass Flute", 
+    "rdfs:label": "Hyperbass Flute", 
+    "sofa:maxNote": "42", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "12", 
+    "sofa:minPitch": ""
+}

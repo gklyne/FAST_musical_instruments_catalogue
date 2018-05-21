@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/bass_saxophone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bass_saxophone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.saxophone.bass", 
+    "rdfs:comment": "## Bass Saxophone\n\nBass Saxophone", 
+    "rdfs:label": "Bass Saxophone", 
+    "sofa:maxNote": "65", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "32", 
+    "sofa:minPitch": ""
+}

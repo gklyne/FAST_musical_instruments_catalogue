@@ -1,21 +1,17 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/clarinet",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "clarinet",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "annal:uri": "http://annalist.net:8000/annalist/c/MusicalInstruments/d/Instrument/clarinet/",
-  "micat:InstrumentTypeId": "http://id.loc.gov/authorities/performanceMediums/mp2013015354",
-  "micat:instrument_type": "wind",
-  "rdfs:comment": "An approximately tubular instrument with a mouthpiece, a reed which vibrates in an airflow created by blowing into the mouthpiece, and holes which are covered or uncovered by fingered keys to change the pitch of the note thus produced.",
-  "rdfs:label": "Clarinet"
+    "@id": "Instrument/clarinet", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "clarinet", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.clarinet", 
+    "rdfs:comment": "## Clarinet\n\nB\u266d Clarinet (generic)", 
+    "rdfs:label": "Clarinet", 
+    "sofa:maxNote": "89", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "50", 
+    "sofa:minPitch": ""
 }

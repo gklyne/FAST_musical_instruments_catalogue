@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/splash_cymbal", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "splash_cymbal", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/metal.cymbal.splash", 
+    "rdfs:comment": "## Splash Cymbal\n\nSplash Cymbal", 
+    "rdfs:label": "Splash Cymbal", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
+}

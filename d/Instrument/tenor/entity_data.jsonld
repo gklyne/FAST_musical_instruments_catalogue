@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/tenor", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "tenor", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/voice.tenor", 
+    "rdfs:comment": "## Tenor\n\nTenor", 
+    "rdfs:label": "Tenor", 
+    "sofa:maxNote": "69", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "48", 
+    "sofa:minPitch": ""
+}

@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/baritone_horn_treble", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "baritone_horn_treble", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.baritone-horn", 
+    "rdfs:comment": "## Baritone Horn\n\nBaritone Horn", 
+    "rdfs:label": "Baritone Horn", 
+    "sofa:maxNote": "67", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "40", 
+    "sofa:minPitch": ""
+}

@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/reed_organ", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "reed_organ", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.organ.reed", 
+    "rdfs:comment": "## Reed Organ\n\nReed Organ", 
+    "rdfs:label": "Reed Organ", 
+    "sofa:maxNote": "89", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "29", 
+    "sofa:minPitch": ""
+}

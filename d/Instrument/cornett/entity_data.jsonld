@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/cornett", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "cornett", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.cornett", 
+    "rdfs:comment": "## Cornett\n\nSoprano Cornett (generic)", 
+    "rdfs:label": "Cornett", 
+    "sofa:maxNote": "83", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "60", 
+    "sofa:minPitch": ""
+}

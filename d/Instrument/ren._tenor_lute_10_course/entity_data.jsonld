@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/ren._tenor_lute_10_course", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "ren._tenor_lute_10_course", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.lute", 
+    "rdfs:comment": "## Lute\n\nRen. Tenor Lute (10-course)", 
+    "rdfs:label": "Lute", 
+    "sofa:maxNote": "79", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "36", 
+    "sofa:minPitch": ""
+}
