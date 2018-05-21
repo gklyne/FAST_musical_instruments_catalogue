@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/alto_mandola", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "alto_mandola", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.mandola", 
+    "rdfs:comment": "## Alto Mandola\n\nMandola Viola tuning", 
+    "rdfs:label": "Alto Mandola", 
+    "sofa:maxNote": "87", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "48", 
+    "sofa:minPitch": ""
+}

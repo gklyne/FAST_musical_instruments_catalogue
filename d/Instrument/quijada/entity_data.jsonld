@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/quijada", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "quijada", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/rattle.jawbone", 
+    "rdfs:comment": "## Quijada\n\nQuijada", 
+    "rdfs:label": "Quijada", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
+}

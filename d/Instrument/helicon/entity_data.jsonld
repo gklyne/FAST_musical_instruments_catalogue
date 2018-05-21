@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/helicon", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "helicon", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.helicon", 
+    "rdfs:comment": "## Helicon\n\nHelicon", 
+    "rdfs:label": "Helicon", 
+    "sofa:maxNote": "58", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "28", 
+    "sofa:minPitch": ""
+}

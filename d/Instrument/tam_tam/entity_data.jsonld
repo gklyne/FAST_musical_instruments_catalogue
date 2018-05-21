@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/tam_tam", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "tam_tam", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/metal.tamtam", 
+    "rdfs:comment": "## Tam-Tam\n\nTam-Tam", 
+    "rdfs:label": "Tam-Tam", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
+}

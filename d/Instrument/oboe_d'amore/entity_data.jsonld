@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/oboe_d'amore", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "oboe_d'amore", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.oboe-damore", 
+    "rdfs:comment": "## Oboe d'amore\n\nOboe d'amore", 
+    "rdfs:label": "Oboe d'amore", 
+    "sofa:maxNote": "84", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "56", 
+    "sofa:minPitch": ""
+}

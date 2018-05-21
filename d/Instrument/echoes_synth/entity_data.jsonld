@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/echoes_synth", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "echoes_synth", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/synth.effects.echoes", 
+    "rdfs:comment": "## Echoes Synthesizer\n\nEchoes Effect Synthesizer", 
+    "rdfs:label": "Echoes Synthesizer", 
+    "sofa:maxNote": "96", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "36", 
+    "sofa:minPitch": ""
+}

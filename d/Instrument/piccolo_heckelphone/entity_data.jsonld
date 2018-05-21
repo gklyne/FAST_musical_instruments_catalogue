@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/piccolo_heckelphone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "piccolo_heckelphone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.heckelphone.piccolo", 
+    "rdfs:comment": "## Piccolo Heckelphone\n\nPiccolo Heckelphone", 
+    "rdfs:label": "Piccolo Heckelphone", 
+    "sofa:maxNote": "92", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "63", 
+    "sofa:minPitch": ""
+}

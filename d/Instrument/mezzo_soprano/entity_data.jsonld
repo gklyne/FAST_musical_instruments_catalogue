@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/mezzo_soprano", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "mezzo_soprano", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/voice.mezzo-soprano", 
+    "rdfs:comment": "## Mezzo-soprano\n\nMezzo-soprano", 
+    "rdfs:label": "Mezzo-soprano", 
+    "sofa:maxNote": "77", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "57", 
+    "sofa:minPitch": ""
+}

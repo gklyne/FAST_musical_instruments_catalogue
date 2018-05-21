@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/lute", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "lute", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.lute", 
+    "rdfs:comment": "## Lute\n\nLute", 
+    "rdfs:label": "Lute", 
+    "sofa:maxNote": "79", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "33", 
+    "sofa:minPitch": ""
+}

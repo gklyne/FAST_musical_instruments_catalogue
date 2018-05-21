@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/contra_alto_clarinet", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "contra_alto_clarinet", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.clarinet.contra-alto", 
+    "rdfs:comment": "## Contra-alto Clarinet\n\nContra-alto Clarinet", 
+    "rdfs:label": "Contra-alto Clarinet", 
+    "sofa:maxNote": "70", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "30", 
+    "sofa:minPitch": ""
+}

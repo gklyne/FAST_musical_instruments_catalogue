@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/tenor_viol", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "tenor_viol", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/strings.viol.tenor", 
+    "rdfs:comment": "## Tenor Viol\n\nTenor Viol", 
+    "rdfs:label": "Tenor Viol", 
+    "sofa:maxNote": "79", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "43", 
+    "sofa:minPitch": ""
+}

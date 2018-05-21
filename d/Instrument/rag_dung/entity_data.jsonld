@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/rag_dung", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "rag_dung", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.rag-dung", 
+    "rdfs:comment": "## Rag Dung\n\nRag Dung (Tibetan Trumpet)", 
+    "rdfs:label": "Rag Dung", 
+    "sofa:maxNote": "67", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "34", 
+    "sofa:minPitch": ""
+}

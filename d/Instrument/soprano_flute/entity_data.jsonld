@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/soprano_flute", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "soprano_flute", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute", 
+    "rdfs:comment": "## Soprano Flute\n\nE\u266d Flute minor third above concert flute", 
+    "rdfs:label": "Soprano Flute", 
+    "sofa:maxNote": "96", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "63", 
+    "sofa:minPitch": ""
+}

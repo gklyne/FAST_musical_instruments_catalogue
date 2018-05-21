@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/bouzouki_4_course", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bouzouki_4_course", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.bouzouki", 
+    "rdfs:comment": "## Bouzouki\n\nBouzouki (4-course)", 
+    "rdfs:label": "Bouzouki", 
+    "sofa:maxNote": "88", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "48", 
+    "sofa:minPitch": ""
+}

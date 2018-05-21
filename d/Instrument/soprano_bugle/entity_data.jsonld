@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/soprano_bugle", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "soprano_bugle", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.bugle.soprano", 
+    "rdfs:comment": "## Soprano Bugle\n\nSoprano Bugle", 
+    "rdfs:label": "Soprano Bugle", 
+    "sofa:maxNote": "79", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "67", 
+    "sofa:minPitch": ""
+}

@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/claves", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "claves", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wood.claves", 
+    "rdfs:comment": "## Claves\n\nClaves", 
+    "rdfs:label": "Claves", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
+}

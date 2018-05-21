@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/women", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "women", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/voice.female", 
+    "rdfs:comment": "## Women\n\nWomen", 
+    "rdfs:label": "Women", 
+    "sofa:maxNote": "81", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "55", 
+    "sofa:minPitch": ""
+}

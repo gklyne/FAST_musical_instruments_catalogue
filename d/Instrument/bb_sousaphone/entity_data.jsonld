@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/bb_sousaphone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bb_sousaphone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.sousaphone", 
+    "rdfs:comment": "## B\u266d Sousaphone\n\nB\u266d Sousaphone", 
+    "rdfs:label": "B\u266d Sousaphone", 
+    "sofa:maxNote": "60", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "30", 
+    "sofa:minPitch": ""
+}

@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/fretless_electric_bass", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "fretless_electric_bass", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.bass.fretless", 
+    "rdfs:comment": "## Fretless Electric Bass\n\nFretless Electric Bass", 
+    "rdfs:label": "Fretless Electric Bass", 
+    "sofa:maxNote": "65", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "28", 
+    "sofa:minPitch": ""
+}

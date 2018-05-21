@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/maracas", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "maracas", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/rattle.maraca", 
+    "rdfs:comment": "## Maracas\n\nMaracas", 
+    "rdfs:label": "Maracas", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
+}

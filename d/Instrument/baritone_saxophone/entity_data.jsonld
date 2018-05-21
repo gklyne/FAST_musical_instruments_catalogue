@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/baritone_saxophone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "baritone_saxophone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.saxophone.baritone", 
+    "rdfs:comment": "## Baritone Saxophone\n\nBaritone Saxophone", 
+    "rdfs:label": "Baritone Saxophone", 
+    "sofa:maxNote": "70", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "37", 
+    "sofa:minPitch": ""
+}

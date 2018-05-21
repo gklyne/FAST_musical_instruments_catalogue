@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/horagai", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "horagai", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.horagai", 
+    "rdfs:comment": "## Horagai\n\nHoragai Conch", 
+    "rdfs:label": "Horagai", 
+    "sofa:maxNote": "60", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "24", 
+    "sofa:minPitch": ""
+}

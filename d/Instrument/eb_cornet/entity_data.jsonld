@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/eb_cornet", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "eb_cornet", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.cornet.soprano", 
+    "rdfs:comment": "## E\u266d Cornet\n\nE\u266d Cornet", 
+    "rdfs:label": "E\u266d Cornet", 
+    "sofa:maxNote": "84", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "57", 
+    "sofa:minPitch": ""
+}

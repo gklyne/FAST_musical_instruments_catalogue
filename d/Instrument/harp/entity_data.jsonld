@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/harp", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "harp", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.harp", 
+    "rdfs:comment": "## Harp\n\nHarp", 
+    "rdfs:label": "Harp", 
+    "sofa:maxNote": "104", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "23", 
+    "sofa:minPitch": ""
+}

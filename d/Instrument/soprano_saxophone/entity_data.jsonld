@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/soprano_saxophone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "soprano_saxophone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.saxophone.soprano", 
+    "rdfs:comment": "## Soprano Saxophone\n\nSoprano Saxophone", 
+    "rdfs:label": "Soprano Saxophone", 
+    "sofa:maxNote": "89", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "56", 
+    "sofa:minPitch": ""
+}

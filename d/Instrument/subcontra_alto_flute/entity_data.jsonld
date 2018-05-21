@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/subcontra_alto_flute", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "subcontra_alto_flute", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute.subcontrabass", 
+    "rdfs:comment": "## Sub Contra-alto Flute\n\nSubcontra-alto Flute", 
+    "rdfs:label": "Sub Contra-alto Flute", 
+    "sofa:maxNote": "60", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "31", 
+    "sofa:minPitch": ""
+}

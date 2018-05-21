@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/d_clarinet", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "d_clarinet", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.clarinet", 
+    "rdfs:comment": "## D Clarinet\n\nD Clarinet", 
+    "rdfs:label": "D Clarinet", 
+    "sofa:maxNote": "93", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "54", 
+    "sofa:minPitch": ""
+}

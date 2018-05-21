@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/contrabass_sarrusophone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "contrabass_sarrusophone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.sarrusaphone", 
+    "rdfs:comment": "## Contrabass Sarrusophone\n\nContrabass Sarrusophone", 
+    "rdfs:label": "Contrabass Sarrusophone", 
+    "sofa:maxNote": "53", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "25", 
+    "sofa:minPitch": ""
+}

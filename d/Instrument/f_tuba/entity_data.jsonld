@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/f_tuba", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "f_tuba", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.tuba", 
+    "rdfs:comment": "## F Tuba\n\nF Tuba", 
+    "rdfs:label": "F Tuba", 
+    "sofa:maxNote": "64", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "26", 
+    "sofa:minPitch": ""
+}

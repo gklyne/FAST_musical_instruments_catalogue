@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/temple_blocks", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "temple_blocks", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wood.temple-block", 
+    "rdfs:comment": "## Temple Blocks\n\nTemple Blocks", 
+    "rdfs:label": "Temple Blocks", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
+}

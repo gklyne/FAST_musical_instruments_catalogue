@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/cabasa", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "cabasa", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/rattle.cabasa", 
+    "rdfs:comment": "## Cabasa\n\nCabasa", 
+    "rdfs:label": "Cabasa", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
+}

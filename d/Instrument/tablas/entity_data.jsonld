@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/tablas", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "tablas", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/drum.tabla", 
+    "rdfs:comment": "## Tablas\n\nTablas", 
+    "rdfs:label": "Tablas", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
+}

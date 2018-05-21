@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/harmonica_c12c", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "harmonica_c12c", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.harmonica", 
+    "rdfs:comment": "## 12 Hole C Chromatic Harmonica\n\n12 Hole Chromatic Harmonica in C", 
+    "rdfs:label": "12 Hole C Chromatic Harmonica", 
+    "sofa:maxNote": "96", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "60", 
+    "sofa:minPitch": ""
+}

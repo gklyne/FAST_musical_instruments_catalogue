@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/11_string_alto_guitar", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "11_string_alto_guitar", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.guitar", 
+    "rdfs:comment": "## 11-string Alto Guitar\n\n11-string Alto Guitar", 
+    "rdfs:label": "11-string Alto Guitar", 
+    "sofa:maxNote": "86", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "34", 
+    "sofa:minPitch": ""
+}

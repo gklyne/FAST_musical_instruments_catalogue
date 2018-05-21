@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/orff_alto_xylophone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "orff_alto_xylophone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.xylophone.alto", 
+    "rdfs:comment": "## Orff Alto Xylophone\n\nOrff Alto Xylophone", 
+    "rdfs:label": "Orff Alto Xylophone", 
+    "sofa:maxNote": "81", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "60", 
+    "sofa:minPitch": ""
+}

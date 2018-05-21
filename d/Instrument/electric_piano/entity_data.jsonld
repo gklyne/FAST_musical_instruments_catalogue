@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/electric_piano", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "electric_piano", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.piano.electric", 
+    "rdfs:comment": "## Electric Piano\n\nElectric Piano", 
+    "rdfs:label": "Electric Piano", 
+    "sofa:maxNote": "108", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "21", 
+    "sofa:minPitch": ""
+}

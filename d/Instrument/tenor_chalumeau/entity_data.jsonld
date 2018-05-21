@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/tenor_chalumeau", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "tenor_chalumeau", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.chalumeau", 
+    "rdfs:comment": "## Tenor Chalumeau\n\nTenor Chalumeau", 
+    "rdfs:label": "Tenor Chalumeau", 
+    "sofa:maxNote": "62", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "48", 
+    "sofa:minPitch": ""
+}

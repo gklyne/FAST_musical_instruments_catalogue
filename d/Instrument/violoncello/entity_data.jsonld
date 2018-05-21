@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/violoncello", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "violoncello", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/strings.cello", 
+    "rdfs:comment": "## Violoncello\n\nVioloncello", 
+    "rdfs:label": "Violoncello", 
+    "sofa:maxNote": "67", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "36", 
+    "sofa:minPitch": ""
+}

@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/alto_sackbut", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "alto_sackbut", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.sackbutt.alto", 
+    "rdfs:comment": "## Alto Sackbut\n\nAlto Sackbut", 
+    "rdfs:label": "Alto Sackbut", 
+    "sofa:maxNote": "74", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "45", 
+    "sofa:minPitch": ""
+}

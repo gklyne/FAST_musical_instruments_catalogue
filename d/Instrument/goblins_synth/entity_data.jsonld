@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/goblins_synth", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "goblins_synth", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/synth.effects.goblins", 
+    "rdfs:comment": "## Goblins Synthesizer\n\nGoblins Effect Synthesizer", 
+    "rdfs:label": "Goblins Synthesizer", 
+    "sofa:maxNote": "96", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "36", 
+    "sofa:minPitch": ""
+}

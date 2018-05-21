@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/countertenor", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "countertenor", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/voice.countertenor", 
+    "rdfs:comment": "## Countertenor\n\nCountertenor or Male Alto", 
+    "rdfs:label": "Countertenor", 
+    "sofa:maxNote": "76", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "55", 
+    "sofa:minPitch": ""
+}

@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/treble_kalimba", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "treble_kalimba", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.kalimba", 
+    "rdfs:comment": "## Treble Kalimba\n\nTreble Kalimba", 
+    "rdfs:label": "Treble Kalimba", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
+}

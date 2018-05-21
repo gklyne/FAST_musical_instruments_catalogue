@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/tenor_kelhorn", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "tenor_kelhorn", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "", 
+    "rdfs:comment": "## Tenor Kelhorn\n\nTenor Kelhorn", 
+    "rdfs:label": "Tenor Kelhorn", 
+    "sofa:maxNote": "62", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "48", 
+    "sofa:minPitch": ""
+}

@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/drumset", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "drumset", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/drum.group.set", 
+    "rdfs:comment": "## Drumset\n\nDrumset", 
+    "rdfs:label": "Drumset", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
+}

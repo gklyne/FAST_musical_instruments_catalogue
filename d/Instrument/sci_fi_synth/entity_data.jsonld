@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/sci_fi_synth", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "sci_fi_synth", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/synth.effects.sci-fi", 
+    "rdfs:comment": "## Sci-fi Synthesizer\n\nSci-fi Effect Synthesizer", 
+    "rdfs:label": "Sci-fi Synthesizer", 
+    "sofa:maxNote": "96", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "36", 
+    "sofa:minPitch": ""
+}

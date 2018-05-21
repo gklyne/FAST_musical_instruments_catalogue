@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/glockenspiel", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "glockenspiel", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.glockenspiel", 
+    "rdfs:comment": "## Glockenspiel\n\nGlockenspiel", 
+    "rdfs:label": "Glockenspiel", 
+    "sofa:maxNote": "108", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "79", 
+    "sofa:minPitch": ""
+}

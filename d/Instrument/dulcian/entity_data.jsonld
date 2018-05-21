@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/dulcian", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "dulcian", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.dulcian", 
+    "rdfs:comment": "## Dulcian\n\nDulcian", 
+    "rdfs:label": "Dulcian", 
+    "sofa:maxNote": "62", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "40", 
+    "sofa:minPitch": ""
+}

@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/d_trumpet", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "d_trumpet", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.trumpet.d", 
+    "rdfs:comment": "## D Trumpet\n\nD Trumpet", 
+    "rdfs:label": "D Trumpet", 
+    "sofa:maxNote": "83", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "56", 
+    "sofa:minPitch": ""
+}

@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/marching_cymbals", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "marching_cymbals", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/metal.cymbal.crash", 
+    "rdfs:comment": "## Cymbals\n\nMarching Cymbals", 
+    "rdfs:label": "Cymbals", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
+}

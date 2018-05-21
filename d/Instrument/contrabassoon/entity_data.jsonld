@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/contrabassoon", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "contrabassoon", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.contrabassoon", 
+    "rdfs:comment": "## Contrabassoon\n\nContrabassoon", 
+    "rdfs:label": "Contrabassoon", 
+    "sofa:maxNote": "57", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "22", 
+    "sofa:minPitch": ""
+}

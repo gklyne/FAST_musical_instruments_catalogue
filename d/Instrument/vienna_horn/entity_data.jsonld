@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/vienna_horn", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "vienna_horn", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.vienna-horn", 
+    "rdfs:comment": "## Vienna Horn\n\nVienna Horn", 
+    "rdfs:label": "Vienna Horn", 
+    "sofa:maxNote": "75", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "35", 
+    "sofa:minPitch": ""
+}

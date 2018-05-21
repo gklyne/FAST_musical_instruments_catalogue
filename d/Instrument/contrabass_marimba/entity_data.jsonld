@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/contrabass_marimba", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "contrabass_marimba", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.marimba.bass", 
+    "rdfs:comment": "## Contrabass Marimba\n\nContrabass Marimba", 
+    "rdfs:label": "Contrabass Marimba", 
+    "sofa:maxNote": "60", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "21", 
+    "sofa:minPitch": ""
+}

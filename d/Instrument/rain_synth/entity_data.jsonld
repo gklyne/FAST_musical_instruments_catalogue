@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/rain_synth", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "rain_synth", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/synth.effects.rain", 
+    "rdfs:comment": "## Rain Synthesizer\n\nRain Effect Synthesizer", 
+    "rdfs:label": "Rain Synthesizer", 
+    "sofa:maxNote": "96", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "36", 
+    "sofa:minPitch": ""
+}

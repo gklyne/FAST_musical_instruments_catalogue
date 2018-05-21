@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/shofar", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "shofar", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.shofar", 
+    "rdfs:comment": "## Shofar\n\nShofar Ramshorn", 
+    "rdfs:label": "Shofar", 
+    "sofa:maxNote": "72", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "48", 
+    "sofa:minPitch": ""
+}

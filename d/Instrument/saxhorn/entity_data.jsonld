@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/saxhorn", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "saxhorn", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.saxhorn", 
+    "rdfs:comment": "## Saxhorn\n\nSaxhorn", 
+    "rdfs:label": "Saxhorn", 
+    "sofa:maxNote": "72", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "45", 
+    "sofa:minPitch": ""
+}

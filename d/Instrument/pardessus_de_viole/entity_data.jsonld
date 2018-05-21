@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/pardessus_de_viole", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "pardessus_de_viole", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/strings.viol", 
+    "rdfs:comment": "## Pardessus de viole\n\nPardessus de viole", 
+    "rdfs:label": "Pardessus de viole", 
+    "sofa:maxNote": "91", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "55", 
+    "sofa:minPitch": ""
+}

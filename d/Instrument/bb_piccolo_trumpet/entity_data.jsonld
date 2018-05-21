@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/bb_piccolo_trumpet", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bb_piccolo_trumpet", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.trumpet.piccolo", 
+    "rdfs:comment": "## Piccolo Trumpet in B\u266d\n\nPiccolo Trumpet in B\u266d", 
+    "rdfs:label": "Piccolo Trumpet in B\u266d", 
+    "sofa:maxNote": "86", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "59", 
+    "sofa:minPitch": ""
+}

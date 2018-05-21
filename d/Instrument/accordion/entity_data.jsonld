@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/accordion", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "accordion", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.accordion", 
+    "rdfs:comment": "## Accordion\n\nAccordion", 
+    "rdfs:label": "Accordion", 
+    "sofa:maxNote": "93", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "36", 
+    "sofa:minPitch": ""
+}

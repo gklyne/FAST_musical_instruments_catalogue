@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/bass_synthesizer", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bass_synthesizer", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.bass.synth", 
+    "rdfs:comment": "## Bass Synthesizer\n\nBass Synthesizer", 
+    "rdfs:label": "Bass Synthesizer", 
+    "sofa:maxNote": "96", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "36", 
+    "sofa:minPitch": ""
+}

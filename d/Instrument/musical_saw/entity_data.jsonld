@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/musical_saw", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "musical_saw", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/metal.musical-saw", 
+    "rdfs:comment": "## Musical Saw\n\nMusical Saw", 
+    "rdfs:label": "Musical Saw", 
+    "sofa:maxNote": "100", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "64", 
+    "sofa:minPitch": ""
+}

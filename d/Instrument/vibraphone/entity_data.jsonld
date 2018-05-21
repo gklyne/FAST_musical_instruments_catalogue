@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/vibraphone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "vibraphone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.vibraphone", 
+    "rdfs:comment": "## Vibraphone\n\nVibraphone", 
+    "rdfs:label": "Vibraphone", 
+    "sofa:maxNote": "89", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "53", 
+    "sofa:minPitch": ""
+}

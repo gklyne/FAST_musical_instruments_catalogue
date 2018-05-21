@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/bb_clarinet", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bb_clarinet", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.clarinet.bflat", 
+    "rdfs:comment": "## B\u266d Clarinet\n\nB\u266d Clarinet (same as clarinet, added for MusicXML 3 compatibility)", 
+    "rdfs:label": "B\u266d Clarinet", 
+    "sofa:maxNote": "89", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "50", 
+    "sofa:minPitch": ""
+}

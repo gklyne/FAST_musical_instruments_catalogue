@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/strings", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "strings", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/strings.group", 
+    "rdfs:comment": "## Strings\n\nString Section", 
+    "rdfs:label": "Strings", 
+    "sofa:maxNote": "108", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "24", 
+    "sofa:minPitch": ""
+}

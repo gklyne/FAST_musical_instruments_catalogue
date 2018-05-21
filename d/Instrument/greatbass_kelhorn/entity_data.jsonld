@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/greatbass_kelhorn", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "greatbass_kelhorn", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "", 
+    "rdfs:comment": "## Greatbass Kelhorn\n\nGreatbass Kelhorn", 
+    "rdfs:label": "Greatbass Kelhorn", 
+    "sofa:maxNote": "50", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "36", 
+    "sofa:minPitch": ""
+}

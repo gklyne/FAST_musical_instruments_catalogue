@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/bagpipe", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bagpipe", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.pipes.bagpipes", 
+    "rdfs:comment": "## Bagpipe\n\nBagpipe", 
+    "rdfs:label": "Bagpipe", 
+    "sofa:maxNote": "79", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "65", 
+    "sofa:minPitch": ""
+}

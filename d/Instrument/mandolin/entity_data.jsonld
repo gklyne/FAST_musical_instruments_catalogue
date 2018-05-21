@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/mandolin", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "mandolin", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.mandolin", 
+    "rdfs:comment": "## Mandolin\n\nMandolin", 
+    "rdfs:label": "Mandolin", 
+    "sofa:maxNote": "85", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "55", 
+    "sofa:minPitch": ""
+}

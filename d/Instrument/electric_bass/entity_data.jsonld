@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/electric_bass", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "electric_bass", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.bass.electric", 
+    "rdfs:comment": "## Electric Bass\n\nElectric Bass", 
+    "rdfs:label": "Electric Bass", 
+    "sofa:maxNote": "65", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "28", 
+    "sofa:minPitch": ""
+}

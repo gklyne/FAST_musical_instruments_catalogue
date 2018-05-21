@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/xylomarimba", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "xylomarimba", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.xylomarimba", 
+    "rdfs:comment": "## Xylomarimba\n\nXylomarimba", 
+    "rdfs:label": "Xylomarimba", 
+    "sofa:maxNote": "108", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "48", 
+    "sofa:minPitch": ""
+}

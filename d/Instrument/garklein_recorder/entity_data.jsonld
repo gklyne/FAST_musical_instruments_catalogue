@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/garklein_recorder", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "garklein_recorder", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.recorder.garklein", 
+    "rdfs:comment": "## Garklein Recorder\n\nGarklein Recorder", 
+    "rdfs:label": "Garklein Recorder", 
+    "sofa:maxNote": "105", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "84", 
+    "sofa:minPitch": ""
+}

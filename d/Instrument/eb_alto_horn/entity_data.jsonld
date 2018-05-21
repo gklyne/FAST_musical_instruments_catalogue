@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/eb_alto_horn", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "eb_alto_horn", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.alto-horn", 
+    "rdfs:comment": "## E\u266d Alto Horn\n\nE\u266d Alto Horn", 
+    "rdfs:label": "E\u266d Alto Horn", 
+    "sofa:maxNote": "72", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "45", 
+    "sofa:minPitch": ""
+}

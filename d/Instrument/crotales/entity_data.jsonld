@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/crotales", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "crotales", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/metal.crotales", 
+    "rdfs:comment": "## Crotales\n\nCrotales", 
+    "rdfs:label": "Crotales", 
+    "sofa:maxNote": "108", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "84", 
+    "sofa:minPitch": ""
+}

@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/trombone_treble", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "trombone_treble", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.trombone", 
+    "rdfs:comment": "## Trombone\n\nTrombone", 
+    "rdfs:label": "Trombone", 
+    "sofa:maxNote": "71", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "40", 
+    "sofa:minPitch": ""
+}

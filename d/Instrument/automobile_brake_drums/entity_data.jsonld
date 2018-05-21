@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/automobile_brake_drums", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "automobile_brake_drums", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/metal.brake-drums", 
+    "rdfs:comment": "## Automobile Brake Drums\n\nAutomobile Brake Drums", 
+    "rdfs:label": "Automobile Brake Drums", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
+}

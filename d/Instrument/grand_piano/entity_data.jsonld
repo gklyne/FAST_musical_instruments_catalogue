@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/grand_piano", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "grand_piano", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.piano.grand", 
+    "rdfs:comment": "## Grand Piano\n\nGrand Piano", 
+    "rdfs:label": "Grand Piano", 
+    "sofa:maxNote": "108", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "21", 
+    "sofa:minPitch": ""
+}

@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/alto_recorder", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "alto_recorder", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.recorder.alto", 
+    "rdfs:comment": "## Alto Recorder\n\nAlto Recorder", 
+    "rdfs:label": "Alto Recorder", 
+    "sofa:maxNote": "88", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "65", 
+    "sofa:minPitch": ""
+}

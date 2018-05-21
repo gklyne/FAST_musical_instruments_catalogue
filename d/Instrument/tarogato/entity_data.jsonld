@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/tarogato", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "tarogato", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.taroagato", 
+    "rdfs:comment": "## Tarogato\n\nTarogato", 
+    "rdfs:label": "Tarogato", 
+    "sofa:maxNote": "84", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "58", 
+    "sofa:minPitch": ""
+}

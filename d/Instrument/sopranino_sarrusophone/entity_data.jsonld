@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/sopranino_sarrusophone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "sopranino_sarrusophone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.sarrusaphone", 
+    "rdfs:comment": "## Sopranino Sarrusophone\n\nSopranino Sarrusophone", 
+    "rdfs:label": "Sopranino Sarrusophone", 
+    "sofa:maxNote": "87", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "61", 
+    "sofa:minPitch": ""
+}

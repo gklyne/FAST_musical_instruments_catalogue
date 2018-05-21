@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/tenor_sheng", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "tenor_sheng", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.sheng", 
+    "rdfs:comment": "## Tenor Sheng\n\nTenor Sheng", 
+    "rdfs:label": "Tenor Sheng", 
+    "sofa:maxNote": "78", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "44", 
+    "sofa:minPitch": ""
+}

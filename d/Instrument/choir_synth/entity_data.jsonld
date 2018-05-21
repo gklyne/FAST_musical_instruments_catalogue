@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/choir_synth", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "choir_synth", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/synth.pad.choir", 
+    "rdfs:comment": "## Choir Synthesizer\n\nChoir Pad Synthesizer", 
+    "rdfs:label": "Choir Synthesizer", 
+    "sofa:maxNote": "96", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "36", 
+    "sofa:minPitch": ""
+}

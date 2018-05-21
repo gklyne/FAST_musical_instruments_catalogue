@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/pan_flute", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "pan_flute", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.panpipes", 
+    "rdfs:comment": "## Pan Flute\n\nPan Flute", 
+    "rdfs:label": "Pan Flute", 
+    "sofa:maxNote": "96", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "60", 
+    "sofa:minPitch": ""
+}

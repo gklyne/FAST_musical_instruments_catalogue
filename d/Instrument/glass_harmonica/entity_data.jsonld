@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/glass_harmonica", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "glass_harmonica", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.glass-harmonica", 
+    "rdfs:comment": "## Glass Harmonica\n\nGlass Harmonica", 
+    "rdfs:label": "Glass Harmonica", 
+    "sofa:maxNote": "89", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "53", 
+    "sofa:minPitch": ""
+}

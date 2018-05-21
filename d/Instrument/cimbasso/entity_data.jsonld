@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/cimbasso", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "cimbasso", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.cimbasso", 
+    "rdfs:comment": "## Cimbasso\n\nCimbasso", 
+    "rdfs:label": "Cimbasso", 
+    "sofa:maxNote": "64", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "26", 
+    "sofa:minPitch": ""
+}

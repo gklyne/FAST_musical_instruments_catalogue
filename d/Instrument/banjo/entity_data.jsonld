@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/banjo", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "banjo", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.banjo", 
+    "rdfs:comment": "## Banjo\n\n5 string Banjo", 
+    "rdfs:label": "Banjo", 
+    "sofa:maxNote": "87", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "48", 
+    "sofa:minPitch": ""
+}

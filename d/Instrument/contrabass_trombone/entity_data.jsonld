@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/contrabass_trombone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "contrabass_trombone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.trombone.contrabass", 
+    "rdfs:comment": "## Contrabass Trombone\n\nContrabass Trombone", 
+    "rdfs:label": "Contrabass Trombone", 
+    "sofa:maxNote": "55", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "28", 
+    "sofa:minPitch": ""
+}

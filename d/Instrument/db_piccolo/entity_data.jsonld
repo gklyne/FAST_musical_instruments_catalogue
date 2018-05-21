@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/db_piccolo", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "db_piccolo", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute.piccolo", 
+    "rdfs:comment": "## D\u266d Piccolo\n\nPiccolo Flute in Db", 
+    "rdfs:label": "D\u266d Piccolo", 
+    "sofa:maxNote": "106", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "75", 
+    "sofa:minPitch": ""
+}

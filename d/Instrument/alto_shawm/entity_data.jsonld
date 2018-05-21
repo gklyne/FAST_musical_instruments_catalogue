@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/alto_shawm", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "alto_shawm", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.shawm", 
+    "rdfs:comment": "## Alto Shawm\n\nAlto Shawm", 
+    "rdfs:label": "Alto Shawm", 
+    "sofa:maxNote": "69", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "53", 
+    "sofa:minPitch": ""
+}

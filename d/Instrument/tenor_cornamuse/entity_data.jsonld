@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/tenor_cornamuse", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "tenor_cornamuse", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.cornamuse", 
+    "rdfs:comment": "## Tenor Cornamuse\n\nTenor Cornamuse", 
+    "rdfs:label": "Tenor Cornamuse", 
+    "sofa:maxNote": "62", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "48", 
+    "sofa:minPitch": ""
+}

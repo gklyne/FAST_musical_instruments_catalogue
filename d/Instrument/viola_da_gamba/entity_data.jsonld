@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/viola_da_gamba", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "viola_da_gamba", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "", 
+    "rdfs:comment": "## Viola da gamba\n\nViola da gamba", 
+    "rdfs:label": "Viola da gamba", 
+    "sofa:maxNote": "74", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "33", 
+    "sofa:minPitch": ""
+}

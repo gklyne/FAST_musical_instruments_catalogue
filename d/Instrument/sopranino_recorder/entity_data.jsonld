@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/sopranino_recorder", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "sopranino_recorder", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.recorder.sopranino", 
+    "rdfs:comment": "## Sopranino Recorder\n\nSopranino Recorder", 
+    "rdfs:label": "Sopranino Recorder", 
+    "sofa:maxNote": "100", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "77", 
+    "sofa:minPitch": ""
+}

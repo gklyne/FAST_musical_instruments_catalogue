@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/hammond_organ", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "hammond_organ", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.organ.drawbar", 
+    "rdfs:comment": "## Hammond Organ\n\nHammond Electronic Organ", 
+    "rdfs:label": "Hammond Organ", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
+}

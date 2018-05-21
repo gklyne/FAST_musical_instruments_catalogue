@@ -1,0 +1,17 @@
+{
+    "@id": "Instrument/traverso", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "traverso", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute", 
+    "rdfs:comment": "## Traverso\n\nTraverso", 
+    "rdfs:label": "Traverso", 
+    "sofa:maxNote": "88", 
+    "sofa:maxPitch": "", 
+    "sofa:minNote": "62", 
+    "sofa:minPitch": ""
+}
