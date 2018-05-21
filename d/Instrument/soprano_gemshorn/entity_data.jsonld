@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/soprano_gemshorn", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "soprano_gemshorn", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.gemshorn", 
-    "rdfs:comment": "## Soprano Gemshorn\n\nSoprano Gemshorn", 
-    "rdfs:label": "Soprano Gemshorn", 
-    "sofa:maxNote": "87", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "72", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/soprano_gemshorn",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "soprano_gemshorn",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.gemshorn",
+  "rdfs:comment": "## Soprano Gemshorn\n\nSoprano Gemshorn",
+  "rdfs:label": "Soprano Gemshorn",
+  "sofa:maxNote": "87",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "72",
+  "sofa:minPitch": ""
 }

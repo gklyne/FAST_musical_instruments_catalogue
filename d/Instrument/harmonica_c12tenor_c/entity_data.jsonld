@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/harmonica_c12tenor_c", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "harmonica_c12tenor_c", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.harmonica", 
-    "rdfs:comment": "## 12 Hole Tenor C Chromatic Harmonica\n\n12 Hole Chromatic Harmonica in Tenor C", 
-    "rdfs:label": "12 Hole Tenor C Chromatic Harmonica", 
-    "sofa:maxNote": "84", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "48", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/harmonica_c12tenor_c",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "harmonica_c12tenor_c",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.harmonica",
+  "rdfs:comment": "## 12 Hole Tenor C Chromatic Harmonica\n\n12 Hole Chromatic Harmonica in Tenor C",
+  "rdfs:label": "12 Hole Tenor C Chromatic Harmonica",
+  "sofa:maxNote": "84",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "48",
+  "sofa:minPitch": ""
 }

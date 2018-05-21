@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/cromorne", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "cromorne", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.cromorne", 
-    "rdfs:comment": "## Cromorne\n\nCromorne probably same as crumhorn", 
-    "rdfs:label": "Cromorne", 
-    "sofa:maxNote": "74", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "60", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/cromorne",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "cromorne",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.cromorne",
+  "rdfs:comment": "## Cromorne\n\nCromorne probably same as crumhorn",
+  "rdfs:label": "Cromorne",
+  "sofa:maxNote": "74",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "60",
+  "sofa:minPitch": ""
 }

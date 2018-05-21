@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/euphonium", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "euphonium", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/brass.euphonium", 
-    "rdfs:comment": "## Euphonium\n\nEuphonium", 
-    "rdfs:label": "Euphonium", 
-    "sofa:maxNote": "70", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "40", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/euphonium",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "euphonium",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/brass.euphonium",
+  "rdfs:comment": "## Euphonium\n\nEuphonium",
+  "rdfs:label": "Euphonium",
+  "sofa:maxNote": "70",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "40",
+  "sofa:minPitch": ""
 }

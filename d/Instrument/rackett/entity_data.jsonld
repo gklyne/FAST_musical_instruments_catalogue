@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/rackett", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "rackett", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.rackett", 
-    "rdfs:comment": "## Rackett\n\nRackett", 
-    "rdfs:label": "Rackett", 
-    "sofa:maxNote": "62", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "34", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/rackett",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "rackett",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.rackett",
+  "rdfs:comment": "## Rackett\n\nRackett",
+  "rdfs:label": "Rackett",
+  "sofa:maxNote": "62",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "34",
+  "sofa:minPitch": ""
 }

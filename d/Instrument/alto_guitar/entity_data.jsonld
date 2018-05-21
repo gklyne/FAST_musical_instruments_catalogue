@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/alto_guitar", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "alto_guitar", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.guitar", 
-    "rdfs:comment": "## Alto Guitar\n\nAlto Guitar", 
-    "rdfs:label": "Alto Guitar", 
-    "sofa:maxNote": "88", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "47", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/alto_guitar",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "alto_guitar",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.guitar",
+  "rdfs:comment": "## Alto Guitar\n\nAlto Guitar",
+  "rdfs:label": "Alto Guitar",
+  "sofa:maxNote": "88",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "47",
+  "sofa:minPitch": ""
 }

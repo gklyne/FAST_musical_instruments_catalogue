@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/harpsichord", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "harpsichord", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.harpsichord", 
-    "rdfs:comment": "## Harpsichord\n\nHarpsichord", 
-    "rdfs:label": "Harpsichord", 
-    "sofa:maxNote": "89", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "29", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/harpsichord",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "harpsichord",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.harpsichord",
+  "rdfs:comment": "## Harpsichord\n\nHarpsichord",
+  "rdfs:label": "Harpsichord",
+  "sofa:maxNote": "89",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "29",
+  "sofa:minPitch": ""
 }

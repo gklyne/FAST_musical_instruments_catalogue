@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/ukulele_low_g", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "ukulele_low_g", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.ukulele", 
-    "rdfs:comment": "## Ukulele (Low G)\n\nUkulele (Low G)", 
-    "rdfs:label": "Ukulele (Low G)", 
-    "sofa:maxNote": "81", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "55", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/ukulele_low_g",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "ukulele_low_g",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.ukulele",
+  "rdfs:comment": "## Ukulele (Low G)\n\nUkulele (Low G)",
+  "rdfs:label": "Ukulele (Low G)",
+  "sofa:maxNote": "81",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "55",
+  "sofa:minPitch": ""
 }

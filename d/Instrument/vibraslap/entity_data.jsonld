@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/vibraslap", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "vibraslap", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/rattle.vibraslap", 
-    "rdfs:comment": "## Vibraslap\n\nVibraslap", 
-    "rdfs:label": "Vibraslap", 
-    "sofa:maxNote": "", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/vibraslap",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "vibraslap",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/rattle.vibraslap",
+  "rdfs:comment": "## Vibraslap\n\nVibraslap",
+  "rdfs:label": "Vibraslap",
+  "sofa:maxNote": "",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "",
+  "sofa:minPitch": ""
 }

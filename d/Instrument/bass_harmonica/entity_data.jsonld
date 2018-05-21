@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/bass_harmonica", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "bass_harmonica", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.harmonica.bass", 
-    "rdfs:comment": "## Bass Harmonica\n\nBass Harmonica", 
-    "rdfs:label": "Bass Harmonica", 
-    "sofa:maxNote": "40", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "28", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/bass_harmonica",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "bass_harmonica",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.harmonica.bass",
+  "rdfs:comment": "## Bass Harmonica\n\nBass Harmonica",
+  "rdfs:label": "Bass Harmonica",
+  "sofa:maxNote": "40",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "28",
+  "sofa:minPitch": ""
 }

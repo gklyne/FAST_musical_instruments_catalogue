@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/bandoneon", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "bandoneon", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.bandoneon", 
-    "rdfs:comment": "## Bandoneon\n\nBandoneon", 
-    "rdfs:label": "Bandoneon", 
-    "sofa:maxNote": "93", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "36", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/bandoneon",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "bandoneon",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.bandoneon",
+  "rdfs:comment": "## Bandoneon\n\nBandoneon",
+  "rdfs:label": "Bandoneon",
+  "sofa:maxNote": "93",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "36",
+  "sofa:minPitch": ""
 }

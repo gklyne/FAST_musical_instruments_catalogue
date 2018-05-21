@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/c_soprano_ocarina", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "c_soprano_ocarina", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.ocarina", 
-    "rdfs:comment": "## C Soprano Ocarina\n\nC Soprano Ocarina", 
-    "rdfs:label": "C Soprano Ocarina", 
-    "sofa:maxNote": "86", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "72", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/c_soprano_ocarina",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "c_soprano_ocarina",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.ocarina",
+  "rdfs:comment": "## C Soprano Ocarina\n\nC Soprano Ocarina",
+  "rdfs:label": "C Soprano Ocarina",
+  "sofa:maxNote": "86",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "72",
+  "sofa:minPitch": ""
 }

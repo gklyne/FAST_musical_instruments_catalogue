@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/greatbass_recorder", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "greatbass_recorder", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.recorder.great-bass", 
-    "rdfs:comment": "## Greatbass Recorder\n\nGreatbass Recorder", 
-    "rdfs:label": "Greatbass Recorder", 
-    "sofa:maxNote": "69", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "48", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/greatbass_recorder",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "greatbass_recorder",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.recorder.great-bass",
+  "rdfs:comment": "## Greatbass Recorder\n\nGreatbass Recorder",
+  "rdfs:label": "Greatbass Recorder",
+  "sofa:maxNote": "69",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "48",
+  "sofa:minPitch": ""
 }

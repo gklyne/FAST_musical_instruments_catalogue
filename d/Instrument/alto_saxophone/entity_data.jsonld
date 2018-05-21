@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/alto_saxophone", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "alto_saxophone", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.saxophone.alto", 
-    "rdfs:comment": "## Alto Saxophone\n\nAlto Saxophone", 
-    "rdfs:label": "Alto Saxophone", 
-    "sofa:maxNote": "82", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "49", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/alto_saxophone",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "alto_saxophone",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.saxophone.alto",
+  "rdfs:comment": "## Alto Saxophone\n\nAlto Saxophone",
+  "rdfs:label": "Alto Saxophone",
+  "sofa:maxNote": "82",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "49",
+  "sofa:minPitch": ""
 }

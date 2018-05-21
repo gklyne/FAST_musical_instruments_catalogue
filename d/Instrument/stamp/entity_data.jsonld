@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/stamp", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "stamp", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/effect.stamp", 
-    "rdfs:comment": "## Stamp\n\nStamp", 
-    "rdfs:label": "Stamp", 
-    "sofa:maxNote": "", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/stamp",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "stamp",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/effect.stamp",
+  "rdfs:comment": "## Stamp\n\nStamp",
+  "rdfs:label": "Stamp",
+  "sofa:maxNote": "",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "",
+  "sofa:minPitch": ""
 }

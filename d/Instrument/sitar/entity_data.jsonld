@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/sitar", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "sitar", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.sitar", 
-    "rdfs:comment": "## Sitar\n\nSitar", 
-    "rdfs:label": "Sitar", 
-    "sofa:maxNote": "84", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "36", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/sitar",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "sitar",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.sitar",
+  "rdfs:comment": "## Sitar\n\nSitar",
+  "rdfs:label": "Sitar",
+  "sofa:maxNote": "84",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "36",
+  "sofa:minPitch": ""
 }

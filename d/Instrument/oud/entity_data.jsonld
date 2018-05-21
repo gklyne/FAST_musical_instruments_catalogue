@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/oud", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "oud", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.oud", 
-    "rdfs:comment": "## Oud\n\nOud", 
-    "rdfs:label": "Oud", 
-    "sofa:maxNote": "75", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "36", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/oud",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "oud",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.oud",
+  "rdfs:comment": "## Oud\n\nOud",
+  "rdfs:label": "Oud",
+  "sofa:maxNote": "75",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "36",
+  "sofa:minPitch": ""
 }

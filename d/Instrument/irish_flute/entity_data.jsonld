@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/irish_flute", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "irish_flute", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute.irish", 
-    "rdfs:comment": "## Irish Flute\n\n6 hole tranverse flute", 
-    "rdfs:label": "Irish Flute", 
-    "sofa:maxNote": "86", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "62", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/irish_flute",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "irish_flute",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute.irish",
+  "rdfs:comment": "## Irish Flute\n\n6 hole tranverse flute",
+  "rdfs:label": "Irish Flute",
+  "sofa:maxNote": "86",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "62",
+  "sofa:minPitch": ""
 }

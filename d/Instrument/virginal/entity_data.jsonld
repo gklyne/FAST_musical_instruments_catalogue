@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/virginal", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "virginal", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.virginal", 
-    "rdfs:comment": "## Virginal\n\nVirginal", 
-    "rdfs:label": "Virginal", 
-    "sofa:maxNote": "89", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "29", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/virginal",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "virginal",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.virginal",
+  "rdfs:comment": "## Virginal\n\nVirginal",
+  "rdfs:label": "Virginal",
+  "sofa:maxNote": "89",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "29",
+  "sofa:minPitch": ""
 }

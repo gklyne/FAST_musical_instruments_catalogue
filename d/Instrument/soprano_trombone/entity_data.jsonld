@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/soprano_trombone", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "soprano_trombone", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/brass.trombone", 
-    "rdfs:comment": "## Soprano Trombone\n\nSoprano Trombone", 
-    "rdfs:label": "Soprano Trombone", 
-    "sofa:maxNote": "77", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "52", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/soprano_trombone",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "soprano_trombone",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/brass.trombone",
+  "rdfs:comment": "## Soprano Trombone\n\nSoprano Trombone",
+  "rdfs:label": "Soprano Trombone",
+  "sofa:maxNote": "77",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "52",
+  "sofa:minPitch": ""
 }

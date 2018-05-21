@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/guitar_steel", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "guitar_steel", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.guitar.acoustic", 
-    "rdfs:comment": "## Acoustic Guitar\n\nAcoustic Steel-strung Guitar", 
-    "rdfs:label": "Acoustic Guitar", 
-    "sofa:maxNote": "83", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "40", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/guitar_steel",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "guitar_steel",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.guitar.acoustic",
+  "rdfs:comment": "## Acoustic Guitar\n\nAcoustic Steel-strung Guitar",
+  "rdfs:label": "Acoustic Guitar",
+  "sofa:maxNote": "83",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "40",
+  "sofa:minPitch": ""
 }

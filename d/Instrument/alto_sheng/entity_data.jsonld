@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/alto_sheng", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "alto_sheng", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.sheng", 
-    "rdfs:comment": "## Alto Sheng\n\nAlto Sheng", 
-    "rdfs:label": "Alto Sheng", 
-    "sofa:maxNote": "83", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "48", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/alto_sheng",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "alto_sheng",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.sheng",
+  "rdfs:comment": "## Alto Sheng\n\nAlto Sheng",
+  "rdfs:label": "Alto Sheng",
+  "sofa:maxNote": "83",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "48",
+  "sofa:minPitch": ""
 }

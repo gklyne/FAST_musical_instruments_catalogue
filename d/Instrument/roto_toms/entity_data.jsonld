@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/roto_toms", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "roto_toms", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/drum.rototom", 
-    "rdfs:comment": "## Roto-Toms\n\nRoto-Toms", 
-    "rdfs:label": "Roto-Toms", 
-    "sofa:maxNote": "76", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "40", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/roto_toms",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "roto_toms",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/drum.rototom",
+  "rdfs:comment": "## Roto-Toms\n\nRoto-Toms",
+  "rdfs:label": "Roto-Toms",
+  "sofa:maxNote": "76",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "40",
+  "sofa:minPitch": ""
 }

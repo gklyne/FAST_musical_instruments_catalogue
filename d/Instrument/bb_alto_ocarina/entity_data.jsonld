@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/bb_alto_ocarina", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "bb_alto_ocarina", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.ocarina", 
-    "rdfs:comment": "## B\u266d\u00ad Alto Ocarina\n\nB\u266d\u00ad Alto Ocarina", 
-    "rdfs:label": "B\u266d\u00ad Alto Ocarina", 
-    "sofa:maxNote": "72", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "58", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/bb_alto_ocarina",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "bb_alto_ocarina",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.ocarina",
+  "rdfs:comment": "## B\u266d\u00ad Alto Ocarina\n\nB\u266d\u00ad Alto Ocarina",
+  "rdfs:label": "B\u266d\u00ad Alto Ocarina",
+  "sofa:maxNote": "72",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "58",
+  "sofa:minPitch": ""
 }

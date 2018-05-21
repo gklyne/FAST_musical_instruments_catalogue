@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/snare_drum", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "snare_drum", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/drum.snare-drum", 
-    "rdfs:comment": "## Concert Snare Drum\n\nSnare Drum", 
-    "rdfs:label": "Concert Snare Drum", 
-    "sofa:maxNote": "", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/snare_drum",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "snare_drum",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/drum.snare-drum",
+  "rdfs:comment": "## Concert Snare Drum\n\nSnare Drum",
+  "rdfs:label": "Concert Snare Drum",
+  "sofa:maxNote": "",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "",
+  "sofa:minPitch": ""
 }

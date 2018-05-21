@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/pedal_steel_guitar", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "pedal_steel_guitar", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.guitar.pedal-steel", 
-    "rdfs:comment": "## Pedal Steel Guitar\n\nPedal Steel Guitar", 
-    "rdfs:label": "Pedal Steel Guitar", 
-    "sofa:maxNote": "84", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "35", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/pedal_steel_guitar",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "pedal_steel_guitar",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.guitar.pedal-steel",
+  "rdfs:comment": "## Pedal Steel Guitar\n\nPedal Steel Guitar",
+  "rdfs:label": "Pedal Steel Guitar",
+  "sofa:maxNote": "84",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "35",
+  "sofa:minPitch": ""
 }

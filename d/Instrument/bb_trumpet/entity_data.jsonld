@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/bb_trumpet", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "bb_trumpet", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/brass.trumpet.bflat", 
-    "rdfs:comment": "## B\u266d Trumpet\n\nB\u266d Trumpet", 
-    "rdfs:label": "B\u266d Trumpet", 
-    "sofa:maxNote": "80", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "52", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/bb_trumpet",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "bb_trumpet",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/brass.trumpet.bflat",
+  "rdfs:comment": "## B\u266d Trumpet\n\nB\u266d Trumpet",
+  "rdfs:label": "B\u266d Trumpet",
+  "sofa:maxNote": "80",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "52",
+  "sofa:minPitch": ""
 }

@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/anvil", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "anvil", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/metal.anvil", 
-    "rdfs:comment": "## Anvil\n\nAnvil", 
-    "rdfs:label": "Anvil", 
-    "sofa:maxNote": "", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/anvil",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "anvil",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/metal.anvil",
+  "rdfs:comment": "## Anvil\n\nAnvil",
+  "rdfs:label": "Anvil",
+  "sofa:maxNote": "",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "",
+  "sofa:minPitch": ""
 }

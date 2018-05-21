@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/metallophone", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "metallophone", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.metallophone", 
-    "rdfs:comment": "## Metallophone\n\nOrff Metallophone (generic)", 
-    "rdfs:label": "Metallophone", 
-    "sofa:maxNote": "81", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "60", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/metallophone",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "metallophone",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.metallophone",
+  "rdfs:comment": "## Metallophone\n\nOrff Metallophone (generic)",
+  "rdfs:label": "Metallophone",
+  "sofa:maxNote": "81",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "60",
+  "sofa:minPitch": ""
 }

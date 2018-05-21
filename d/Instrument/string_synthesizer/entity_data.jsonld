@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/string_synthesizer", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "string_synthesizer", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/strings.group.synth", 
-    "rdfs:comment": "## String Synthesizer\n\nString Synthesizer", 
-    "rdfs:label": "String Synthesizer", 
-    "sofa:maxNote": "96", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "36", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/string_synthesizer",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "string_synthesizer",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/strings.group.synth",
+  "rdfs:comment": "## String Synthesizer\n\nString Synthesizer",
+  "rdfs:label": "String Synthesizer",
+  "sofa:maxNote": "96",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "36",
+  "sofa:minPitch": ""
 }

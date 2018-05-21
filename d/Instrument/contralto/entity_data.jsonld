@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/contralto", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "contralto", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/voice.alto", 
-    "rdfs:comment": "## Contralto\n\nFemale Alto", 
-    "rdfs:label": "Contralto", 
-    "sofa:maxNote": "74", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "55", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/contralto",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "contralto",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/voice.alto",
+  "rdfs:comment": "## Contralto\n\nFemale Alto",
+  "rdfs:label": "Contralto",
+  "sofa:maxNote": "74",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "55",
+  "sofa:minPitch": ""
 }

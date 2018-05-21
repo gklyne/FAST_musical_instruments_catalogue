@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/bowl_gongs", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "bowl_gongs", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/metal.gong", 
-    "rdfs:comment": "## Bowl Gongs\n\nBowl Gongs", 
-    "rdfs:label": "Bowl Gongs", 
-    "sofa:maxNote": "", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/bowl_gongs",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "bowl_gongs",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/metal.gong",
+  "rdfs:comment": "## Bowl Gongs\n\nBowl Gongs",
+  "rdfs:label": "Bowl Gongs",
+  "sofa:maxNote": "",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "",
+  "sofa:minPitch": ""
 }

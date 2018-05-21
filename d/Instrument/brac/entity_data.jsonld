@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/brac", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "brac", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.tambura", 
-    "rdfs:comment": "## Bra\u010d\n\nBra\u010d", 
-    "rdfs:label": "Bra\u010d", 
-    "sofa:maxNote": "79", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "52", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/brac",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "brac",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.tambura",
+  "rdfs:comment": "## Bra\u010d\n\nBra\u010d",
+  "rdfs:label": "Bra\u010d",
+  "sofa:maxNote": "79",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "52",
+  "sofa:minPitch": ""
 }

@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/tuba", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "tuba", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/brass.tuba", 
-    "rdfs:comment": "## Tuba\n\nTuba (generic)", 
-    "rdfs:label": "Tuba", 
-    "sofa:maxNote": "58", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "28", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/tuba",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "tuba",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/brass.tuba",
+  "rdfs:comment": "## Tuba\n\nTuba (generic)",
+  "rdfs:label": "Tuba",
+  "sofa:maxNote": "58",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "28",
+  "sofa:minPitch": ""
 }

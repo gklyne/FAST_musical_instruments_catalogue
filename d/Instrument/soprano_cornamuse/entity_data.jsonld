@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/soprano_cornamuse", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "soprano_cornamuse", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.cornamuse", 
-    "rdfs:comment": "## Soprano Cornamuse\n\nSoprano Cornamuse", 
-    "rdfs:label": "Soprano Cornamuse", 
-    "sofa:maxNote": "74", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "60", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/soprano_cornamuse",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "soprano_cornamuse",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.cornamuse",
+  "rdfs:comment": "## Soprano Cornamuse\n\nSoprano Cornamuse",
+  "rdfs:label": "Soprano Cornamuse",
+  "sofa:maxNote": "74",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "60",
+  "sofa:minPitch": ""
 }

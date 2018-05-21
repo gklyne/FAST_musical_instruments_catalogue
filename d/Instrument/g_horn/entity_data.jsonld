@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/g_horn", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "g_horn", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/brass.natural-horn", 
-    "rdfs:comment": "## Horn in G\n\nG Horn", 
-    "rdfs:label": "Horn in G", 
-    "sofa:maxNote": "74", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "41", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/g_horn",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "g_horn",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/brass.natural-horn",
+  "rdfs:comment": "## Horn in G\n\nG Horn",
+  "rdfs:label": "Horn in G",
+  "sofa:maxNote": "74",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "41",
+  "sofa:minPitch": ""
 }

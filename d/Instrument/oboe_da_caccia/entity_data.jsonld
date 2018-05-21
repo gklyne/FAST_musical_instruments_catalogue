@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/oboe_da_caccia", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "oboe_da_caccia", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.oboe-da-caccia", 
-    "rdfs:comment": "## Oboe da caccia\n\nOboe da caccia", 
-    "rdfs:label": "Oboe da caccia", 
-    "sofa:maxNote": "79", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "53", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/oboe_da_caccia",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "oboe_da_caccia",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.oboe-da-caccia",
+  "rdfs:comment": "## Oboe da caccia\n\nOboe da caccia",
+  "rdfs:label": "Oboe da caccia",
+  "sofa:maxNote": "79",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "53",
+  "sofa:minPitch": ""
 }

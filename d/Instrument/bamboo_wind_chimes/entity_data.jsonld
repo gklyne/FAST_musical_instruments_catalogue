@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/bamboo_wind_chimes", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "bamboo_wind_chimes", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/metal.bells.wind-chimes", 
-    "rdfs:comment": "## Bamboo Wind Chimes\n\nBamboo Wind Chimes", 
-    "rdfs:label": "Bamboo Wind Chimes", 
-    "sofa:maxNote": "", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/bamboo_wind_chimes",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "bamboo_wind_chimes",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/metal.bells.wind-chimes",
+  "rdfs:comment": "## Bamboo Wind Chimes\n\nBamboo Wind Chimes",
+  "rdfs:label": "Bamboo Wind Chimes",
+  "sofa:maxNote": "",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "",
+  "sofa:minPitch": ""
 }

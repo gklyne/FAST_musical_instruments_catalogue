@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/alto_bugle", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "alto_bugle", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/brass.bugle.alto", 
-    "rdfs:comment": "## Alto Bugle\n\nAlto Bugle", 
-    "rdfs:label": "Alto Bugle", 
-    "sofa:maxNote": "74", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "62", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/alto_bugle",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "alto_bugle",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/brass.bugle.alto",
+  "rdfs:comment": "## Alto Bugle\n\nAlto Bugle",
+  "rdfs:label": "Alto Bugle",
+  "sofa:maxNote": "74",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "62",
+  "sofa:minPitch": ""
 }

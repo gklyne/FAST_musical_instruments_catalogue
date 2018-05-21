@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/hand_bells", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "hand_bells", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.handbells", 
-    "rdfs:comment": "## Hand Bells\n\nHand Bells", 
-    "rdfs:label": "Hand Bells", 
-    "sofa:maxNote": "97", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "36", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/hand_bells",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "hand_bells",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.handbells",
+  "rdfs:comment": "## Hand Bells\n\nHand Bells",
+  "rdfs:label": "Hand Bells",
+  "sofa:maxNote": "97",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "36",
+  "sofa:minPitch": ""
 }

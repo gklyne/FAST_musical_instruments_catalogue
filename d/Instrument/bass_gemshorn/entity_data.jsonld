@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/bass_gemshorn", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "bass_gemshorn", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.gemshorn", 
-    "rdfs:comment": "## Bass Gemshorn\n\nBass Gemshorn", 
-    "rdfs:label": "Bass Gemshorn", 
-    "sofa:maxNote": "68", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "53", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/bass_gemshorn",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "bass_gemshorn",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.gemshorn",
+  "rdfs:comment": "## Bass Gemshorn\n\nBass Gemshorn",
+  "rdfs:label": "Bass Gemshorn",
+  "sofa:maxNote": "68",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "53",
+  "sofa:minPitch": ""
 }

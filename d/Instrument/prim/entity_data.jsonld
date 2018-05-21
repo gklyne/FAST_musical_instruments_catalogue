@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/prim", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "prim", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.tambura", 
-    "rdfs:comment": "## Prim\n\nPrim", 
-    "rdfs:label": "Prim", 
-    "sofa:maxNote": "91", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "64", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/prim",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "prim",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.tambura",
+  "rdfs:comment": "## Prim\n\nPrim",
+  "rdfs:label": "Prim",
+  "sofa:maxNote": "91",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "64",
+  "sofa:minPitch": ""
 }

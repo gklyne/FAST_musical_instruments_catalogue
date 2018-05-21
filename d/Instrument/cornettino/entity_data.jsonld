@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/cornettino", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "cornettino", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/brass.cornettino", 
-    "rdfs:comment": "## Cornettino\n\nCornettino", 
-    "rdfs:label": "Cornettino", 
-    "sofa:maxNote": "95", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "72", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/cornettino",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "cornettino",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/brass.cornettino",
+  "rdfs:comment": "## Cornettino\n\nCornettino",
+  "rdfs:label": "Cornettino",
+  "sofa:maxNote": "95",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "72",
+  "sofa:minPitch": ""
 }

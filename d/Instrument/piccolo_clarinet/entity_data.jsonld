@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/piccolo_clarinet", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "piccolo_clarinet", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.clarinet.piccolo.aflat", 
-    "rdfs:comment": "## Piccolo Clarinet\n\nPiccolo Clarinet", 
-    "rdfs:label": "Piccolo Clarinet", 
-    "sofa:maxNote": "99", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "60", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/piccolo_clarinet",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "piccolo_clarinet",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.clarinet.piccolo.aflat",
+  "rdfs:comment": "## Piccolo Clarinet\n\nPiccolo Clarinet",
+  "rdfs:label": "Piccolo Clarinet",
+  "sofa:maxNote": "99",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "60",
+  "sofa:minPitch": ""
 }

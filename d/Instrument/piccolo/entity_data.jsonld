@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/piccolo", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "piccolo", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute.piccolo", 
-    "rdfs:comment": "## Piccolo\n\nPiccolo Flute", 
-    "rdfs:label": "Piccolo", 
-    "sofa:maxNote": "105", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "74", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/piccolo",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "piccolo",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute.piccolo",
+  "rdfs:comment": "## Piccolo\n\nPiccolo Flute",
+  "rdfs:label": "Piccolo",
+  "sofa:maxNote": "105",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "74",
+  "sofa:minPitch": ""
 }

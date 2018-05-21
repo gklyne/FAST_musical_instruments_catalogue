@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/marching_tenor_drums", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "marching_tenor_drums", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/drum.tenor-drum", 
-    "rdfs:comment": "## Tenor Drums\n\nMarching Tenor Drums", 
-    "rdfs:label": "Tenor Drums", 
-    "sofa:maxNote": "", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/marching_tenor_drums",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "marching_tenor_drums",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/drum.tenor-drum",
+  "rdfs:comment": "## Tenor Drums\n\nMarching Tenor Drums",
+  "rdfs:label": "Tenor Drums",
+  "sofa:maxNote": "",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "",
+  "sofa:minPitch": ""
 }

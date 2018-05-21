@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/tenor_cornett", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "tenor_cornett", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/brass.cornett.tenor", 
-    "rdfs:comment": "## Tenor Cornett\n\nTenor Cornett", 
-    "rdfs:label": "Tenor Cornett", 
-    "sofa:maxNote": "71", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "48", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/tenor_cornett",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "tenor_cornett",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/brass.cornett.tenor",
+  "rdfs:comment": "## Tenor Cornett\n\nTenor Cornett",
+  "rdfs:label": "Tenor Cornett",
+  "sofa:maxNote": "71",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "48",
+  "sofa:minPitch": ""
 }

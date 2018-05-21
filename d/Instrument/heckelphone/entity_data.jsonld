@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/heckelphone", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "heckelphone", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.heckelphone", 
-    "rdfs:comment": "## Heckelphone\n\nHeckelphone", 
-    "rdfs:label": "Heckelphone", 
-    "sofa:maxNote": "75", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "45", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/heckelphone",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "heckelphone",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.heckelphone",
+  "rdfs:comment": "## Heckelphone\n\nHeckelphone",
+  "rdfs:label": "Heckelphone",
+  "sofa:maxNote": "75",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "45",
+  "sofa:minPitch": ""
 }

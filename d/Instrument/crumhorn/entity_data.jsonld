@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/crumhorn", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "crumhorn", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.crumhorn", 
-    "rdfs:comment": "## Crumhorn\n\nCrumhorn", 
-    "rdfs:label": "Crumhorn", 
-    "sofa:maxNote": "74", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "60", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/crumhorn",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "crumhorn",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.crumhorn",
+  "rdfs:comment": "## Crumhorn\n\nCrumhorn",
+  "rdfs:label": "Crumhorn",
+  "sofa:maxNote": "74",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "60",
+  "sofa:minPitch": ""
 }

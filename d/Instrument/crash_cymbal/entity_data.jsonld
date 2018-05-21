@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/crash_cymbal", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "crash_cymbal", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/metal.cymbal.crash", 
-    "rdfs:comment": "## Crash Cymbal\n\nCrash Cymbal", 
-    "rdfs:label": "Crash Cymbal", 
-    "sofa:maxNote": "", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/crash_cymbal",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "crash_cymbal",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/metal.cymbal.crash",
+  "rdfs:comment": "## Crash Cymbal\n\nCrash Cymbal",
+  "rdfs:label": "Crash Cymbal",
+  "sofa:maxNote": "",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "",
+  "sofa:minPitch": ""
 }

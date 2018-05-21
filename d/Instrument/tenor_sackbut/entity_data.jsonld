@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/tenor_sackbut", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "tenor_sackbut", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/brass.sackbutt.tenor", 
-    "rdfs:comment": "## Tenor Sackbut\n\nTenor Sackbut", 
-    "rdfs:label": "Tenor Sackbut", 
-    "sofa:maxNote": "70", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "40", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/tenor_sackbut",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "tenor_sackbut",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/brass.sackbutt.tenor",
+  "rdfs:comment": "## Tenor Sackbut\n\nTenor Sackbut",
+  "rdfs:label": "Tenor Sackbut",
+  "sofa:maxNote": "70",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "40",
+  "sofa:minPitch": ""
 }

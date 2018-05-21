@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/basset_horn", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "basset_horn", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.basset-horn", 
-    "rdfs:comment": "## Basset Horn\n\nBasset Horn", 
-    "rdfs:label": "Basset Horn", 
-    "sofa:maxNote": "84", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "41", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/basset_horn",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "basset_horn",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.basset-horn",
+  "rdfs:comment": "## Basset Horn\n\nBasset Horn",
+  "rdfs:label": "Basset Horn",
+  "sofa:maxNote": "84",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "41",
+  "sofa:minPitch": ""
 }

@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/eb_horn", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "eb_horn", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/brass.natural-horn", 
-    "rdfs:comment": "## Horn in E\u266d\n\nE\u266d Horn", 
-    "rdfs:label": "Horn in E\u266d", 
-    "sofa:maxNote": "70", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "37", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/eb_horn",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "eb_horn",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/brass.natural-horn",
+  "rdfs:comment": "## Horn in E\u266d\n\nE\u266d Horn",
+  "rdfs:label": "Horn in E\u266d",
+  "sofa:maxNote": "70",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "37",
+  "sofa:minPitch": ""
 }

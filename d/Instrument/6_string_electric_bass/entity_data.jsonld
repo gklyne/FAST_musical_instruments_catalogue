@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/6_string_electric_bass", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "6_string_electric_bass", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.bass.electric", 
-    "rdfs:comment": "## 6-str. Electric Bass\n\n6-string Electric Bass", 
-    "rdfs:label": "6-str. Electric Bass", 
-    "sofa:maxNote": "70", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "23", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/6_string_electric_bass",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "6_string_electric_bass",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.bass.electric",
+  "rdfs:comment": "## 6-str. Electric Bass\n\n6-string Electric Bass",
+  "rdfs:label": "6-str. Electric Bass",
+  "sofa:maxNote": "70",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "23",
+  "sofa:minPitch": ""
 }

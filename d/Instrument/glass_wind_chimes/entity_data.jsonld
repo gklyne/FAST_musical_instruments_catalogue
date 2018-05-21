@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/glass_wind_chimes", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "glass_wind_chimes", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/metal.bells.wind-chimes", 
-    "rdfs:comment": "## Glass Wind Chimes\n\nGlass Wind Chimes", 
-    "rdfs:label": "Glass Wind Chimes", 
-    "sofa:maxNote": "", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/glass_wind_chimes",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "glass_wind_chimes",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/metal.bells.wind-chimes",
+  "rdfs:comment": "## Glass Wind Chimes\n\nGlass Wind Chimes",
+  "rdfs:label": "Glass Wind Chimes",
+  "sofa:maxNote": "",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "",
+  "sofa:minPitch": ""
 }

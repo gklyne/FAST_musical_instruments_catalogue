@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/almglocken", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "almglocken", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/metal.bells.almglocken", 
-    "rdfs:comment": "## Almglocken\n\nAlmglocken", 
-    "rdfs:label": "Almglocken", 
-    "sofa:maxNote": "105", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "60", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/almglocken",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "almglocken",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/metal.bells.almglocken",
+  "rdfs:comment": "## Almglocken\n\nAlmglocken",
+  "rdfs:label": "Almglocken",
+  "sofa:maxNote": "105",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "60",
+  "sofa:minPitch": ""
 }

@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/tenor_recorder", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "tenor_recorder", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.recorder.tenor", 
-    "rdfs:comment": "## Tenor Recorder\n\nTenor Recorder", 
-    "rdfs:label": "Tenor Recorder", 
-    "sofa:maxNote": "81", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "60", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/tenor_recorder",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "tenor_recorder",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.recorder.tenor",
+  "rdfs:comment": "## Tenor Recorder\n\nTenor Recorder",
+  "rdfs:label": "Tenor Recorder",
+  "sofa:maxNote": "81",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "60",
+  "sofa:minPitch": ""
 }

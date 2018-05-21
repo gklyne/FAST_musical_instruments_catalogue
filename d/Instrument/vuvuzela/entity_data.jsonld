@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/vuvuzela", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "vuvuzela", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/brass.vuvuzela", 
-    "rdfs:comment": "## Vuvuzela\n\nVuvuzela", 
-    "rdfs:label": "Vuvuzela", 
-    "sofa:maxNote": "75", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "35", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/vuvuzela",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "vuvuzela",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/brass.vuvuzela",
+  "rdfs:comment": "## Vuvuzela\n\nVuvuzela",
+  "rdfs:label": "Vuvuzela",
+  "sofa:maxNote": "75",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "35",
+  "sofa:minPitch": ""
 }

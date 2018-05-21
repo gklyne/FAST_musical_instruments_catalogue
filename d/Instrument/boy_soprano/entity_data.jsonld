@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/boy_soprano", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "boy_soprano", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/voice.child", 
-    "rdfs:comment": "## Boy Soprano\n\nBoy Soprano", 
-    "rdfs:label": "Boy Soprano", 
-    "sofa:maxNote": "81", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "60", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/boy_soprano",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "boy_soprano",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/voice.child",
+  "rdfs:comment": "## Boy Soprano\n\nBoy Soprano",
+  "rdfs:label": "Boy Soprano",
+  "sofa:maxNote": "81",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "60",
+  "sofa:minPitch": ""
 }

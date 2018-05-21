@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/contra_alto_flute", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "contra_alto_flute", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute.contra-alto", 
-    "rdfs:comment": "## Contra-alto Flute\n\nContra-alto Flute", 
-    "rdfs:label": "Contra-alto Flute", 
-    "sofa:maxNote": "76", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "43", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/contra_alto_flute",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "contra_alto_flute",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute.contra-alto",
+  "rdfs:comment": "## Contra-alto Flute\n\nContra-alto Flute",
+  "rdfs:label": "Contra-alto Flute",
+  "sofa:maxNote": "76",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "43",
+  "sofa:minPitch": ""
 }

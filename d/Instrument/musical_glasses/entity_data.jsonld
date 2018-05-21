@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/musical_glasses", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "musical_glasses", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.crystal-glasses", 
-    "rdfs:comment": "## Musical Glasses\n\nMusical Glasses", 
-    "rdfs:label": "Musical Glasses", 
-    "sofa:maxNote": "91", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "72", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/musical_glasses",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "musical_glasses",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.crystal-glasses",
+  "rdfs:comment": "## Musical Glasses\n\nMusical Glasses",
+  "rdfs:label": "Musical Glasses",
+  "sofa:maxNote": "91",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "72",
+  "sofa:minPitch": ""
 }

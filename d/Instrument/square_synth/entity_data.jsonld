@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/square_synth", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "square_synth", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/synth.tone.sine", 
-    "rdfs:comment": "## Square Synthesizer\n\nSquare Wave Synthesizer", 
-    "rdfs:label": "Square Synthesizer", 
-    "sofa:maxNote": "96", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "36", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/square_synth",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "square_synth",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/synth.tone.sine",
+  "rdfs:comment": "## Square Synthesizer\n\nSquare Wave Synthesizer",
+  "rdfs:label": "Square Synthesizer",
+  "sofa:maxNote": "96",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "36",
+  "sofa:minPitch": ""
 }

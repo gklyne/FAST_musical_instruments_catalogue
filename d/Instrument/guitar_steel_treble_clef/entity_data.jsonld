@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/guitar_steel_treble_clef", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "guitar_steel_treble_clef", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.guitar.acoustic", 
-    "rdfs:comment": "## Guitar\n\nAcoustic Steel-strung Guitar (Treble Clef)", 
-    "rdfs:label": "Guitar", 
-    "sofa:maxNote": "83", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "40", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/guitar_steel_treble_clef",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "guitar_steel_treble_clef",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.guitar.acoustic",
+  "rdfs:comment": "## Guitar\n\nAcoustic Steel-strung Guitar (Treble Clef)",
+  "rdfs:label": "Guitar",
+  "sofa:maxNote": "83",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "40",
+  "sofa:minPitch": ""
 }

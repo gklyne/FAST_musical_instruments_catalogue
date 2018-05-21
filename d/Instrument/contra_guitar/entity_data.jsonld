@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/contra_guitar", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "contra_guitar", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.guitar", 
-    "rdfs:comment": "## Contra Guitar\n\nAcoustic Contra Guitar", 
-    "rdfs:label": "Contra Guitar", 
-    "sofa:maxNote": "83", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "31", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/contra_guitar",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "contra_guitar",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.guitar",
+  "rdfs:comment": "## Contra Guitar\n\nAcoustic Contra Guitar",
+  "rdfs:label": "Contra Guitar",
+  "sofa:maxNote": "83",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "31",
+  "sofa:minPitch": ""
 }

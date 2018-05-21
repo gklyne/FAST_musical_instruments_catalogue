@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/balalaika_bass", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "balalaika_bass", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.balalaika.bass", 
-    "rdfs:comment": "## Bass Balalaika\n\nBass Balalaika ", 
-    "rdfs:label": "Bass Balalaika", 
-    "sofa:maxNote": "67", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "40", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/balalaika_bass",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "balalaika_bass",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.balalaika.bass",
+  "rdfs:comment": "## Bass Balalaika\n\nBass Balalaika ",
+  "rdfs:label": "Bass Balalaika",
+  "sofa:maxNote": "67",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "40",
+  "sofa:minPitch": ""
 }

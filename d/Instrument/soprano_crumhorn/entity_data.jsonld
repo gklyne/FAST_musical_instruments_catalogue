@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/soprano_crumhorn", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "soprano_crumhorn", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.crumhorn.soprano", 
-    "rdfs:comment": "## Soprano Crumhorn\n\nSoprano Crumhorn", 
-    "rdfs:label": "Soprano Crumhorn", 
-    "sofa:maxNote": "74", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "60", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/soprano_crumhorn",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "soprano_crumhorn",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.crumhorn.soprano",
+  "rdfs:comment": "## Soprano Crumhorn\n\nSoprano Crumhorn",
+  "rdfs:label": "Soprano Crumhorn",
+  "sofa:maxNote": "74",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "60",
+  "sofa:minPitch": ""
 }

@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/flugelhorn", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "flugelhorn", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/brass.flugelhorn", 
-    "rdfs:comment": "## Flugelhorn\n\nFlugelhorn", 
-    "rdfs:label": "Flugelhorn", 
-    "sofa:maxNote": "79", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "52", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/flugelhorn",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "flugelhorn",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/brass.flugelhorn",
+  "rdfs:comment": "## Flugelhorn\n\nFlugelhorn",
+  "rdfs:label": "Flugelhorn",
+  "sofa:maxNote": "79",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "52",
+  "sofa:minPitch": ""
 }
