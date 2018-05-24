@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/electric_guitar_treble_clef",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "electric_guitar_treble_clef",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.guitar.electric",
-  "rdfs:comment": "## Electric Guitar\n\nElectric Guitar",
-  "rdfs:label": "Electric Guitar",
-  "sofa:maxNote": "86",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "40",
-  "sofa:minPitch": ""
+    "@id": "Instrument/electric_guitar_treble_clef", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "electric_guitar_treble_clef", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.guitar.electric", 
+    "rdfs:comment": "## Electric Guitar\n\nElectric Guitar", 
+    "rdfs:label": "Electric Guitar", 
+    "sofa:maxMidi": "86", 
+    "sofa:maxNote": "D6", 
+    "sofa:maxPitch": "1174.7", 
+    "sofa:minMidi": "40", 
+    "sofa:minNote": "E2", 
+    "sofa:minPitch": "82.407"
 }

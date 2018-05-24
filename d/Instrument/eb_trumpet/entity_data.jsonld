@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/eb_trumpet",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "eb_trumpet",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.trumpet",
-  "rdfs:comment": "## E\u266d Trumpet\n\nE\u266d Trumpet",
-  "rdfs:label": "E\u266d Trumpet",
-  "sofa:maxNote": "84",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "57",
-  "sofa:minPitch": ""
+    "@id": "Instrument/eb_trumpet", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "eb_trumpet", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.trumpet", 
+    "rdfs:comment": "## E\u266d Trumpet\n\nE\u266d Trumpet", 
+    "rdfs:label": "E\u266d Trumpet", 
+    "sofa:maxMidi": "84", 
+    "sofa:maxNote": "C6", 
+    "sofa:maxPitch": "1046.5", 
+    "sofa:minMidi": "57", 
+    "sofa:minNote": "A3", 
+    "sofa:minPitch": "220.00"
 }

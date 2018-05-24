@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/tenor_steel_drums",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "tenor_steel_drums",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/metal.steel-drums",
-  "rdfs:comment": "## Tenor Steel Drums\n\nTenor Steel Drums",
-  "rdfs:label": "Tenor Steel Drums",
-  "sofa:maxNote": "69",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "52",
-  "sofa:minPitch": ""
+    "@id": "Instrument/tenor_steel_drums", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "tenor_steel_drums", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/metal.steel-drums", 
+    "rdfs:comment": "## Tenor Steel Drums\n\nTenor Steel Drums", 
+    "rdfs:label": "Tenor Steel Drums", 
+    "sofa:maxMidi": "69", 
+    "sofa:maxNote": "A4", 
+    "sofa:maxPitch": "440.00", 
+    "sofa:minMidi": "52", 
+    "sofa:minNote": "E3", 
+    "sofa:minPitch": "164.81"
 }

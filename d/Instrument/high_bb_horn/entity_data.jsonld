@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/high_bb_horn",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "high_bb_horn",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.french-horn",
-  "rdfs:comment": "## Horn in B\u266d\n\nHigh B\u266d Horn",
-  "rdfs:label": "Horn in B\u266d",
-  "sofa:maxNote": "77",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "44",
-  "sofa:minPitch": ""
+    "@id": "Instrument/high_bb_horn", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "high_bb_horn", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.french-horn", 
+    "rdfs:comment": "## Horn in B\u266d\n\nHigh B\u266d Horn", 
+    "rdfs:label": "Horn in B\u266d", 
+    "sofa:maxMidi": "77", 
+    "sofa:maxNote": "F5", 
+    "sofa:maxPitch": "698.46", 
+    "sofa:minMidi": "44", 
+    "sofa:minNote": "G#2", 
+    "sofa:minPitch": "103.83"
 }

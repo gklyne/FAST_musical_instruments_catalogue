@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/harmonica_c14c",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "harmonica_c14c",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.harmonica",
-  "rdfs:comment": "## 14 Hole C Chromatic Harmonica\n\n14 Hole Chromatic Harmonica in C",
-  "rdfs:label": "14 Hole C Chromatic Harmonica",
-  "sofa:maxNote": "96",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "55",
-  "sofa:minPitch": ""
+    "@id": "Instrument/harmonica_c14c", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "harmonica_c14c", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.harmonica", 
+    "rdfs:comment": "## 14 Hole C Chromatic Harmonica\n\n14 Hole Chromatic Harmonica in C", 
+    "rdfs:label": "14 Hole C Chromatic Harmonica", 
+    "sofa:maxMidi": "96", 
+    "sofa:maxNote": "C7", 
+    "sofa:maxPitch": "2093.0", 
+    "sofa:minMidi": "55", 
+    "sofa:minNote": "G3", 
+    "sofa:minPitch": "196.00"
 }

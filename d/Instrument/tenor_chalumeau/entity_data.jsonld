@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/tenor_chalumeau",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "tenor_chalumeau",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.chalumeau",
-  "rdfs:comment": "## Tenor Chalumeau\n\nTenor Chalumeau",
-  "rdfs:label": "Tenor Chalumeau",
-  "sofa:maxNote": "62",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "48",
-  "sofa:minPitch": ""
+    "@id": "Instrument/tenor_chalumeau", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "tenor_chalumeau", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.chalumeau", 
+    "rdfs:comment": "## Tenor Chalumeau\n\nTenor Chalumeau", 
+    "rdfs:label": "Tenor Chalumeau", 
+    "sofa:maxMidi": "62", 
+    "sofa:maxNote": "D4", 
+    "sofa:maxPitch": "293.66", 
+    "sofa:minMidi": "48", 
+    "sofa:minNote": "C3", 
+    "sofa:minPitch": "130.81"
 }

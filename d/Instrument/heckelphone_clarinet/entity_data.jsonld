@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/heckelphone_clarinet",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "heckelphone_clarinet",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.heckelphone-clarinet",
-  "rdfs:comment": "## Heckelphone-clarinet\n\nHeckelphone",
-  "rdfs:label": "Heckelphone-clarinet",
-  "sofa:maxNote": "84",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "50",
-  "sofa:minPitch": ""
+    "@id": "Instrument/heckelphone_clarinet", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "heckelphone_clarinet", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.heckelphone-clarinet", 
+    "rdfs:comment": "## Heckelphone-clarinet\n\nHeckelphone", 
+    "rdfs:label": "Heckelphone-clarinet", 
+    "sofa:maxMidi": "84", 
+    "sofa:maxNote": "C6", 
+    "sofa:maxPitch": "1046.5", 
+    "sofa:minMidi": "50", 
+    "sofa:minNote": "D3", 
+    "sofa:minPitch": "146.83"
 }

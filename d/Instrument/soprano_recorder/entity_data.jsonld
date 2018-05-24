@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/soprano_recorder",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "soprano_recorder",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.recorder.soprano",
-  "rdfs:comment": "## Soprano Recorder\n\nSoprano Recorder",
-  "rdfs:label": "Soprano Recorder",
-  "sofa:maxNote": "93",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "72",
-  "sofa:minPitch": ""
+    "@id": "Instrument/soprano_recorder", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "soprano_recorder", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.recorder.soprano", 
+    "rdfs:comment": "## Soprano Recorder\n\nSoprano Recorder", 
+    "rdfs:label": "Soprano Recorder", 
+    "sofa:maxMidi": "93", 
+    "sofa:maxNote": "A6", 
+    "sofa:maxPitch": "1760.0", 
+    "sofa:minMidi": "72", 
+    "sofa:minNote": "C5", 
+    "sofa:minPitch": "523.25"
 }

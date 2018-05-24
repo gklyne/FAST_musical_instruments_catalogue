@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/lute",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "lute",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.lute",
-  "rdfs:comment": "## Lute\n\nLute",
-  "rdfs:label": "Lute",
-  "sofa:maxNote": "79",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "33",
-  "sofa:minPitch": ""
+    "@id": "Instrument/lute", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "lute", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.lute", 
+    "rdfs:comment": "## Lute\n\nLute", 
+    "rdfs:label": "Lute", 
+    "sofa:maxMidi": "79", 
+    "sofa:maxNote": "G5", 
+    "sofa:maxPitch": "783.99", 
+    "sofa:minMidi": "33", 
+    "sofa:minNote": "A1", 
+    "sofa:minPitch": "55.000"
 }

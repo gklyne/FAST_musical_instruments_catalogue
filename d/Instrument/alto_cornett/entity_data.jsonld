@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/alto_cornett",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "alto_cornett",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.cornett",
-  "rdfs:comment": "## Alto Cornett\n\nAlto Cornett",
-  "rdfs:label": "Alto Cornett",
-  "sofa:maxNote": "80",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "57",
-  "sofa:minPitch": ""
+    "@id": "Instrument/alto_cornett", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "alto_cornett", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.cornett", 
+    "rdfs:comment": "## Alto Cornett\n\nAlto Cornett", 
+    "rdfs:label": "Alto Cornett", 
+    "sofa:maxMidi": "80", 
+    "sofa:maxNote": "G#5", 
+    "sofa:maxPitch": "830.61", 
+    "sofa:minMidi": "57", 
+    "sofa:minNote": "A3", 
+    "sofa:minPitch": "220.00"
 }

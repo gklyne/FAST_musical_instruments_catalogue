@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/alphorn",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "alphorn",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.alphorn",
-  "rdfs:comment": "## Alphorn\n\nAlphorn",
-  "rdfs:label": "Alphorn",
-  "sofa:maxNote": "67",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "34",
-  "sofa:minPitch": ""
+    "@id": "Instrument/alphorn", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "alphorn", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.alphorn", 
+    "rdfs:comment": "## Alphorn\n\nAlphorn", 
+    "rdfs:label": "Alphorn", 
+    "sofa:maxMidi": "67", 
+    "sofa:maxNote": "G4", 
+    "sofa:maxPitch": "392.00", 
+    "sofa:minMidi": "34", 
+    "sofa:minNote": "A#1", 
+    "sofa:minPitch": "58.270"
 }

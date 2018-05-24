@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/automobile_brake_drums",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "automobile_brake_drums",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/metal.brake-drums",
-  "rdfs:comment": "## Automobile Brake Drums\n\nAutomobile Brake Drums",
-  "rdfs:label": "Automobile Brake Drums",
-  "sofa:maxNote": "",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "",
-  "sofa:minPitch": ""
+    "@id": "Instrument/automobile_brake_drums", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "automobile_brake_drums", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/metal.brake-drums", 
+    "rdfs:comment": "## Automobile Brake Drums\n\nAutomobile Brake Drums", 
+    "rdfs:label": "Automobile Brake Drums", 
+    "sofa:maxMidi": "", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minMidi": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
 }

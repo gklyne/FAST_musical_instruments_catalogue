@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/tuned_klaxon_horns",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "tuned_klaxon_horns",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "",
-  "rdfs:comment": "## Tuned Klaxon Horns\n\nTuned Klaxon Horns",
-  "rdfs:label": "Tuned Klaxon Horns",
-  "sofa:maxNote": "72",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "48",
-  "sofa:minPitch": ""
+    "@id": "Instrument/tuned_klaxon_horns", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "tuned_klaxon_horns", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "", 
+    "rdfs:comment": "## Tuned Klaxon Horns\n\nTuned Klaxon Horns", 
+    "rdfs:label": "Tuned Klaxon Horns", 
+    "sofa:maxMidi": "72", 
+    "sofa:maxNote": "C5", 
+    "sofa:maxPitch": "523.25", 
+    "sofa:minMidi": "48", 
+    "sofa:minNote": "C3", 
+    "sofa:minPitch": "130.81"
 }

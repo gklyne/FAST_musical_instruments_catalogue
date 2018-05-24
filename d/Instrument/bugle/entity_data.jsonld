@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/bugle",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "bugle",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.bugle",
-  "rdfs:comment": "## Bugle\n\nBugle",
-  "rdfs:label": "Bugle",
-  "sofa:maxNote": "79",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "67",
-  "sofa:minPitch": ""
+    "@id": "Instrument/bugle", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bugle", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.bugle", 
+    "rdfs:comment": "## Bugle\n\nBugle", 
+    "rdfs:label": "Bugle", 
+    "sofa:maxMidi": "79", 
+    "sofa:maxNote": "G5", 
+    "sofa:maxPitch": "783.99", 
+    "sofa:minMidi": "67", 
+    "sofa:minNote": "G4", 
+    "sofa:minPitch": "392.00"
 }

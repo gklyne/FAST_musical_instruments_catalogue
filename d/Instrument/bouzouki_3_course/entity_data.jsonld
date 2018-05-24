@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/bouzouki_3_course",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "bouzouki_3_course",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.bouzouki",
-  "rdfs:comment": "## Bouzouki\n\nBouzouki (3-course)",
-  "rdfs:label": "Bouzouki",
-  "sofa:maxNote": "89",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "50",
-  "sofa:minPitch": ""
+    "@id": "Instrument/bouzouki_3_course", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bouzouki_3_course", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.bouzouki", 
+    "rdfs:comment": "## Bouzouki\n\nBouzouki (3-course)", 
+    "rdfs:label": "Bouzouki", 
+    "sofa:maxMidi": "89", 
+    "sofa:maxNote": "F6", 
+    "sofa:maxPitch": "1396.9", 
+    "sofa:minMidi": "50", 
+    "sofa:minNote": "D3", 
+    "sofa:minPitch": "146.83"
 }

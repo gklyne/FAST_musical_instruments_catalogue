@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/eb_contrabass_ophicleide",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "eb_contrabass_ophicleide",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.ophicleide",
-  "rdfs:comment": "## E\u266d Contrabass Ophicleide\n\nE\u266d Contrabass Ophicleide",
-  "rdfs:label": "E\u266d Contrabass Ophicleide",
-  "sofa:maxNote": "55",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "26",
-  "sofa:minPitch": ""
+    "@id": "Instrument/eb_contrabass_ophicleide", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "eb_contrabass_ophicleide", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.ophicleide", 
+    "rdfs:comment": "## E\u266d Contrabass Ophicleide\n\nE\u266d Contrabass Ophicleide", 
+    "rdfs:label": "E\u266d Contrabass Ophicleide", 
+    "sofa:maxMidi": "55", 
+    "sofa:maxNote": "G3", 
+    "sofa:maxPitch": "196.00", 
+    "sofa:minMidi": "26", 
+    "sofa:minNote": "D1", 
+    "sofa:minPitch": "36.708"
 }

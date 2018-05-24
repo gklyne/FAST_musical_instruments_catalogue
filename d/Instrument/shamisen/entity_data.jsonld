@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/shamisen",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "shamisen",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.shamisen",
-  "rdfs:comment": "## Shamisen\n\nShamisen",
-  "rdfs:label": "Shamisen",
-  "sofa:maxNote": "83",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "50",
-  "sofa:minPitch": ""
+    "@id": "Instrument/shamisen", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "shamisen", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.shamisen", 
+    "rdfs:comment": "## Shamisen\n\nShamisen", 
+    "rdfs:label": "Shamisen", 
+    "sofa:maxMidi": "83", 
+    "sofa:maxNote": "B5", 
+    "sofa:maxPitch": "987.77", 
+    "sofa:minMidi": "50", 
+    "sofa:minNote": "D3", 
+    "sofa:minPitch": "146.83"
 }

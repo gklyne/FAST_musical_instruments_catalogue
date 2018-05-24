@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/gemshorn",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "gemshorn",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.gemshorn",
-  "rdfs:comment": "## Gemshorn\n\nGemshorn",
-  "rdfs:label": "Gemshorn",
-  "sofa:maxNote": "87",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "72",
-  "sofa:minPitch": ""
+    "@id": "Instrument/gemshorn", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "gemshorn", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.gemshorn", 
+    "rdfs:comment": "## Gemshorn\n\nGemshorn", 
+    "rdfs:label": "Gemshorn", 
+    "sofa:maxMidi": "87", 
+    "sofa:maxNote": "D#6", 
+    "sofa:maxPitch": "1244.5", 
+    "sofa:minMidi": "72", 
+    "sofa:minNote": "C5", 
+    "sofa:minPitch": "523.25"
 }

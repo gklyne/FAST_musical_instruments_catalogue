@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/mandolin",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "mandolin",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.mandolin",
-  "rdfs:comment": "## Mandolin\n\nMandolin",
-  "rdfs:label": "Mandolin",
-  "sofa:maxNote": "85",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "55",
-  "sofa:minPitch": ""
+    "@id": "Instrument/mandolin", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "mandolin", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.mandolin", 
+    "rdfs:comment": "## Mandolin\n\nMandolin", 
+    "rdfs:label": "Mandolin", 
+    "sofa:maxMidi": "85", 
+    "sofa:maxNote": "Db6", 
+    "sofa:maxPitch": "1108.7", 
+    "sofa:minMidi": "55", 
+    "sofa:minNote": "G3", 
+    "sofa:minPitch": "196.00"
 }

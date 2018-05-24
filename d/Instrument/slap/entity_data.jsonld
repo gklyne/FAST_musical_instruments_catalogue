@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/slap",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "slap",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/effect.slap",
-  "rdfs:comment": "## Slap\n\nSlap",
-  "rdfs:label": "Slap",
-  "sofa:maxNote": "",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "",
-  "sofa:minPitch": ""
+    "@id": "Instrument/slap", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "slap", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/effect.slap", 
+    "rdfs:comment": "## Slap\n\nSlap", 
+    "rdfs:label": "Slap", 
+    "sofa:maxMidi": "", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minMidi": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
 }

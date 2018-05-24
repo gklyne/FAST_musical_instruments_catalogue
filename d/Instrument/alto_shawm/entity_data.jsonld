@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/alto_shawm",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "alto_shawm",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.shawm",
-  "rdfs:comment": "## Alto Shawm\n\nAlto Shawm",
-  "rdfs:label": "Alto Shawm",
-  "sofa:maxNote": "69",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "53",
-  "sofa:minPitch": ""
+    "@id": "Instrument/alto_shawm", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "alto_shawm", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.shawm", 
+    "rdfs:comment": "## Alto Shawm\n\nAlto Shawm", 
+    "rdfs:label": "Alto Shawm", 
+    "sofa:maxMidi": "69", 
+    "sofa:maxNote": "A4", 
+    "sofa:maxPitch": "440.00", 
+    "sofa:minMidi": "53", 
+    "sofa:minNote": "F3", 
+    "sofa:minPitch": "174.61"
 }

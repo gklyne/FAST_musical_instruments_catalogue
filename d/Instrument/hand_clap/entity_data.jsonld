@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/hand_clap",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "hand_clap",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/effect.hand-clap",
-  "rdfs:comment": "## Hand Clap\n\nHand Clap",
-  "rdfs:label": "Hand Clap",
-  "sofa:maxNote": "",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "",
-  "sofa:minPitch": ""
+    "@id": "Instrument/hand_clap", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "hand_clap", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/effect.hand-clap", 
+    "rdfs:comment": "## Hand Clap\n\nHand Clap", 
+    "rdfs:label": "Hand Clap", 
+    "sofa:maxMidi": "", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minMidi": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
 }

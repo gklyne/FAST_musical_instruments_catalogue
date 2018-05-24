@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/bb_cornet",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "bb_cornet",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.cornet",
-  "rdfs:comment": "## B\u266d Cornet\n\nB\u266d Cornet",
-  "rdfs:label": "B\u266d Cornet",
-  "sofa:maxNote": "79",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "52",
-  "sofa:minPitch": ""
+    "@id": "Instrument/bb_cornet", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bb_cornet", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.cornet", 
+    "rdfs:comment": "## B\u266d Cornet\n\nB\u266d Cornet", 
+    "rdfs:label": "B\u266d Cornet", 
+    "sofa:maxMidi": "79", 
+    "sofa:maxNote": "G5", 
+    "sofa:maxPitch": "783.99", 
+    "sofa:minMidi": "52", 
+    "sofa:minNote": "E3", 
+    "sofa:minPitch": "164.81"
 }

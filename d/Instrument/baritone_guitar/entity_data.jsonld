@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/baritone_guitar",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "baritone_guitar",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.guitar",
-  "rdfs:comment": "## Baritone Guitar\n\nBaritone Guitar",
-  "rdfs:label": "Baritone Guitar",
-  "sofa:maxNote": "78",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "35",
-  "sofa:minPitch": ""
+    "@id": "Instrument/baritone_guitar", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "baritone_guitar", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.guitar", 
+    "rdfs:comment": "## Baritone Guitar\n\nBaritone Guitar", 
+    "rdfs:label": "Baritone Guitar", 
+    "sofa:maxMidi": "78", 
+    "sofa:maxNote": "Gb5", 
+    "sofa:maxPitch": "739.99", 
+    "sofa:minMidi": "35", 
+    "sofa:minNote": "B1", 
+    "sofa:minPitch": "61.735"
 }

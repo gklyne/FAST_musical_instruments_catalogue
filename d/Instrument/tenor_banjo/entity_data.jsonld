@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/tenor_banjo",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "tenor_banjo",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.banjo.tenor",
-  "rdfs:comment": "## Tenor Banjo\n\n4 string Tenor Banjo",
-  "rdfs:label": "Tenor Banjo",
-  "sofa:maxNote": "83",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "48",
-  "sofa:minPitch": ""
+    "@id": "Instrument/tenor_banjo", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "tenor_banjo", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.banjo.tenor", 
+    "rdfs:comment": "## Tenor Banjo\n\n4 string Tenor Banjo", 
+    "rdfs:label": "Tenor Banjo", 
+    "sofa:maxMidi": "83", 
+    "sofa:maxNote": "B5", 
+    "sofa:maxPitch": "987.77", 
+    "sofa:minMidi": "48", 
+    "sofa:minNote": "C3", 
+    "sofa:minPitch": "130.81"
 }

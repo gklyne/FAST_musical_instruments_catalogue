@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/english_horn",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "english_horn",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.english-horn",
-  "rdfs:comment": "## English Horn\n\nCor anglais",
-  "rdfs:label": "English Horn",
-  "sofa:maxNote": "81",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "52",
-  "sofa:minPitch": ""
+    "@id": "Instrument/english_horn", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "english_horn", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.english-horn", 
+    "rdfs:comment": "## English Horn\n\nCor anglais", 
+    "rdfs:label": "English Horn", 
+    "sofa:maxMidi": "81", 
+    "sofa:maxNote": "A5", 
+    "sofa:maxPitch": "880.00", 
+    "sofa:minMidi": "52", 
+    "sofa:minNote": "E3", 
+    "sofa:minPitch": "164.81"
 }

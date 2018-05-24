@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/contrabass_trombone",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "contrabass_trombone",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.trombone.contrabass",
-  "rdfs:comment": "## Contrabass Trombone\n\nContrabass Trombone",
-  "rdfs:label": "Contrabass Trombone",
-  "sofa:maxNote": "55",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "28",
-  "sofa:minPitch": ""
+    "@id": "Instrument/contrabass_trombone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "contrabass_trombone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.trombone.contrabass", 
+    "rdfs:comment": "## Contrabass Trombone\n\nContrabass Trombone", 
+    "rdfs:label": "Contrabass Trombone", 
+    "sofa:maxMidi": "55", 
+    "sofa:maxNote": "G3", 
+    "sofa:maxPitch": "196.00", 
+    "sofa:minMidi": "28", 
+    "sofa:minNote": "E1", 
+    "sofa:minPitch": "41.203"
 }

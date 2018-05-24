@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/bb_bass_clarinet_bass_clef",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "bb_bass_clarinet_bass_clef",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.clarinet.bass",
-  "rdfs:comment": "## B\u266d Bass Clarinet (Bass Clef)\n\nBass Clarinet (Bass Clef)",
-  "rdfs:label": "B\u266d Bass Clarinet (Bass Clef)",
-  "sofa:maxNote": "75",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "37",
-  "sofa:minPitch": ""
+    "@id": "Instrument/bb_bass_clarinet_bass_clef", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bb_bass_clarinet_bass_clef", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.clarinet.bass", 
+    "rdfs:comment": "## B\u266d Bass Clarinet (Bass Clef)\n\nBass Clarinet (Bass Clef)", 
+    "rdfs:label": "B\u266d Bass Clarinet (Bass Clef)", 
+    "sofa:maxMidi": "75", 
+    "sofa:maxNote": "D#5", 
+    "sofa:maxPitch": "622.25", 
+    "sofa:minMidi": "37", 
+    "sofa:minNote": "Db2", 
+    "sofa:minPitch": "69.296"
 }

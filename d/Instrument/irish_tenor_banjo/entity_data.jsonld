@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/irish_tenor_banjo",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "irish_tenor_banjo",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.banjo.tenor",
-  "rdfs:comment": "## Irish Tenor Banjo\n\n4 string Irish Tenor Banjo",
-  "rdfs:label": "Irish Tenor Banjo",
-  "sofa:maxNote": "69",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "43",
-  "sofa:minPitch": ""
+    "@id": "Instrument/irish_tenor_banjo", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "irish_tenor_banjo", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.banjo.tenor", 
+    "rdfs:comment": "## Irish Tenor Banjo\n\n4 string Irish Tenor Banjo", 
+    "rdfs:label": "Irish Tenor Banjo", 
+    "sofa:maxMidi": "69", 
+    "sofa:maxNote": "A4", 
+    "sofa:maxPitch": "440.00", 
+    "sofa:minMidi": "43", 
+    "sofa:minNote": "G2", 
+    "sofa:minPitch": "97.999"
 }

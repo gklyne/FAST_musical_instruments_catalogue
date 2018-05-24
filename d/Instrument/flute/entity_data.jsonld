@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/flute",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "flute",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute",
-  "rdfs:comment": "## Flute\n\nStandard Concert Flute",
-  "rdfs:label": "Flute",
-  "sofa:maxNote": "93",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "60",
-  "sofa:minPitch": ""
+    "@id": "Instrument/flute", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "flute", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute", 
+    "rdfs:comment": "## Flute\n\nStandard Concert Flute", 
+    "rdfs:label": "Flute", 
+    "sofa:maxMidi": "93", 
+    "sofa:maxNote": "A6", 
+    "sofa:maxPitch": "1760.0", 
+    "sofa:minMidi": "60", 
+    "sofa:minNote": "C4", 
+    "sofa:minPitch": "261.63"
 }

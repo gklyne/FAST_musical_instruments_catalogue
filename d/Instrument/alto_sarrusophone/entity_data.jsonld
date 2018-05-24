@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/alto_sarrusophone",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "alto_sarrusophone",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.sarrusaphone",
-  "rdfs:comment": "## Alto Sarrusophone\n\nAlto Sarrusophone",
-  "rdfs:label": "Alto Sarrusophone",
-  "sofa:maxNote": "80",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "49",
-  "sofa:minPitch": ""
+    "@id": "Instrument/alto_sarrusophone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "alto_sarrusophone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.sarrusaphone", 
+    "rdfs:comment": "## Alto Sarrusophone\n\nAlto Sarrusophone", 
+    "rdfs:label": "Alto Sarrusophone", 
+    "sofa:maxMidi": "80", 
+    "sofa:maxNote": "G#5", 
+    "sofa:maxPitch": "830.61", 
+    "sofa:minMidi": "49", 
+    "sofa:minNote": "Db3", 
+    "sofa:minPitch": "138.59"
 }

@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/bb_bass_ophicleide",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "bb_bass_ophicleide",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.ophicleide",
-  "rdfs:comment": "## B\u266d Bass Ophicleide\n\nB\u266d Bass Ophicleide",
-  "rdfs:label": "B\u266d Bass Ophicleide",
-  "sofa:maxNote": "62",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "33",
-  "sofa:minPitch": ""
+    "@id": "Instrument/bb_bass_ophicleide", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bb_bass_ophicleide", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.ophicleide", 
+    "rdfs:comment": "## B\u266d Bass Ophicleide\n\nB\u266d Bass Ophicleide", 
+    "rdfs:label": "B\u266d Bass Ophicleide", 
+    "sofa:maxMidi": "62", 
+    "sofa:maxNote": "D4", 
+    "sofa:maxPitch": "293.66", 
+    "sofa:minMidi": "33", 
+    "sofa:minNote": "A1", 
+    "sofa:minPitch": "55.000"
 }

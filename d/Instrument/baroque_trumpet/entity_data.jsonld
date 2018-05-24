@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/baroque_trumpet",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "baroque_trumpet",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.trumpet.baroque",
-  "rdfs:comment": "## Baroque Trumpet\n\nBaroque Trumpet in B\u266d (generic)",
-  "rdfs:label": "Baroque Trumpet",
-  "sofa:maxNote": "79",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "58",
-  "sofa:minPitch": ""
+    "@id": "Instrument/baroque_trumpet", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "baroque_trumpet", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.trumpet.baroque", 
+    "rdfs:comment": "## Baroque Trumpet\n\nBaroque Trumpet in B\u266d (generic)", 
+    "rdfs:label": "Baroque Trumpet", 
+    "sofa:maxMidi": "79", 
+    "sofa:maxNote": "G5", 
+    "sofa:maxPitch": "783.99", 
+    "sofa:minMidi": "58", 
+    "sofa:minNote": "A#3", 
+    "sofa:minPitch": "233.08"
 }

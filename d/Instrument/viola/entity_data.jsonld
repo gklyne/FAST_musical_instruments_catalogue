@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/viola",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "viola",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/strings.viola",
-  "rdfs:comment": "## Viola\n\nViola",
-  "rdfs:label": "Viola",
-  "sofa:maxNote": "79",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "48",
-  "sofa:minPitch": ""
+    "@id": "Instrument/viola", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "viola", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/strings.viola", 
+    "rdfs:comment": "## Viola\n\nViola", 
+    "rdfs:label": "Viola", 
+    "sofa:maxMidi": "79", 
+    "sofa:maxNote": "G5", 
+    "sofa:maxPitch": "783.99", 
+    "sofa:minMidi": "48", 
+    "sofa:minNote": "C3", 
+    "sofa:minPitch": "130.81"
 }

@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/mellophone",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "mellophone",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.mellophone",
-  "rdfs:comment": "## Mellophone\n\nMellophone",
-  "rdfs:label": "Mellophone",
-  "sofa:maxNote": "74",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "47",
-  "sofa:minPitch": ""
+    "@id": "Instrument/mellophone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "mellophone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.mellophone", 
+    "rdfs:comment": "## Mellophone\n\nMellophone", 
+    "rdfs:label": "Mellophone", 
+    "sofa:maxMidi": "74", 
+    "sofa:maxNote": "D5", 
+    "sofa:maxPitch": "587.33", 
+    "sofa:minMidi": "47", 
+    "sofa:minNote": "B2", 
+    "sofa:minPitch": "123.47"
 }

@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/soprano_kelhorn",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "soprano_kelhorn",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "",
-  "rdfs:comment": "## Soprano Kelhorn\n\nSoprano Kelhorn",
-  "rdfs:label": "Soprano Kelhorn",
-  "sofa:maxNote": "74",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "60",
-  "sofa:minPitch": ""
+    "@id": "Instrument/soprano_kelhorn", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "soprano_kelhorn", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "", 
+    "rdfs:comment": "## Soprano Kelhorn\n\nSoprano Kelhorn", 
+    "rdfs:label": "Soprano Kelhorn", 
+    "sofa:maxMidi": "74", 
+    "sofa:maxNote": "D5", 
+    "sofa:maxPitch": "587.33", 
+    "sofa:minMidi": "60", 
+    "sofa:minNote": "C4", 
+    "sofa:minPitch": "261.63"
 }

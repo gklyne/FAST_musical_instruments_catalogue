@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/men",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "men",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/voice.male",
-  "rdfs:comment": "## Men\n\nMen",
-  "rdfs:label": "Men",
-  "sofa:maxNote": "67",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "41",
-  "sofa:minPitch": ""
+    "@id": "Instrument/men", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "men", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/voice.male", 
+    "rdfs:comment": "## Men\n\nMen", 
+    "rdfs:label": "Men", 
+    "sofa:maxMidi": "67", 
+    "sofa:maxNote": "G4", 
+    "sofa:maxPitch": "392.00", 
+    "sofa:minMidi": "41", 
+    "sofa:minNote": "F2", 
+    "sofa:minPitch": "87.307"
 }

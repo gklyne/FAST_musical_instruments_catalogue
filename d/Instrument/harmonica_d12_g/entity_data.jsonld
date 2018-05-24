@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/harmonica_d12_g",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "harmonica_d12_g",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.harmonica",
-  "rdfs:comment": "## 10 Hole G Diatonic Harmonica\n\n10 Hole Diatonic Harmonica in G",
-  "rdfs:label": "10 Hole G Diatonic Harmonica",
-  "sofa:maxNote": "91",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "55",
-  "sofa:minPitch": ""
+    "@id": "Instrument/harmonica_d12_g", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "harmonica_d12_g", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.harmonica", 
+    "rdfs:comment": "## 10 Hole G Diatonic Harmonica\n\n10 Hole Diatonic Harmonica in G", 
+    "rdfs:label": "10 Hole G Diatonic Harmonica", 
+    "sofa:maxMidi": "91", 
+    "sofa:maxNote": "G6", 
+    "sofa:maxPitch": "1568.0", 
+    "sofa:minMidi": "55", 
+    "sofa:minNote": "G3", 
+    "sofa:minPitch": "196.00"
 }

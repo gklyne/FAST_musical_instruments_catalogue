@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/double_contrabass_flute",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "double_contrabass_flute",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute.double-contrabass",
-  "rdfs:comment": "## Double Contrabass Flute\n\nDouble Contrabass Flute",
-  "rdfs:label": "Double Contrabass Flute",
-  "sofa:maxNote": "53",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "24",
-  "sofa:minPitch": ""
+    "@id": "Instrument/double_contrabass_flute", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "double_contrabass_flute", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute.double-contrabass", 
+    "rdfs:comment": "## Double Contrabass Flute\n\nDouble Contrabass Flute", 
+    "rdfs:label": "Double Contrabass Flute", 
+    "sofa:maxMidi": "53", 
+    "sofa:maxNote": "F3", 
+    "sofa:maxPitch": "174.61", 
+    "sofa:minMidi": "24", 
+    "sofa:minNote": "C1", 
+    "sofa:minPitch": "32.703"
 }

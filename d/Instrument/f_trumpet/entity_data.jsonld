@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/f_trumpet",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "f_trumpet",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.trumpet",
-  "rdfs:comment": "## F Trumpet\n\nF Trumpet",
-  "rdfs:label": "F Trumpet",
-  "sofa:maxNote": "82",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "65",
-  "sofa:minPitch": ""
+    "@id": "Instrument/f_trumpet", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "f_trumpet", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.trumpet", 
+    "rdfs:comment": "## F Trumpet\n\nF Trumpet", 
+    "rdfs:label": "F Trumpet", 
+    "sofa:maxMidi": "82", 
+    "sofa:maxNote": "A#5", 
+    "sofa:maxPitch": "932.33", 
+    "sofa:minMidi": "65", 
+    "sofa:minNote": "F4", 
+    "sofa:minPitch": "349.23"
 }

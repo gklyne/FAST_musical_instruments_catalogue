@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/tubaphone",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "tubaphone",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "",
-  "rdfs:comment": "## Tubaphone\n\nTubaphone",
-  "rdfs:label": "Tubaphone",
-  "sofa:maxNote": "108",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "84",
-  "sofa:minPitch": ""
+    "@id": "Instrument/tubaphone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "tubaphone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "", 
+    "rdfs:comment": "## Tubaphone\n\nTubaphone", 
+    "rdfs:label": "Tubaphone", 
+    "sofa:maxMidi": "108", 
+    "sofa:maxNote": "C8", 
+    "sofa:maxPitch": "4186.0", 
+    "sofa:minMidi": "84", 
+    "sofa:minNote": "C6", 
+    "sofa:minPitch": "1046.5"
 }

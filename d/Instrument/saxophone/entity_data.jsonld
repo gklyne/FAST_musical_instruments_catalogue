@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/saxophone",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "saxophone",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.saxophone",
-  "rdfs:comment": "## Saxophone\n\nSaxophone",
-  "rdfs:label": "Saxophone",
-  "sofa:maxNote": "77",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "44",
-  "sofa:minPitch": ""
+    "@id": "Instrument/saxophone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "saxophone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.saxophone", 
+    "rdfs:comment": "## Saxophone\n\nSaxophone", 
+    "rdfs:label": "Saxophone", 
+    "sofa:maxMidi": "77", 
+    "sofa:maxNote": "F5", 
+    "sofa:maxPitch": "698.46", 
+    "sofa:minMidi": "44", 
+    "sofa:minNote": "G#2", 
+    "sofa:minPitch": "103.83"
 }

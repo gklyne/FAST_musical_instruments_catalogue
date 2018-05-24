@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/marimba_single",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "marimba_single",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.marimba",
-  "rdfs:comment": "## Marimba\n\nSingle-staff marimba",
-  "rdfs:label": "Marimba",
-  "sofa:maxNote": "96",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "45",
-  "sofa:minPitch": ""
+    "@id": "Instrument/marimba_single", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "marimba_single", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.marimba", 
+    "rdfs:comment": "## Marimba\n\nSingle-staff marimba", 
+    "rdfs:label": "Marimba", 
+    "sofa:maxMidi": "96", 
+    "sofa:maxNote": "C7", 
+    "sofa:maxPitch": "2093.0", 
+    "sofa:minMidi": "45", 
+    "sofa:minNote": "A2", 
+    "sofa:minPitch": "110.00"
 }

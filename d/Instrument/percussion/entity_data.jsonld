@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/percussion",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "percussion",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/drum.group.set",
-  "rdfs:comment": "## Percussion\n\nOrchestral Percussion",
-  "rdfs:label": "Percussion",
-  "sofa:maxNote": "",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "",
-  "sofa:minPitch": ""
+    "@id": "Instrument/percussion", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "percussion", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/drum.group.set", 
+    "rdfs:comment": "## Percussion\n\nOrchestral Percussion", 
+    "rdfs:label": "Percussion", 
+    "sofa:maxMidi": "", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minMidi": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
 }

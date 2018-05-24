@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/finger_snap",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "finger_snap",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/effect.snap",
-  "rdfs:comment": "## Finger Snap\n\nFinger Snap",
-  "rdfs:label": "Finger Snap",
-  "sofa:maxNote": "",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "",
-  "sofa:minPitch": ""
+    "@id": "Instrument/finger_snap", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "finger_snap", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/effect.snap", 
+    "rdfs:comment": "## Finger Snap\n\nFinger Snap", 
+    "rdfs:label": "Finger Snap", 
+    "sofa:maxMidi": "", 
+    "sofa:maxNote": "", 
+    "sofa:maxPitch": "", 
+    "sofa:minMidi": "", 
+    "sofa:minNote": "", 
+    "sofa:minPitch": ""
 }

@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/sopranino_chalumeau",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "sopranino_chalumeau",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.chalumeau",
-  "rdfs:comment": "## Sopranino Chalumeau\n\nSopranino Chalumeau",
-  "rdfs:label": "Sopranino Chalumeau",
-  "sofa:maxNote": "79",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "65",
-  "sofa:minPitch": ""
+    "@id": "Instrument/sopranino_chalumeau", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "sopranino_chalumeau", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.chalumeau", 
+    "rdfs:comment": "## Sopranino Chalumeau\n\nSopranino Chalumeau", 
+    "rdfs:label": "Sopranino Chalumeau", 
+    "sofa:maxMidi": "79", 
+    "sofa:maxNote": "G5", 
+    "sofa:maxPitch": "783.99", 
+    "sofa:minMidi": "65", 
+    "sofa:minNote": "F4", 
+    "sofa:minPitch": "349.23"
 }

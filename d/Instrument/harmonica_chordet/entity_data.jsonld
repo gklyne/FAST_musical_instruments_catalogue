@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/harmonica_chordet",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "harmonica_chordet",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.harmonica",
-  "rdfs:comment": "## 20 Hole Chordet Harmonica\n\n20 Hole Huang Chordet Harmonica",
-  "rdfs:label": "20 Hole Chordet Harmonica",
-  "sofa:maxNote": "66",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "58",
-  "sofa:minPitch": ""
+    "@id": "Instrument/harmonica_chordet", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "harmonica_chordet", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.harmonica", 
+    "rdfs:comment": "## 20 Hole Chordet Harmonica\n\n20 Hole Huang Chordet Harmonica", 
+    "rdfs:label": "20 Hole Chordet Harmonica", 
+    "sofa:maxMidi": "66", 
+    "sofa:maxNote": "Gb4", 
+    "sofa:maxPitch": "369.99", 
+    "sofa:minMidi": "58", 
+    "sofa:minNote": "A#3", 
+    "sofa:minPitch": "233.08"
 }

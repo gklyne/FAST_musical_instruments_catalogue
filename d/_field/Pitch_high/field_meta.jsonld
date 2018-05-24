@@ -21,7 +21,7 @@
   "annal:field_value_type": "annal:Float",
   "annal:id": "Pitch_high",
   "annal:placeholder": "(Pitch range high note (Hz))",
-  "annal:property_uri": "sofa:highPitch",
+  "annal:property_uri": "sofa:maxPitch",
   "annal:repeat_label_add": "Add",
   "annal:repeat_label_delete": "Remove",
   "annal:superproperty_uri": [],

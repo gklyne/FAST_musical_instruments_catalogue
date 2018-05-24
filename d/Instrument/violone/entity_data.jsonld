@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/violone",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "violone",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/strings.viol.violone",
-  "rdfs:comment": "## Violone\n\nViolone",
-  "rdfs:label": "Violone",
-  "sofa:maxNote": "60",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "31",
-  "sofa:minPitch": ""
+    "@id": "Instrument/violone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "violone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/strings.viol.violone", 
+    "rdfs:comment": "## Violone\n\nViolone", 
+    "rdfs:label": "Violone", 
+    "sofa:maxMidi": "60", 
+    "sofa:maxNote": "C4", 
+    "sofa:maxPitch": "261.63", 
+    "sofa:minMidi": "31", 
+    "sofa:minNote": "G1", 
+    "sofa:minPitch": "48.999"
 }

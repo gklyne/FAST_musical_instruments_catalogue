@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/celesta",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "celesta",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.celesta",
-  "rdfs:comment": "## Celesta\n\nCelesta",
-  "rdfs:label": "Celesta",
-  "sofa:maxNote": "113",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "48",
-  "sofa:minPitch": ""
+    "@id": "Instrument/celesta", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "celesta", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.celesta", 
+    "rdfs:comment": "## Celesta\n\nCelesta", 
+    "rdfs:label": "Celesta", 
+    "sofa:maxMidi": "113", 
+    "sofa:maxNote": "F8", 
+    "sofa:maxPitch": "5587.7", 
+    "sofa:minMidi": "48", 
+    "sofa:minNote": "C3", 
+    "sofa:minPitch": "130.81"
 }

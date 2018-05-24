@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/french_flageolet",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "french_flageolet",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flageolet",
-  "rdfs:comment": "## French Flageolet\n\n4 hole Flageolet",
-  "rdfs:label": "French Flageolet",
-  "sofa:maxNote": "105",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "80",
-  "sofa:minPitch": ""
+    "@id": "Instrument/french_flageolet", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "french_flageolet", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flageolet", 
+    "rdfs:comment": "## French Flageolet\n\n4 hole Flageolet", 
+    "rdfs:label": "French Flageolet", 
+    "sofa:maxMidi": "105", 
+    "sofa:maxNote": "A7", 
+    "sofa:maxPitch": "3520.0", 
+    "sofa:minMidi": "80", 
+    "sofa:minNote": "G#5", 
+    "sofa:minPitch": "830.61"
 }

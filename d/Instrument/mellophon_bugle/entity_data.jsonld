@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/mellophon_bugle",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "mellophon_bugle",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.bugle.mellophone-bugle",
-  "rdfs:comment": "## Mellophone Bugle\n\nBugle",
-  "rdfs:label": "Mellophone Bugle",
-  "sofa:maxNote": "77",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "41",
-  "sofa:minPitch": ""
+    "@id": "Instrument/mellophon_bugle", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "mellophon_bugle", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.bugle.mellophone-bugle", 
+    "rdfs:comment": "## Mellophone Bugle\n\nBugle", 
+    "rdfs:label": "Mellophone Bugle", 
+    "sofa:maxMidi": "77", 
+    "sofa:maxNote": "F5", 
+    "sofa:maxPitch": "698.46", 
+    "sofa:minMidi": "41", 
+    "sofa:minNote": "F2", 
+    "sofa:minPitch": "87.307"
 }

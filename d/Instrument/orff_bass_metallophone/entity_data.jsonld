@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/orff_bass_metallophone",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "orff_bass_metallophone",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.metallophone.bass",
-  "rdfs:comment": "## Orff Bass Metallophone\n\nOrff Bass Metallophone",
-  "rdfs:label": "Orff Bass Metallophone",
-  "sofa:maxNote": "69",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "48",
-  "sofa:minPitch": ""
+    "@id": "Instrument/orff_bass_metallophone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "orff_bass_metallophone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.metallophone.bass", 
+    "rdfs:comment": "## Orff Bass Metallophone\n\nOrff Bass Metallophone", 
+    "rdfs:label": "Orff Bass Metallophone", 
+    "sofa:maxMidi": "69", 
+    "sofa:maxNote": "A4", 
+    "sofa:maxPitch": "440.00", 
+    "sofa:minMidi": "48", 
+    "sofa:minNote": "C3", 
+    "sofa:minPitch": "130.81"
 }

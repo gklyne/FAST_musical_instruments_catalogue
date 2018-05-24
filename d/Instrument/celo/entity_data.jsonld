@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/celo",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "celo",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.tambura",
-  "rdfs:comment": "## \u010celo\n\n\u010celo",
-  "rdfs:label": "\u010celo",
-  "sofa:maxNote": "60",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "3",
-  "sofa:minPitch": ""
+    "@id": "Instrument/celo", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "celo", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.tambura", 
+    "rdfs:comment": "## \u010celo\n\n\u010celo", 
+    "rdfs:label": "\u010celo", 
+    "sofa:maxMidi": "60", 
+    "sofa:maxNote": "C4", 
+    "sofa:maxPitch": "261.63", 
+    "sofa:minMidi": "3", 
+    "sofa:minNote": "D#-1", 
+    "sofa:minPitch": "9.723"
 }

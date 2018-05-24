@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/alto_recorder",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "alto_recorder",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.recorder.alto",
-  "rdfs:comment": "## Alto Recorder\n\nAlto Recorder",
-  "rdfs:label": "Alto Recorder",
-  "sofa:maxNote": "88",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "65",
-  "sofa:minPitch": ""
+    "@id": "Instrument/alto_recorder", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "alto_recorder", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.recorder.alto", 
+    "rdfs:comment": "## Alto Recorder\n\nAlto Recorder", 
+    "rdfs:label": "Alto Recorder", 
+    "sofa:maxMidi": "88", 
+    "sofa:maxNote": "E6", 
+    "sofa:maxPitch": "1318.5", 
+    "sofa:minMidi": "65", 
+    "sofa:minNote": "F4", 
+    "sofa:minPitch": "349.23"
 }

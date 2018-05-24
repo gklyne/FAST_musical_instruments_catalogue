@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/sheng",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "sheng",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.sheng",
-  "rdfs:comment": "## Sheng\n\nSheng (generic)",
-  "rdfs:label": "Sheng",
-  "sofa:maxNote": "90",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "55",
-  "sofa:minPitch": ""
+    "@id": "Instrument/sheng", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "sheng", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.sheng", 
+    "rdfs:comment": "## Sheng\n\nSheng (generic)", 
+    "rdfs:label": "Sheng", 
+    "sofa:maxMidi": "90", 
+    "sofa:maxNote": "Gb6", 
+    "sofa:maxPitch": "1480.0", 
+    "sofa:minMidi": "55", 
+    "sofa:minNote": "G3", 
+    "sofa:minPitch": "196.00"
 }

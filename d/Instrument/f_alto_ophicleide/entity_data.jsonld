@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/f_alto_ophicleide",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "f_alto_ophicleide",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.ophicleide",
-  "rdfs:comment": "## F Alto Ophicleide\n\nF Alto Ophicleide",
-  "rdfs:label": "F Alto Ophicleide",
-  "sofa:maxNote": "81",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "52",
-  "sofa:minPitch": ""
+    "@id": "Instrument/f_alto_ophicleide", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "f_alto_ophicleide", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.ophicleide", 
+    "rdfs:comment": "## F Alto Ophicleide\n\nF Alto Ophicleide", 
+    "rdfs:label": "F Alto Ophicleide", 
+    "sofa:maxMidi": "81", 
+    "sofa:maxNote": "A5", 
+    "sofa:maxPitch": "880.00", 
+    "sofa:minMidi": "52", 
+    "sofa:minNote": "E3", 
+    "sofa:minPitch": "164.81"
 }

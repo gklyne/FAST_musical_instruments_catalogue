@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/fife",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "fife",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.fife",
-  "rdfs:comment": "## B\u266d Fife\n\nB\u266d Fife (A\u266d transposing instrument)",
-  "rdfs:label": "B\u266d Fife",
-  "sofa:maxNote": "103",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "74",
-  "sofa:minPitch": ""
+    "@id": "Instrument/fife", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "fife", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.fife", 
+    "rdfs:comment": "## B\u266d Fife\n\nB\u266d Fife (A\u266d transposing instrument)", 
+    "rdfs:label": "B\u266d Fife", 
+    "sofa:maxMidi": "103", 
+    "sofa:maxNote": "G7", 
+    "sofa:maxPitch": "3136.0", 
+    "sofa:minMidi": "74", 
+    "sofa:minNote": "D5", 
+    "sofa:minPitch": "587.33"
 }

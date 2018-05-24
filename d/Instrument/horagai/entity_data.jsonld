@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/horagai",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "horagai",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.horagai",
-  "rdfs:comment": "## Horagai\n\nHoragai Conch",
-  "rdfs:label": "Horagai",
-  "sofa:maxNote": "60",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "24",
-  "sofa:minPitch": ""
+    "@id": "Instrument/horagai", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "horagai", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.horagai", 
+    "rdfs:comment": "## Horagai\n\nHoragai Conch", 
+    "rdfs:label": "Horagai", 
+    "sofa:maxMidi": "60", 
+    "sofa:maxNote": "C4", 
+    "sofa:maxPitch": "261.63", 
+    "sofa:minMidi": "24", 
+    "sofa:minNote": "C1", 
+    "sofa:minPitch": "32.703"
 }

@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/contrabass_recorder",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "contrabass_recorder",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.recorder.contrabass",
-  "rdfs:comment": "## Contrabass Recorder\n\nContrabass Recorder",
-  "rdfs:label": "Contrabass Recorder",
-  "sofa:maxNote": "62",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "41",
-  "sofa:minPitch": ""
+    "@id": "Instrument/contrabass_recorder", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "contrabass_recorder", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.recorder.contrabass", 
+    "rdfs:comment": "## Contrabass Recorder\n\nContrabass Recorder", 
+    "rdfs:label": "Contrabass Recorder", 
+    "sofa:maxMidi": "62", 
+    "sofa:maxNote": "D4", 
+    "sofa:maxPitch": "293.66", 
+    "sofa:minMidi": "41", 
+    "sofa:minNote": "F2", 
+    "sofa:minPitch": "87.307"
 }

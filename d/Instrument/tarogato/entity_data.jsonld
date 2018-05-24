@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/tarogato",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "tarogato",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.taroagato",
-  "rdfs:comment": "## Tarogato\n\nTarogato",
-  "rdfs:label": "Tarogato",
-  "sofa:maxNote": "84",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "58",
-  "sofa:minPitch": ""
+    "@id": "Instrument/tarogato", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "tarogato", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.taroagato", 
+    "rdfs:comment": "## Tarogato\n\nTarogato", 
+    "rdfs:label": "Tarogato", 
+    "sofa:maxMidi": "84", 
+    "sofa:maxNote": "C6", 
+    "sofa:maxPitch": "1046.5", 
+    "sofa:minMidi": "58", 
+    "sofa:minNote": "A#3", 
+    "sofa:minPitch": "233.08"
 }

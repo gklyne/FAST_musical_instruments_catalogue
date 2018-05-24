@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/bass_chalumeau",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "bass_chalumeau",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.chalumeau",
-  "rdfs:comment": "## Bass Chalumeau\n\nBass Chalumeau",
-  "rdfs:label": "Bass Chalumeau",
-  "sofa:maxNote": "55",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "41",
-  "sofa:minPitch": ""
+    "@id": "Instrument/bass_chalumeau", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bass_chalumeau", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.chalumeau", 
+    "rdfs:comment": "## Bass Chalumeau\n\nBass Chalumeau", 
+    "rdfs:label": "Bass Chalumeau", 
+    "sofa:maxMidi": "55", 
+    "sofa:maxNote": "G3", 
+    "sofa:maxPitch": "196.00", 
+    "sofa:minMidi": "41", 
+    "sofa:minNote": "F2", 
+    "sofa:minPitch": "87.307"
 }

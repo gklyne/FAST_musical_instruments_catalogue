@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/guitar_steel_drums",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "guitar_steel_drums",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/metal.steel-drums",
-  "rdfs:comment": "## Guitar Steel Drums\n\nGuitar Steel Drums",
-  "rdfs:label": "Guitar Steel Drums",
-  "sofa:maxNote": "81",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "54",
-  "sofa:minPitch": ""
+    "@id": "Instrument/guitar_steel_drums", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "guitar_steel_drums", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/metal.steel-drums", 
+    "rdfs:comment": "## Guitar Steel Drums\n\nGuitar Steel Drums", 
+    "rdfs:label": "Guitar Steel Drums", 
+    "sofa:maxMidi": "81", 
+    "sofa:maxNote": "A5", 
+    "sofa:maxPitch": "880.00", 
+    "sofa:minMidi": "54", 
+    "sofa:minNote": "Gb3", 
+    "sofa:minPitch": "185.00"
 }

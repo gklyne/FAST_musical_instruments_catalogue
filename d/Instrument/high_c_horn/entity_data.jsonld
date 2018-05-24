@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/high_c_horn",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "high_c_horn",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.natural-horn",
-  "rdfs:comment": "## High C Horn\n\nHigh C Horn",
-  "rdfs:label": "High C Horn",
-  "sofa:maxNote": "75",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "46",
-  "sofa:minPitch": ""
+    "@id": "Instrument/high_c_horn", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "high_c_horn", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.natural-horn", 
+    "rdfs:comment": "## High C Horn\n\nHigh C Horn", 
+    "rdfs:label": "High C Horn", 
+    "sofa:maxMidi": "75", 
+    "sofa:maxNote": "D#5", 
+    "sofa:maxPitch": "622.25", 
+    "sofa:minMidi": "46", 
+    "sofa:minNote": "A#2", 
+    "sofa:minPitch": "116.54"
 }

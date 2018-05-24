@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/mandocello",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "mandocello",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.mandocello",
-  "rdfs:comment": "## Mandocello\n\nMandocello",
-  "rdfs:label": "Mandocello",
-  "sofa:maxNote": "75",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "36",
-  "sofa:minPitch": ""
+    "@id": "Instrument/mandocello", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "mandocello", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.mandocello", 
+    "rdfs:comment": "## Mandocello\n\nMandocello", 
+    "rdfs:label": "Mandocello", 
+    "sofa:maxMidi": "75", 
+    "sofa:maxNote": "D#5", 
+    "sofa:maxPitch": "622.25", 
+    "sofa:minMidi": "36", 
+    "sofa:minNote": "C2", 
+    "sofa:minPitch": "65.406"
 }

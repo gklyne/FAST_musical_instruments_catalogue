@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/soprano_shawm",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "soprano_shawm",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.shawm",
-  "rdfs:comment": "## Soprano Shawm\n\nShawm",
-  "rdfs:label": "Soprano Shawm",
-  "sofa:maxNote": "76",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "60",
-  "sofa:minPitch": ""
+    "@id": "Instrument/soprano_shawm", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "soprano_shawm", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.shawm", 
+    "rdfs:comment": "## Soprano Shawm\n\nShawm", 
+    "rdfs:label": "Soprano Shawm", 
+    "sofa:maxMidi": "76", 
+    "sofa:maxNote": "E5", 
+    "sofa:maxPitch": "659.26", 
+    "sofa:minMidi": "60", 
+    "sofa:minNote": "C4", 
+    "sofa:minPitch": "261.63"
 }

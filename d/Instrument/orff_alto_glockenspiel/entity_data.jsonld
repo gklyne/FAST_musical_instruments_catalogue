@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/orff_alto_glockenspiel",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "orff_alto_glockenspiel",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.glockenspiel.alto",
-  "rdfs:comment": "## Orff Alto Glockenspiel\n\nOrff Alto Glockenspiel",
-  "rdfs:label": "Orff Alto Glockenspiel",
-  "sofa:maxNote": "93",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "72",
-  "sofa:minPitch": ""
+    "@id": "Instrument/orff_alto_glockenspiel", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "orff_alto_glockenspiel", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.glockenspiel.alto", 
+    "rdfs:comment": "## Orff Alto Glockenspiel\n\nOrff Alto Glockenspiel", 
+    "rdfs:label": "Orff Alto Glockenspiel", 
+    "sofa:maxMidi": "93", 
+    "sofa:maxNote": "A6", 
+    "sofa:maxPitch": "1760.0", 
+    "sofa:minMidi": "72", 
+    "sofa:minNote": "C5", 
+    "sofa:minPitch": "523.25"
 }

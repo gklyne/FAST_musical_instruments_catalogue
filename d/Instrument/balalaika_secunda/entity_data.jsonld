@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/balalaika_secunda",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "balalaika_secunda",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.balalaika.secunda",
-  "rdfs:comment": "## Secunda Balalaika\n\nSecunda Balalaika",
-  "rdfs:label": "Secunda Balalaika",
-  "sofa:maxNote": "79",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "57",
-  "sofa:minPitch": ""
+    "@id": "Instrument/balalaika_secunda", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "balalaika_secunda", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.balalaika.secunda", 
+    "rdfs:comment": "## Secunda Balalaika\n\nSecunda Balalaika", 
+    "rdfs:label": "Secunda Balalaika", 
+    "sofa:maxMidi": "79", 
+    "sofa:maxNote": "G5", 
+    "sofa:maxPitch": "783.99", 
+    "sofa:minMidi": "57", 
+    "sofa:minNote": "A3", 
+    "sofa:minPitch": "220.00"
 }

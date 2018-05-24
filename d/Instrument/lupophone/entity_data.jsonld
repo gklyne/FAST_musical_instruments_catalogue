@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/lupophone",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "lupophone",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.heckelphone",
-  "rdfs:comment": "## Lupophone\n\nLupophone",
-  "rdfs:label": "Lupophone",
-  "sofa:maxNote": "75",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "45",
-  "sofa:minPitch": ""
+    "@id": "Instrument/lupophone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "lupophone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.heckelphone", 
+    "rdfs:comment": "## Lupophone\n\nLupophone", 
+    "rdfs:label": "Lupophone", 
+    "sofa:maxMidi": "75", 
+    "sofa:maxNote": "D#5", 
+    "sofa:maxPitch": "622.25", 
+    "sofa:minMidi": "45", 
+    "sofa:minNote": "A2", 
+    "sofa:minPitch": "110.00"
 }

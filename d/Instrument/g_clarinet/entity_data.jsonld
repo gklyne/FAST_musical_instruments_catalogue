@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/g_clarinet",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "g_clarinet",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.clarinet",
-  "rdfs:comment": "## G Clarinet\n\nG Clarinet",
-  "rdfs:label": "G Clarinet",
-  "sofa:maxNote": "86",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "47",
-  "sofa:minPitch": ""
+    "@id": "Instrument/g_clarinet", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "g_clarinet", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.clarinet", 
+    "rdfs:comment": "## G Clarinet\n\nG Clarinet", 
+    "rdfs:label": "G Clarinet", 
+    "sofa:maxMidi": "86", 
+    "sofa:maxNote": "D6", 
+    "sofa:maxPitch": "1174.7", 
+    "sofa:minMidi": "47", 
+    "sofa:minNote": "B2", 
+    "sofa:minPitch": "123.47"
 }

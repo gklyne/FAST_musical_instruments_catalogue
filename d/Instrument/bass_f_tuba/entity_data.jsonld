@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/bass_f_tuba",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "bass_f_tuba",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.tuba.bass",
-  "rdfs:comment": "## Bass Tuba in F\n\nBass Tuba in F",
-  "rdfs:label": "Bass Tuba in F",
-  "sofa:maxNote": "64",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "26",
-  "sofa:minPitch": ""
+    "@id": "Instrument/bass_f_tuba", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bass_f_tuba", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.tuba.bass", 
+    "rdfs:comment": "## Bass Tuba in F\n\nBass Tuba in F", 
+    "rdfs:label": "Bass Tuba in F", 
+    "sofa:maxMidi": "64", 
+    "sofa:maxNote": "E4", 
+    "sofa:maxPitch": "329.63", 
+    "sofa:minMidi": "26", 
+    "sofa:minNote": "D1", 
+    "sofa:minPitch": "36.708"
 }

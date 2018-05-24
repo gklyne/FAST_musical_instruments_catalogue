@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/bass_harmonica_hohner",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "bass_harmonica_hohner",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.harmonica.bass",
-  "rdfs:comment": "## Bass Hohner Harmonica\n\nBass 31 hole Hohner Harmonica",
-  "rdfs:label": "Bass Hohner Harmonica",
-  "sofa:maxNote": "60",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "28",
-  "sofa:minPitch": ""
+    "@id": "Instrument/bass_harmonica_hohner", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bass_harmonica_hohner", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.harmonica.bass", 
+    "rdfs:comment": "## Bass Hohner Harmonica\n\nBass 31 hole Hohner Harmonica", 
+    "rdfs:label": "Bass Hohner Harmonica", 
+    "sofa:maxMidi": "60", 
+    "sofa:maxNote": "C4", 
+    "sofa:maxPitch": "261.63", 
+    "sofa:minMidi": "28", 
+    "sofa:minNote": "E1", 
+    "sofa:minPitch": "41.203"
 }

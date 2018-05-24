@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/contrabasses",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "contrabasses",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/strings.group",
-  "rdfs:comment": "## Contrabasses\n\nContrabasses",
-  "rdfs:label": "Contrabasses",
-  "sofa:maxNote": "62",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "28",
-  "sofa:minPitch": ""
+    "@id": "Instrument/contrabasses", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "contrabasses", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/strings.group", 
+    "rdfs:comment": "## Contrabasses\n\nContrabasses", 
+    "rdfs:label": "Contrabasses", 
+    "sofa:maxMidi": "62", 
+    "sofa:maxNote": "D4", 
+    "sofa:maxPitch": "293.66", 
+    "sofa:minMidi": "28", 
+    "sofa:minNote": "E1", 
+    "sofa:minPitch": "41.203"
 }

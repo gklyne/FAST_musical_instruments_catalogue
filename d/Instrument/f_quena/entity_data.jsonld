@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/f_quena",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "f_quena",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.quena",
-  "rdfs:comment": "## F Quena\n\nF Quena",
-  "rdfs:label": "F Quena",
-  "sofa:maxNote": "85",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "65",
-  "sofa:minPitch": ""
+    "@id": "Instrument/f_quena", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "f_quena", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.quena", 
+    "rdfs:comment": "## F Quena\n\nF Quena", 
+    "rdfs:label": "F Quena", 
+    "sofa:maxMidi": "85", 
+    "sofa:maxNote": "Db6", 
+    "sofa:maxPitch": "1108.7", 
+    "sofa:minMidi": "65", 
+    "sofa:minNote": "F4", 
+    "sofa:minPitch": "349.23"
 }

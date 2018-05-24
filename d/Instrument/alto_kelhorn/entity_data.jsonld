@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/alto_kelhorn",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "alto_kelhorn",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "",
-  "rdfs:comment": "## Alto Kelhorn\n\nAlto Kelhorn",
-  "rdfs:label": "Alto Kelhorn",
-  "sofa:maxNote": "67",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "53",
-  "sofa:minPitch": ""
+    "@id": "Instrument/alto_kelhorn", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "alto_kelhorn", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "", 
+    "rdfs:comment": "## Alto Kelhorn\n\nAlto Kelhorn", 
+    "rdfs:label": "Alto Kelhorn", 
+    "sofa:maxMidi": "67", 
+    "sofa:maxNote": "G4", 
+    "sofa:maxPitch": "392.00", 
+    "sofa:minMidi": "53", 
+    "sofa:minNote": "F3", 
+    "sofa:minPitch": "174.61"
 }

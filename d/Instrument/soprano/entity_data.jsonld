@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/soprano",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "soprano",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/voice.soprano",
-  "rdfs:comment": "## Soprano\n\nSoprano",
-  "rdfs:label": "Soprano",
-  "sofa:maxNote": "79",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "60",
-  "sofa:minPitch": ""
+    "@id": "Instrument/soprano", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "soprano", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/voice.soprano", 
+    "rdfs:comment": "## Soprano\n\nSoprano", 
+    "rdfs:label": "Soprano", 
+    "sofa:maxMidi": "79", 
+    "sofa:maxNote": "G5", 
+    "sofa:maxPitch": "783.99", 
+    "sofa:minMidi": "60", 
+    "sofa:minNote": "C4", 
+    "sofa:minPitch": "261.63"
 }

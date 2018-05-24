@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/fiscorn",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "fiscorn",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.fiscorn",
-  "rdfs:comment": "## Fiscorn\n\nFiscorn",
-  "rdfs:label": "Fiscorn",
-  "sofa:maxNote": "79",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "52",
-  "sofa:minPitch": ""
+    "@id": "Instrument/fiscorn", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "fiscorn", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.fiscorn", 
+    "rdfs:comment": "## Fiscorn\n\nFiscorn", 
+    "rdfs:label": "Fiscorn", 
+    "sofa:maxMidi": "79", 
+    "sofa:maxNote": "G5", 
+    "sofa:maxPitch": "783.99", 
+    "sofa:minMidi": "52", 
+    "sofa:minNote": "E3", 
+    "sofa:minPitch": "164.81"
 }

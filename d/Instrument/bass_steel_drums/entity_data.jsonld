@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/bass_steel_drums",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "bass_steel_drums",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/metal.steel-drums",
-  "rdfs:comment": "## Bass Steel Drums\n\nBass Steel Drums",
-  "rdfs:label": "Bass Steel Drums",
-  "sofa:maxNote": "53",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "36",
-  "sofa:minPitch": ""
+    "@id": "Instrument/bass_steel_drums", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bass_steel_drums", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/metal.steel-drums", 
+    "rdfs:comment": "## Bass Steel Drums\n\nBass Steel Drums", 
+    "rdfs:label": "Bass Steel Drums", 
+    "sofa:maxMidi": "53", 
+    "sofa:maxNote": "F3", 
+    "sofa:maxPitch": "174.61", 
+    "sofa:minMidi": "36", 
+    "sofa:minNote": "C2", 
+    "sofa:minPitch": "65.406"
 }

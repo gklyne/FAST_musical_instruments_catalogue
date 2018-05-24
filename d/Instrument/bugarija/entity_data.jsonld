@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/bugarija",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "bugarija",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.tambura",
-  "rdfs:comment": "## Bugarija\n\nBugarija",
-  "rdfs:label": "Bugarija",
-  "sofa:maxNote": "66",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "43",
-  "sofa:minPitch": ""
+    "@id": "Instrument/bugarija", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bugarija", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.tambura", 
+    "rdfs:comment": "## Bugarija\n\nBugarija", 
+    "rdfs:label": "Bugarija", 
+    "sofa:maxMidi": "66", 
+    "sofa:maxNote": "Gb4", 
+    "sofa:maxPitch": "369.99", 
+    "sofa:minMidi": "43", 
+    "sofa:minNote": "G2", 
+    "sofa:minPitch": "97.999"
 }

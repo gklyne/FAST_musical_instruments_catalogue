@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/balalaika",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "balalaika",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.balalaika",
-  "rdfs:comment": "## Balalaika\n\nBalalaika in fact the prima but a generic for simplicity",
-  "rdfs:label": "Balalaika",
-  "sofa:maxNote": "86",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "64",
-  "sofa:minPitch": ""
+    "@id": "Instrument/balalaika", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "balalaika", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.balalaika", 
+    "rdfs:comment": "## Balalaika\n\nBalalaika in fact the prima but a generic for simplicity", 
+    "rdfs:label": "Balalaika", 
+    "sofa:maxMidi": "86", 
+    "sofa:maxNote": "D6", 
+    "sofa:maxPitch": "1174.7", 
+    "sofa:minMidi": "64", 
+    "sofa:minNote": "E4", 
+    "sofa:minPitch": "329.63"
 }

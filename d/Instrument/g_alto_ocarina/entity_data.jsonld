@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/g_alto_ocarina",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "g_alto_ocarina",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.ocarina",
-  "rdfs:comment": "## G Alto Ocarina\n\nG Alto Ocarina",
-  "rdfs:label": "G Alto Ocarina",
-  "sofa:maxNote": "81",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "67",
-  "sofa:minPitch": ""
+    "@id": "Instrument/g_alto_ocarina", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "g_alto_ocarina", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.ocarina", 
+    "rdfs:comment": "## G Alto Ocarina\n\nG Alto Ocarina", 
+    "rdfs:label": "G Alto Ocarina", 
+    "sofa:maxMidi": "81", 
+    "sofa:maxNote": "A5", 
+    "sofa:maxPitch": "880.00", 
+    "sofa:minMidi": "67", 
+    "sofa:minNote": "G4", 
+    "sofa:minPitch": "392.00"
 }

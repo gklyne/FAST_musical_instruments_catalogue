@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/subcontra_alto_flute",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "subcontra_alto_flute",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute.subcontrabass",
-  "rdfs:comment": "## Sub Contra-alto Flute\n\nSubcontra-alto Flute",
-  "rdfs:label": "Sub Contra-alto Flute",
-  "sofa:maxNote": "60",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "31",
-  "sofa:minPitch": ""
+    "@id": "Instrument/subcontra_alto_flute", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "subcontra_alto_flute", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute.subcontrabass", 
+    "rdfs:comment": "## Sub Contra-alto Flute\n\nSubcontra-alto Flute", 
+    "rdfs:label": "Sub Contra-alto Flute", 
+    "sofa:maxMidi": "60", 
+    "sofa:maxNote": "C4", 
+    "sofa:maxPitch": "261.63", 
+    "sofa:minMidi": "31", 
+    "sofa:minNote": "G1", 
+    "sofa:minPitch": "48.999"
 }

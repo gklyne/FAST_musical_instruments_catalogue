@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/tuned_gongs",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "tuned_gongs",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/metal.gong",
-  "rdfs:comment": "## Tuned Gongs\n\nTuned Gongs",
-  "rdfs:label": "Tuned Gongs",
-  "sofa:maxNote": "57",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "45",
-  "sofa:minPitch": ""
+    "@id": "Instrument/tuned_gongs", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "tuned_gongs", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/metal.gong", 
+    "rdfs:comment": "## Tuned Gongs\n\nTuned Gongs", 
+    "rdfs:label": "Tuned Gongs", 
+    "sofa:maxMidi": "57", 
+    "sofa:maxNote": "A3", 
+    "sofa:maxPitch": "220.00", 
+    "sofa:minMidi": "45", 
+    "sofa:minNote": "A2", 
+    "sofa:minPitch": "110.00"
 }

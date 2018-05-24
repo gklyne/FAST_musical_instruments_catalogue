@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/pedal_steel_guitar",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "pedal_steel_guitar",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.guitar.pedal-steel",
-  "rdfs:comment": "## Pedal Steel Guitar\n\nPedal Steel Guitar",
-  "rdfs:label": "Pedal Steel Guitar",
-  "sofa:maxNote": "84",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "35",
-  "sofa:minPitch": ""
+    "@id": "Instrument/pedal_steel_guitar", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "pedal_steel_guitar", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.guitar.pedal-steel", 
+    "rdfs:comment": "## Pedal Steel Guitar\n\nPedal Steel Guitar", 
+    "rdfs:label": "Pedal Steel Guitar", 
+    "sofa:maxMidi": "84", 
+    "sofa:maxNote": "C6", 
+    "sofa:maxPitch": "1046.5", 
+    "sofa:minMidi": "35", 
+    "sofa:minNote": "B1", 
+    "sofa:minPitch": "61.735"
 }

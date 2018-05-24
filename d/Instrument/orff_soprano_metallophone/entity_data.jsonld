@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/orff_soprano_metallophone",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "orff_soprano_metallophone",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.metallophone.soprano",
-  "rdfs:comment": "## Orff Soprano Metallophone\n\nOrff Soprano Metallophone",
-  "rdfs:label": "Orff Soprano Metallophone",
-  "sofa:maxNote": "93",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "72",
-  "sofa:minPitch": ""
+    "@id": "Instrument/orff_soprano_metallophone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "orff_soprano_metallophone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.metallophone.soprano", 
+    "rdfs:comment": "## Orff Soprano Metallophone\n\nOrff Soprano Metallophone", 
+    "rdfs:label": "Orff Soprano Metallophone", 
+    "sofa:maxMidi": "93", 
+    "sofa:maxNote": "A6", 
+    "sofa:maxPitch": "1760.0", 
+    "sofa:minMidi": "72", 
+    "sofa:minNote": "C5", 
+    "sofa:minPitch": "523.25"
 }

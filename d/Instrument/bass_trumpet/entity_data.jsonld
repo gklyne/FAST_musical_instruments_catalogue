@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/bass_trumpet",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "bass_trumpet",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.trumpet.bass",
-  "rdfs:comment": "## Bass Trumpet\n\nBass Trumpet in B\u266d (generic)",
-  "rdfs:label": "Bass Trumpet",
-  "sofa:maxNote": "66",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "39",
-  "sofa:minPitch": ""
+    "@id": "Instrument/bass_trumpet", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bass_trumpet", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.trumpet.bass", 
+    "rdfs:comment": "## Bass Trumpet\n\nBass Trumpet in B\u266d (generic)", 
+    "rdfs:label": "Bass Trumpet", 
+    "sofa:maxMidi": "66", 
+    "sofa:maxNote": "Gb4", 
+    "sofa:maxPitch": "369.99", 
+    "sofa:minMidi": "39", 
+    "sofa:minNote": "D#2", 
+    "sofa:minPitch": "77.782"
 }

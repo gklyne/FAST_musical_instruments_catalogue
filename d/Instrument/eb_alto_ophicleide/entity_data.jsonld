@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/eb_alto_ophicleide",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "eb_alto_ophicleide",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.ophicleide",
-  "rdfs:comment": "## E\u266d Alto Ophicleide\n\nE\u266d Alto Ophicleide",
-  "rdfs:label": "E\u266d Alto Ophicleide",
-  "sofa:maxNote": "79",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "51",
-  "sofa:minPitch": ""
+    "@id": "Instrument/eb_alto_ophicleide", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "eb_alto_ophicleide", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.ophicleide", 
+    "rdfs:comment": "## E\u266d Alto Ophicleide\n\nE\u266d Alto Ophicleide", 
+    "rdfs:label": "E\u266d Alto Ophicleide", 
+    "sofa:maxMidi": "79", 
+    "sofa:maxNote": "G5", 
+    "sofa:maxPitch": "783.99", 
+    "sofa:minMidi": "51", 
+    "sofa:minNote": "D#3", 
+    "sofa:minPitch": "155.56"
 }

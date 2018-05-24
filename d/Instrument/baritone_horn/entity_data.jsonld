@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/baritone_horn",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "baritone_horn",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.baritone-horn",
-  "rdfs:comment": "## Baritone Horn\n\nBaritone Horn",
-  "rdfs:label": "Baritone Horn",
-  "sofa:maxNote": "67",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "40",
-  "sofa:minPitch": ""
+    "@id": "Instrument/baritone_horn", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "baritone_horn", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.baritone-horn", 
+    "rdfs:comment": "## Baritone Horn\n\nBaritone Horn", 
+    "rdfs:label": "Baritone Horn", 
+    "sofa:maxMidi": "67", 
+    "sofa:maxNote": "G4", 
+    "sofa:maxPitch": "392.00", 
+    "sofa:minMidi": "40", 
+    "sofa:minNote": "E2", 
+    "sofa:minPitch": "82.407"
 }

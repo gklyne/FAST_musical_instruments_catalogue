@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/countertenor",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "countertenor",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/voice.countertenor",
-  "rdfs:comment": "## Countertenor\n\nCountertenor or Male Alto",
-  "rdfs:label": "Countertenor",
-  "sofa:maxNote": "76",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "55",
-  "sofa:minPitch": ""
+    "@id": "Instrument/countertenor", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "countertenor", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/voice.countertenor", 
+    "rdfs:comment": "## Countertenor\n\nCountertenor or Male Alto", 
+    "rdfs:label": "Countertenor", 
+    "sofa:maxMidi": "76", 
+    "sofa:maxNote": "E5", 
+    "sofa:maxPitch": "659.26", 
+    "sofa:minMidi": "55", 
+    "sofa:minNote": "G3", 
+    "sofa:minPitch": "196.00"
 }

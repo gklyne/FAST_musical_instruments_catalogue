@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/alto_gemshorn",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "alto_gemshorn",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.gemshorn",
-  "rdfs:comment": "## Alto Gemshorn\n\nAlto Gemshorn",
-  "rdfs:label": "Alto Gemshorn",
-  "sofa:maxNote": "80",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "65",
-  "sofa:minPitch": ""
+    "@id": "Instrument/alto_gemshorn", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "alto_gemshorn", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.gemshorn", 
+    "rdfs:comment": "## Alto Gemshorn\n\nAlto Gemshorn", 
+    "rdfs:label": "Alto Gemshorn", 
+    "sofa:maxMidi": "80", 
+    "sofa:maxNote": "G#5", 
+    "sofa:maxPitch": "830.61", 
+    "sofa:minMidi": "65", 
+    "sofa:minNote": "F4", 
+    "sofa:minPitch": "349.23"
 }

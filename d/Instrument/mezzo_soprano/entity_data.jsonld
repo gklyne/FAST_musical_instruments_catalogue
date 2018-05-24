@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/mezzo_soprano",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "mezzo_soprano",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/voice.mezzo-soprano",
-  "rdfs:comment": "## Mezzo-soprano\n\nMezzo-soprano",
-  "rdfs:label": "Mezzo-soprano",
-  "sofa:maxNote": "77",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "57",
-  "sofa:minPitch": ""
+    "@id": "Instrument/mezzo_soprano", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "mezzo_soprano", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/voice.mezzo-soprano", 
+    "rdfs:comment": "## Mezzo-soprano\n\nMezzo-soprano", 
+    "rdfs:label": "Mezzo-soprano", 
+    "sofa:maxMidi": "77", 
+    "sofa:maxNote": "F5", 
+    "sofa:maxPitch": "698.46", 
+    "sofa:minMidi": "57", 
+    "sofa:minNote": "A3", 
+    "sofa:minPitch": "220.00"
 }

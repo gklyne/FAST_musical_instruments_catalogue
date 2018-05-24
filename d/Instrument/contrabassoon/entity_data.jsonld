@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/contrabassoon",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "contrabassoon",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.contrabassoon",
-  "rdfs:comment": "## Contrabassoon\n\nContrabassoon",
-  "rdfs:label": "Contrabassoon",
-  "sofa:maxNote": "57",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "22",
-  "sofa:minPitch": ""
+    "@id": "Instrument/contrabassoon", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "contrabassoon", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.contrabassoon", 
+    "rdfs:comment": "## Contrabassoon\n\nContrabassoon", 
+    "rdfs:label": "Contrabassoon", 
+    "sofa:maxMidi": "57", 
+    "sofa:maxNote": "A3", 
+    "sofa:maxPitch": "220.00", 
+    "sofa:minMidi": "22", 
+    "sofa:minNote": "A#0", 
+    "sofa:minPitch": "29.135"
 }

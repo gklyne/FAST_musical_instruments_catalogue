@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/baritone",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "baritone",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/voice.baritone",
-  "rdfs:comment": "## Baritone\n\nBaritone",
-  "rdfs:label": "Baritone",
-  "sofa:maxNote": "64",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "43",
-  "sofa:minPitch": ""
+    "@id": "Instrument/baritone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "baritone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/voice.baritone", 
+    "rdfs:comment": "## Baritone\n\nBaritone", 
+    "rdfs:label": "Baritone", 
+    "sofa:maxMidi": "64", 
+    "sofa:maxNote": "E4", 
+    "sofa:maxPitch": "329.63", 
+    "sofa:minMidi": "43", 
+    "sofa:minNote": "G2", 
+    "sofa:minPitch": "97.999"
 }

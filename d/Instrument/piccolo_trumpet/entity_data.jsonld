@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/piccolo_trumpet",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "piccolo_trumpet",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.trumpet.piccolo",
-  "rdfs:comment": "## Piccolo Trumpet\n\nPiccolo Trumpet in B\u266d (generic)",
-  "rdfs:label": "Piccolo Trumpet",
-  "sofa:maxNote": "86",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "59",
-  "sofa:minPitch": ""
+    "@id": "Instrument/piccolo_trumpet", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "piccolo_trumpet", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.trumpet.piccolo", 
+    "rdfs:comment": "## Piccolo Trumpet\n\nPiccolo Trumpet in B\u266d (generic)", 
+    "rdfs:label": "Piccolo Trumpet", 
+    "sofa:maxMidi": "86", 
+    "sofa:maxNote": "D6", 
+    "sofa:maxPitch": "1174.7", 
+    "sofa:minMidi": "59", 
+    "sofa:minNote": "B3", 
+    "sofa:minPitch": "246.94"
 }

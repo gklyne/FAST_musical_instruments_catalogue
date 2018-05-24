@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/bass_guitar",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "bass_guitar",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.bass",
-  "rdfs:comment": "## Bass Guitar\n\nBass Guitar",
-  "rdfs:label": "Bass Guitar",
-  "sofa:maxNote": "65",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "28",
-  "sofa:minPitch": ""
+    "@id": "Instrument/bass_guitar", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bass_guitar", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.bass", 
+    "rdfs:comment": "## Bass Guitar\n\nBass Guitar", 
+    "rdfs:label": "Bass Guitar", 
+    "sofa:maxMidi": "65", 
+    "sofa:maxNote": "F4", 
+    "sofa:maxPitch": "349.23", 
+    "sofa:minMidi": "28", 
+    "sofa:minNote": "E1", 
+    "sofa:minPitch": "41.203"
 }

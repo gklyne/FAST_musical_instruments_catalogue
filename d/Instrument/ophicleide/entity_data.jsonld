@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/ophicleide",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "ophicleide",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.ophicleide",
-  "rdfs:comment": "## Ophicleide\n\nC Bass Ophicleide (generic)",
-  "rdfs:label": "Ophicleide",
-  "sofa:maxNote": "63",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "35",
-  "sofa:minPitch": ""
+    "@id": "Instrument/ophicleide", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "ophicleide", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.ophicleide", 
+    "rdfs:comment": "## Ophicleide\n\nC Bass Ophicleide (generic)", 
+    "rdfs:label": "Ophicleide", 
+    "sofa:maxMidi": "63", 
+    "sofa:maxNote": "D#4", 
+    "sofa:maxPitch": "311.13", 
+    "sofa:minMidi": "35", 
+    "sofa:minNote": "B1", 
+    "sofa:minPitch": "61.735"
 }

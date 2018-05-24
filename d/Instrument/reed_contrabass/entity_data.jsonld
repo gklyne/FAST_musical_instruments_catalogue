@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/reed_contrabass",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "reed_contrabass",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.contrabass",
-  "rdfs:comment": "## Reed Contrabass\n\nReeContrabass",
-  "rdfs:label": "Reed Contrabass",
-  "sofa:maxNote": "57",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "22",
-  "sofa:minPitch": ""
+    "@id": "Instrument/reed_contrabass", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "reed_contrabass", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.contrabass", 
+    "rdfs:comment": "## Reed Contrabass\n\nReeContrabass", 
+    "rdfs:label": "Reed Contrabass", 
+    "sofa:maxMidi": "57", 
+    "sofa:maxNote": "A3", 
+    "sofa:maxPitch": "220.00", 
+    "sofa:minMidi": "22", 
+    "sofa:minNote": "A#0", 
+    "sofa:minPitch": "29.135"
 }

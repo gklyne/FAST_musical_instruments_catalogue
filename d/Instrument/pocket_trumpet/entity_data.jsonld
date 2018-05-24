@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/pocket_trumpet",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "pocket_trumpet",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.trumpet.pocket",
-  "rdfs:comment": "## Pocket Trumpet\n\nPocket Trumpet",
-  "rdfs:label": "Pocket Trumpet",
-  "sofa:maxNote": "80",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "52",
-  "sofa:minPitch": ""
+    "@id": "Instrument/pocket_trumpet", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "pocket_trumpet", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.trumpet.pocket", 
+    "rdfs:comment": "## Pocket Trumpet\n\nPocket Trumpet", 
+    "rdfs:label": "Pocket Trumpet", 
+    "sofa:maxMidi": "80", 
+    "sofa:maxNote": "G#5", 
+    "sofa:maxPitch": "830.61", 
+    "sofa:minMidi": "52", 
+    "sofa:minNote": "E3", 
+    "sofa:minPitch": "164.81"
 }

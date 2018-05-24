@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/balalaika_prima",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "balalaika_prima",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.balalaika.prima",
-  "rdfs:comment": "## Prima Balalaika\n\nPrima Balalaika (the most commonly played of the family)",
-  "rdfs:label": "Prima Balalaika",
-  "sofa:maxNote": "86",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "64",
-  "sofa:minPitch": ""
+    "@id": "Instrument/balalaika_prima", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "balalaika_prima", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.balalaika.prima", 
+    "rdfs:comment": "## Prima Balalaika\n\nPrima Balalaika (the most commonly played of the family)", 
+    "rdfs:label": "Prima Balalaika", 
+    "sofa:maxMidi": "86", 
+    "sofa:maxNote": "D6", 
+    "sofa:maxPitch": "1174.7", 
+    "sofa:minMidi": "64", 
+    "sofa:minNote": "E4", 
+    "sofa:minPitch": "329.63"
 }

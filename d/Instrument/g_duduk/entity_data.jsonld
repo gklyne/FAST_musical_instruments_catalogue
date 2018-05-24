@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/g_duduk",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "g_duduk",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.duduk",
-  "rdfs:comment": "## G Duduk\n\nG Duduk",
-  "rdfs:label": "G Duduk",
-  "sofa:maxNote": "79",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "64",
-  "sofa:minPitch": ""
+    "@id": "Instrument/g_duduk", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "g_duduk", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.duduk", 
+    "rdfs:comment": "## G Duduk\n\nG Duduk", 
+    "rdfs:label": "G Duduk", 
+    "sofa:maxMidi": "79", 
+    "sofa:maxNote": "G5", 
+    "sofa:maxPitch": "783.99", 
+    "sofa:minMidi": "64", 
+    "sofa:minNote": "E4", 
+    "sofa:minPitch": "329.63"
 }

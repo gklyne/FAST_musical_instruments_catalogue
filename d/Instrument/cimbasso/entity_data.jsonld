@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/cimbasso",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "cimbasso",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.cimbasso",
-  "rdfs:comment": "## Cimbasso\n\nCimbasso",
-  "rdfs:label": "Cimbasso",
-  "sofa:maxNote": "64",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "26",
-  "sofa:minPitch": ""
+    "@id": "Instrument/cimbasso", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "cimbasso", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.cimbasso", 
+    "rdfs:comment": "## Cimbasso\n\nCimbasso", 
+    "rdfs:label": "Cimbasso", 
+    "sofa:maxMidi": "64", 
+    "sofa:maxNote": "E4", 
+    "sofa:maxPitch": "329.63", 
+    "sofa:minMidi": "26", 
+    "sofa:minNote": "D1", 
+    "sofa:minPitch": "36.708"
 }

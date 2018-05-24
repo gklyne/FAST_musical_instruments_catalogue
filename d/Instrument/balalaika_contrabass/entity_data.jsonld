@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/balalaika_contrabass",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "balalaika_contrabass",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.balalaika.contrabass",
-  "rdfs:comment": "## Contrabass Balalaika\n\nContrabass Balalaika ",
-  "rdfs:label": "Contrabass Balalaika",
-  "sofa:maxNote": "55",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "28",
-  "sofa:minPitch": ""
+    "@id": "Instrument/balalaika_contrabass", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "balalaika_contrabass", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.balalaika.contrabass", 
+    "rdfs:comment": "## Contrabass Balalaika\n\nContrabass Balalaika ", 
+    "rdfs:label": "Contrabass Balalaika", 
+    "sofa:maxMidi": "55", 
+    "sofa:maxNote": "G3", 
+    "sofa:maxPitch": "196.00", 
+    "sofa:minMidi": "28", 
+    "sofa:minNote": "E1", 
+    "sofa:minPitch": "41.203"
 }

@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/bass_trombone",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "bass_trombone",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.trombone.bass",
-  "rdfs:comment": "## Bass Trombone\n\nBass Trombone",
-  "rdfs:label": "Bass Trombone",
-  "sofa:maxNote": "68",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "32",
-  "sofa:minPitch": ""
+    "@id": "Instrument/bass_trombone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bass_trombone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.trombone.bass", 
+    "rdfs:comment": "## Bass Trombone\n\nBass Trombone", 
+    "rdfs:label": "Bass Trombone", 
+    "sofa:maxMidi": "68", 
+    "sofa:maxNote": "G#4", 
+    "sofa:maxPitch": "415.30", 
+    "sofa:minMidi": "32", 
+    "sofa:minNote": "G#1", 
+    "sofa:minPitch": "51.913"
 }

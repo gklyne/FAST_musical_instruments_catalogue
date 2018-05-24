@@ -21,7 +21,7 @@
   "annal:field_value_type": "annal:Float",
   "annal:id": "Pitch_low",
   "annal:placeholder": "(Pitch range low note (Hz))",
-  "annal:property_uri": "micat:pitch_lo",
+  "annal:property_uri": "sofa:minPitch",
   "annal:repeat_label_add": "Add",
   "annal:repeat_label_delete": "Remove",
   "annal:superproperty_uri": [],

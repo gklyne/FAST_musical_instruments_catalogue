@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/octave_mandolin",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "octave_mandolin",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.mandolin.octave",
-  "rdfs:comment": "## Octave Mandolin\n\nOctave Mandolin",
-  "rdfs:label": "Octave Mandolin",
-  "sofa:maxNote": "73",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "43",
-  "sofa:minPitch": ""
+    "@id": "Instrument/octave_mandolin", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "octave_mandolin", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.mandolin.octave", 
+    "rdfs:comment": "## Octave Mandolin\n\nOctave Mandolin", 
+    "rdfs:label": "Octave Mandolin", 
+    "sofa:maxMidi": "73", 
+    "sofa:maxNote": "Db5", 
+    "sofa:maxPitch": "554.37", 
+    "sofa:minMidi": "43", 
+    "sofa:minNote": "G2", 
+    "sofa:minPitch": "97.999"
 }

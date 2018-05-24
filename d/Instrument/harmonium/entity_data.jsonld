@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/harmonium",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "harmonium",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.harmonium",
-  "rdfs:comment": "## Harmonium\n\nHarmonium",
-  "rdfs:label": "Harmonium",
-  "sofa:maxNote": "89",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "29",
-  "sofa:minPitch": ""
+    "@id": "Instrument/harmonium", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "harmonium", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.harmonium", 
+    "rdfs:comment": "## Harmonium\n\nHarmonium", 
+    "rdfs:label": "Harmonium", 
+    "sofa:maxMidi": "89", 
+    "sofa:maxNote": "F6", 
+    "sofa:maxPitch": "1396.9", 
+    "sofa:minMidi": "29", 
+    "sofa:minNote": "F1", 
+    "sofa:minPitch": "43.654"
 }

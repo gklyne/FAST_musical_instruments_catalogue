@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/baroque_lute_13_course",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "baroque_lute_13_course",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.lute",
-  "rdfs:comment": "## Lute\n\nBaroque Lute (13-course)",
-  "rdfs:label": "Lute",
-  "sofa:maxNote": "77",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "33",
-  "sofa:minPitch": ""
+    "@id": "Instrument/baroque_lute_13_course", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "baroque_lute_13_course", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.lute", 
+    "rdfs:comment": "## Lute\n\nBaroque Lute (13-course)", 
+    "rdfs:label": "Lute", 
+    "sofa:maxMidi": "77", 
+    "sofa:maxNote": "F5", 
+    "sofa:maxPitch": "698.46", 
+    "sofa:minMidi": "33", 
+    "sofa:minNote": "A1", 
+    "sofa:minPitch": "55.000"
 }

@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/crotales",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "crotales",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/metal.crotales",
-  "rdfs:comment": "## Crotales\n\nCrotales",
-  "rdfs:label": "Crotales",
-  "sofa:maxNote": "108",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "84",
-  "sofa:minPitch": ""
+    "@id": "Instrument/crotales", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "crotales", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/metal.crotales", 
+    "rdfs:comment": "## Crotales\n\nCrotales", 
+    "rdfs:label": "Crotales", 
+    "sofa:maxMidi": "108", 
+    "sofa:maxNote": "C8", 
+    "sofa:maxPitch": "4186.0", 
+    "sofa:minMidi": "84", 
+    "sofa:minNote": "C6", 
+    "sofa:minPitch": "1046.5"
 }

@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/musical_saw",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "musical_saw",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/metal.musical-saw",
-  "rdfs:comment": "## Musical Saw\n\nMusical Saw",
-  "rdfs:label": "Musical Saw",
-  "sofa:maxNote": "100",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "64",
-  "sofa:minPitch": ""
+    "@id": "Instrument/musical_saw", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "musical_saw", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/metal.musical-saw", 
+    "rdfs:comment": "## Musical Saw\n\nMusical Saw", 
+    "rdfs:label": "Musical Saw", 
+    "sofa:maxMidi": "100", 
+    "sofa:maxNote": "E7", 
+    "sofa:maxPitch": "2637.0", 
+    "sofa:minMidi": "64", 
+    "sofa:minNote": "E4", 
+    "sofa:minPitch": "329.63"
 }

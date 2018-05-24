@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/bass_shawm",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "bass_shawm",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.shawm",
-  "rdfs:comment": "## Bass Shawm\n\nBass Shawm",
-  "rdfs:label": "Bass Shawm",
-  "sofa:maxNote": "57",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "41",
-  "sofa:minPitch": ""
+    "@id": "Instrument/bass_shawm", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bass_shawm", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.shawm", 
+    "rdfs:comment": "## Bass Shawm\n\nBass Shawm", 
+    "rdfs:label": "Bass Shawm", 
+    "sofa:maxMidi": "57", 
+    "sofa:maxNote": "A3", 
+    "sofa:maxPitch": "220.00", 
+    "sofa:minMidi": "41", 
+    "sofa:minNote": "F2", 
+    "sofa:minPitch": "87.307"
 }

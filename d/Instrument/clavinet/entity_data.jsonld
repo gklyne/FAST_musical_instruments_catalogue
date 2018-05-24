@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/clavinet",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "clavinet",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.clavichord.synth",
-  "rdfs:comment": "## Clavinet\n\nClavinet",
-  "rdfs:label": "Clavinet",
-  "sofa:maxNote": "89",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "29",
-  "sofa:minPitch": ""
+    "@id": "Instrument/clavinet", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "clavinet", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.clavichord.synth", 
+    "rdfs:comment": "## Clavinet\n\nClavinet", 
+    "rdfs:label": "Clavinet", 
+    "sofa:maxMidi": "89", 
+    "sofa:maxNote": "F6", 
+    "sofa:maxPitch": "1396.9", 
+    "sofa:minMidi": "29", 
+    "sofa:minNote": "F1", 
+    "sofa:minPitch": "43.654"
 }

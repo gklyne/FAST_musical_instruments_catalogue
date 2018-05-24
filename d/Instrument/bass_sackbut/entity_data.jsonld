@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/bass_sackbut",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "bass_sackbut",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.sackbutt.bass",
-  "rdfs:comment": "## Bass Sackbut\n\nBass Sackbut",
-  "rdfs:label": "Bass Sackbut",
-  "sofa:maxNote": "70",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "36",
-  "sofa:minPitch": ""
+    "@id": "Instrument/bass_sackbut", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bass_sackbut", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.sackbutt.bass", 
+    "rdfs:comment": "## Bass Sackbut\n\nBass Sackbut", 
+    "rdfs:label": "Bass Sackbut", 
+    "sofa:maxMidi": "70", 
+    "sofa:maxNote": "A#4", 
+    "sofa:maxPitch": "466.16", 
+    "sofa:minMidi": "36", 
+    "sofa:minNote": "C2", 
+    "sofa:minPitch": "65.406"
 }

@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/soprano_saxophone",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "soprano_saxophone",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.saxophone.soprano",
-  "rdfs:comment": "## Soprano Saxophone\n\nSoprano Saxophone",
-  "rdfs:label": "Soprano Saxophone",
-  "sofa:maxNote": "89",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "56",
-  "sofa:minPitch": ""
+    "@id": "Instrument/soprano_saxophone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "soprano_saxophone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.saxophone.soprano", 
+    "rdfs:comment": "## Soprano Saxophone\n\nSoprano Saxophone", 
+    "rdfs:label": "Soprano Saxophone", 
+    "sofa:maxMidi": "89", 
+    "sofa:maxNote": "F6", 
+    "sofa:maxPitch": "1396.9", 
+    "sofa:minMidi": "56", 
+    "sofa:minNote": "G#3", 
+    "sofa:minPitch": "207.65"
 }

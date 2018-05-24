@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/slide_whistle",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "slide_whistle",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.slide",
-  "rdfs:comment": "## Slide Whistle\n\nSlide or Swanee Whistle",
-  "rdfs:label": "Slide Whistle",
-  "sofa:maxNote": "96",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "69",
-  "sofa:minPitch": ""
+    "@id": "Instrument/slide_whistle", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "slide_whistle", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.slide", 
+    "rdfs:comment": "## Slide Whistle\n\nSlide or Swanee Whistle", 
+    "rdfs:label": "Slide Whistle", 
+    "sofa:maxMidi": "96", 
+    "sofa:maxNote": "C7", 
+    "sofa:maxPitch": "2093.0", 
+    "sofa:minMidi": "69", 
+    "sofa:minNote": "A4", 
+    "sofa:minPitch": "440.00"
 }

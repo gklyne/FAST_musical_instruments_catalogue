@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/tenor_sarrusophone",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "tenor_sarrusophone",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.sarrusaphone",
-  "rdfs:comment": "## Tenor Sarrusophone\n\nTenor Sarrusophone",
-  "rdfs:label": "Tenor Sarrusophone",
-  "sofa:maxNote": "75",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "44",
-  "sofa:minPitch": ""
+    "@id": "Instrument/tenor_sarrusophone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "tenor_sarrusophone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.sarrusaphone", 
+    "rdfs:comment": "## Tenor Sarrusophone\n\nTenor Sarrusophone", 
+    "rdfs:label": "Tenor Sarrusophone", 
+    "sofa:maxMidi": "75", 
+    "sofa:maxNote": "D#5", 
+    "sofa:maxPitch": "622.25", 
+    "sofa:minMidi": "44", 
+    "sofa:minNote": "G#2", 
+    "sofa:minPitch": "103.83"
 }

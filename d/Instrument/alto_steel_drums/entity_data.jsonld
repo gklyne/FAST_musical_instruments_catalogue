@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/alto_steel_drums",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "alto_steel_drums",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/metal.steel-drums",
-  "rdfs:comment": "## Alto Steel Drums\n\nAlto Steel Drums",
-  "rdfs:label": "Alto Steel Drums",
-  "sofa:maxNote": "85",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "56",
-  "sofa:minPitch": ""
+    "@id": "Instrument/alto_steel_drums", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "alto_steel_drums", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/metal.steel-drums", 
+    "rdfs:comment": "## Alto Steel Drums\n\nAlto Steel Drums", 
+    "rdfs:label": "Alto Steel Drums", 
+    "sofa:maxMidi": "85", 
+    "sofa:maxNote": "Db6", 
+    "sofa:maxPitch": "1108.7", 
+    "sofa:minMidi": "56", 
+    "sofa:minNote": "G#3", 
+    "sofa:minPitch": "207.65"
 }

@@ -10,8 +10,10 @@
     "micat:InstrumentTypeId": "micat:musicXMLid/pluck.lute", 
     "rdfs:comment": "## Lute\n\nRen. Tenor Lute (8-course)", 
     "rdfs:label": "Lute", 
-    "sofa:maxNote": "79", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "38", 
-    "sofa:minPitch": ""
+    "sofa:maxMidi": "79", 
+    "sofa:maxNote": "G5", 
+    "sofa:maxPitch": "783.99", 
+    "sofa:minMidi": "38", 
+    "sofa:minNote": "D2", 
+    "sofa:minPitch": "73.416"
 }

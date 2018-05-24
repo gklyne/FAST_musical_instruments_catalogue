@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/alto_trombone",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "alto_trombone",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.trombone.alto",
-  "rdfs:comment": "## Alto Trombone\n\nAlto Trombone",
-  "rdfs:label": "Alto Trombone",
-  "sofa:maxNote": "74",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "45",
-  "sofa:minPitch": ""
+    "@id": "Instrument/alto_trombone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "alto_trombone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.trombone.alto", 
+    "rdfs:comment": "## Alto Trombone\n\nAlto Trombone", 
+    "rdfs:label": "Alto Trombone", 
+    "sofa:maxMidi": "74", 
+    "sofa:maxNote": "D5", 
+    "sofa:maxPitch": "587.33", 
+    "sofa:minMidi": "45", 
+    "sofa:minNote": "A2", 
+    "sofa:minPitch": "110.00"
 }

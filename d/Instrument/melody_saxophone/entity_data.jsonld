@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/melody_saxophone",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "melody_saxophone",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.saxophone.melody",
-  "rdfs:comment": "## Melody Saxophone\n\nTenor Saxophone in C",
-  "rdfs:label": "Melody Saxophone",
-  "sofa:maxNote": "77",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "46",
-  "sofa:minPitch": ""
+    "@id": "Instrument/melody_saxophone", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "melody_saxophone", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.saxophone.melody", 
+    "rdfs:comment": "## Melody Saxophone\n\nTenor Saxophone in C", 
+    "rdfs:label": "Melody Saxophone", 
+    "sofa:maxMidi": "77", 
+    "sofa:maxNote": "F5", 
+    "sofa:maxPitch": "698.46", 
+    "sofa:minMidi": "46", 
+    "sofa:minNote": "A#2", 
+    "sofa:minPitch": "116.54"
 }

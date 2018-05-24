@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/traverso",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "traverso",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute",
-  "rdfs:comment": "## Traverso\n\nTraverso",
-  "rdfs:label": "Traverso",
-  "sofa:maxNote": "88",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "62",
-  "sofa:minPitch": ""
+    "@id": "Instrument/traverso", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "traverso", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute", 
+    "rdfs:comment": "## Traverso\n\nTraverso", 
+    "rdfs:label": "Traverso", 
+    "sofa:maxMidi": "88", 
+    "sofa:maxNote": "E6", 
+    "sofa:maxPitch": "1318.5", 
+    "sofa:minMidi": "62", 
+    "sofa:minNote": "D4", 
+    "sofa:minPitch": "293.66"
 }

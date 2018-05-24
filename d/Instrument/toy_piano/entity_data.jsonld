@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/toy_piano",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "toy_piano",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.piano.toy",
-  "rdfs:comment": "## Toy Piano\n\nToy Piano",
-  "rdfs:label": "Toy Piano",
-  "sofa:maxNote": "108",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "21",
-  "sofa:minPitch": ""
+    "@id": "Instrument/toy_piano", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "toy_piano", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.piano.toy", 
+    "rdfs:comment": "## Toy Piano\n\nToy Piano", 
+    "rdfs:label": "Toy Piano", 
+    "sofa:maxMidi": "108", 
+    "sofa:maxNote": "C8", 
+    "sofa:maxPitch": "4186.0", 
+    "sofa:minMidi": "21", 
+    "sofa:minNote": "A0", 
+    "sofa:minPitch": "27.500"
 }

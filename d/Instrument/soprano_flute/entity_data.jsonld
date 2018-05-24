@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/soprano_flute",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "soprano_flute",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute",
-  "rdfs:comment": "## Soprano Flute\n\nE\u266d Flute minor third above concert flute",
-  "rdfs:label": "Soprano Flute",
-  "sofa:maxNote": "96",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "63",
-  "sofa:minPitch": ""
+    "@id": "Instrument/soprano_flute", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "soprano_flute", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute", 
+    "rdfs:comment": "## Soprano Flute\n\nE\u266d Flute minor third above concert flute", 
+    "rdfs:label": "Soprano Flute", 
+    "sofa:maxMidi": "96", 
+    "sofa:maxNote": "C7", 
+    "sofa:maxPitch": "2093.0", 
+    "sofa:minMidi": "63", 
+    "sofa:minNote": "D#4", 
+    "sofa:minPitch": "311.13"
 }

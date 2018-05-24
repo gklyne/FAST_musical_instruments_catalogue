@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/bowed_synth",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "bowed_synth",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/synth.pad.bowed",
-  "rdfs:comment": "## Bowed Synthesizer\n\nBowed Pad Synthesizer",
-  "rdfs:label": "Bowed Synthesizer",
-  "sofa:maxNote": "96",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "36",
-  "sofa:minPitch": ""
+    "@id": "Instrument/bowed_synth", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bowed_synth", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/synth.pad.bowed", 
+    "rdfs:comment": "## Bowed Synthesizer\n\nBowed Pad Synthesizer", 
+    "rdfs:label": "Bowed Synthesizer", 
+    "sofa:maxMidi": "96", 
+    "sofa:maxNote": "C7", 
+    "sofa:maxPitch": "2093.0", 
+    "sofa:minMidi": "36", 
+    "sofa:minNote": "C2", 
+    "sofa:minPitch": "65.406"
 }

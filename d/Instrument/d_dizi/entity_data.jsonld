@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/d_dizi",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "d_dizi",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.di-zi",
-  "rdfs:comment": "## Dizi\n\nDizi",
-  "rdfs:label": "Dizi",
-  "sofa:maxNote": "95",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "69",
-  "sofa:minPitch": ""
+    "@id": "Instrument/d_dizi", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "d_dizi", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.di-zi", 
+    "rdfs:comment": "## Dizi\n\nDizi", 
+    "rdfs:label": "Dizi", 
+    "sofa:maxMidi": "95", 
+    "sofa:maxNote": "B6", 
+    "sofa:maxPitch": "1975.5", 
+    "sofa:minMidi": "69", 
+    "sofa:minNote": "A4", 
+    "sofa:minPitch": "440.00"
 }

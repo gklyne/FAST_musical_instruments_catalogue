@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/orff_soprano_glockenspiel",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "orff_soprano_glockenspiel",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.glockenspiel.soprano",
-  "rdfs:comment": "## Orff Soprano Glockenspiel\n\nOrff Soprano Glockenspiel",
-  "rdfs:label": "Orff Soprano Glockenspiel",
-  "sofa:maxNote": "105",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "84",
-  "sofa:minPitch": ""
+    "@id": "Instrument/orff_soprano_glockenspiel", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "orff_soprano_glockenspiel", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.glockenspiel.soprano", 
+    "rdfs:comment": "## Orff Soprano Glockenspiel\n\nOrff Soprano Glockenspiel", 
+    "rdfs:label": "Orff Soprano Glockenspiel", 
+    "sofa:maxMidi": "105", 
+    "sofa:maxNote": "A7", 
+    "sofa:maxPitch": "3520.0", 
+    "sofa:minMidi": "84", 
+    "sofa:minNote": "C6", 
+    "sofa:minPitch": "1046.5"
 }

@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/didgeridoo",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "didgeridoo",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.didgeridoo",
-  "rdfs:comment": "## Didgeridoo\n\nDidgeridoo",
-  "rdfs:label": "Didgeridoo",
-  "sofa:maxNote": "36",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "24",
-  "sofa:minPitch": ""
+    "@id": "Instrument/didgeridoo", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "didgeridoo", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.didgeridoo", 
+    "rdfs:comment": "## Didgeridoo\n\nDidgeridoo", 
+    "rdfs:label": "Didgeridoo", 
+    "sofa:maxMidi": "36", 
+    "sofa:maxNote": "C2", 
+    "sofa:maxPitch": "65.406", 
+    "sofa:minMidi": "24", 
+    "sofa:minNote": "C1", 
+    "sofa:minPitch": "32.703"
 }

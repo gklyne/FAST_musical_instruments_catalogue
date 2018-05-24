@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/contrabass_marimba",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "contrabass_marimba",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.marimba.bass",
-  "rdfs:comment": "## Contrabass Marimba\n\nContrabass Marimba",
-  "rdfs:label": "Contrabass Marimba",
-  "sofa:maxNote": "60",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "21",
-  "sofa:minPitch": ""
+    "@id": "Instrument/contrabass_marimba", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "contrabass_marimba", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.marimba.bass", 
+    "rdfs:comment": "## Contrabass Marimba\n\nContrabass Marimba", 
+    "rdfs:label": "Contrabass Marimba", 
+    "sofa:maxMidi": "60", 
+    "sofa:maxNote": "C4", 
+    "sofa:maxPitch": "261.63", 
+    "sofa:minMidi": "21", 
+    "sofa:minNote": "A0", 
+    "sofa:minPitch": "27.500"
 }

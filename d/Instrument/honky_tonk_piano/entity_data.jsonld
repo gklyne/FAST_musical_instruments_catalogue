@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/honky_tonk_piano",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "honky_tonk_piano",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.piano.honky-tonk",
-  "rdfs:comment": "## Honky Tonk Piano\n\nHonky Tonk Piano",
-  "rdfs:label": "Honky Tonk Piano",
-  "sofa:maxNote": "108",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "21",
-  "sofa:minPitch": ""
+    "@id": "Instrument/honky_tonk_piano", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "honky_tonk_piano", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.piano.honky-tonk", 
+    "rdfs:comment": "## Honky Tonk Piano\n\nHonky Tonk Piano", 
+    "rdfs:label": "Honky Tonk Piano", 
+    "sofa:maxMidi": "108", 
+    "sofa:maxNote": "C8", 
+    "sofa:maxPitch": "4186.0", 
+    "sofa:minMidi": "21", 
+    "sofa:minNote": "A0", 
+    "sofa:minPitch": "27.500"
 }

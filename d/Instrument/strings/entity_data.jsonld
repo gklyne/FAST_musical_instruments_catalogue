@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/strings",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "strings",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/strings.group",
-  "rdfs:comment": "## Strings\n\nString Section",
-  "rdfs:label": "Strings",
-  "sofa:maxNote": "108",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "24",
-  "sofa:minPitch": ""
+    "@id": "Instrument/strings", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "strings", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/strings.group", 
+    "rdfs:comment": "## Strings\n\nString Section", 
+    "rdfs:label": "Strings", 
+    "sofa:maxMidi": "108", 
+    "sofa:maxNote": "C8", 
+    "sofa:maxPitch": "4186.0", 
+    "sofa:minMidi": "24", 
+    "sofa:minNote": "C1", 
+    "sofa:minPitch": "32.703"
 }

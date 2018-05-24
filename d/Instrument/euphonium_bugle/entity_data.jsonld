@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/euphonium_bugle",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "euphonium_bugle",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/brass.bugle.euphonium-bugle",
-  "rdfs:comment": "## Euphonium Bugle\n\nEuphonium Bugle",
-  "rdfs:label": "Euphonium Bugle",
-  "sofa:maxNote": "62",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "50",
-  "sofa:minPitch": ""
+    "@id": "Instrument/euphonium_bugle", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "euphonium_bugle", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/brass.bugle.euphonium-bugle", 
+    "rdfs:comment": "## Euphonium Bugle\n\nEuphonium Bugle", 
+    "rdfs:label": "Euphonium Bugle", 
+    "sofa:maxMidi": "62", 
+    "sofa:maxNote": "D4", 
+    "sofa:maxPitch": "293.66", 
+    "sofa:minMidi": "50", 
+    "sofa:minNote": "D3", 
+    "sofa:minPitch": "146.83"
 }

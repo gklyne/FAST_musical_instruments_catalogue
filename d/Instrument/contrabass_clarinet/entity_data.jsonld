@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/contrabass_clarinet",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "contrabass_clarinet",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.clarinet.contrabass",
-  "rdfs:comment": "## Contrabass Clarinet\n\nContrabass Clarinet",
-  "rdfs:label": "Contrabass Clarinet",
-  "sofa:maxNote": "65",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "25",
-  "sofa:minPitch": ""
+    "@id": "Instrument/contrabass_clarinet", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "contrabass_clarinet", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.clarinet.contrabass", 
+    "rdfs:comment": "## Contrabass Clarinet\n\nContrabass Clarinet", 
+    "rdfs:label": "Contrabass Clarinet", 
+    "sofa:maxMidi": "65", 
+    "sofa:maxNote": "F4", 
+    "sofa:maxPitch": "349.23", 
+    "sofa:minMidi": "25", 
+    "sofa:minNote": "Db1", 
+    "sofa:minPitch": "34.648"
 }

@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/electric_piano",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "electric_piano",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.piano.electric",
-  "rdfs:comment": "## Electric Piano\n\nElectric Piano",
-  "rdfs:label": "Electric Piano",
-  "sofa:maxNote": "108",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "21",
-  "sofa:minPitch": ""
+    "@id": "Instrument/electric_piano", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "electric_piano", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.piano.electric", 
+    "rdfs:comment": "## Electric Piano\n\nElectric Piano", 
+    "rdfs:label": "Electric Piano", 
+    "sofa:maxMidi": "108", 
+    "sofa:maxNote": "C8", 
+    "sofa:maxPitch": "4186.0", 
+    "sofa:minMidi": "21", 
+    "sofa:minNote": "A0", 
+    "sofa:minPitch": "27.500"
 }

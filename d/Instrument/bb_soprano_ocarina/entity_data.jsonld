@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/bb_soprano_ocarina",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "bb_soprano_ocarina",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.ocarina",
-  "rdfs:comment": "## B\u266d Soprano Ocarina\n\nB\u266d Soprano Ocarina",
-  "rdfs:label": "B\u266d Soprano Ocarina",
-  "sofa:maxNote": "84",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "70",
-  "sofa:minPitch": ""
+    "@id": "Instrument/bb_soprano_ocarina", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "bb_soprano_ocarina", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.ocarina", 
+    "rdfs:comment": "## B\u266d Soprano Ocarina\n\nB\u266d Soprano Ocarina", 
+    "rdfs:label": "B\u266d Soprano Ocarina", 
+    "sofa:maxMidi": "84", 
+    "sofa:maxNote": "C6", 
+    "sofa:maxPitch": "1046.5", 
+    "sofa:minMidi": "70", 
+    "sofa:minNote": "A#4", 
+    "sofa:minPitch": "466.16"
 }

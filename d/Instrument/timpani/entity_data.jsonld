@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/timpani",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "timpani",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/drum.timpani",
-  "rdfs:comment": "## Timpani\n\nTimpani",
-  "rdfs:label": "Timpani",
-  "sofa:maxNote": "60",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "38",
-  "sofa:minPitch": ""
+    "@id": "Instrument/timpani", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "timpani", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/drum.timpani", 
+    "rdfs:comment": "## Timpani\n\nTimpani", 
+    "rdfs:label": "Timpani", 
+    "sofa:maxMidi": "60", 
+    "sofa:maxNote": "C4", 
+    "sofa:maxPitch": "261.63", 
+    "sofa:minMidi": "38", 
+    "sofa:minNote": "D2", 
+    "sofa:minPitch": "73.416"
 }

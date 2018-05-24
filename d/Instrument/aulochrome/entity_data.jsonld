@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/aulochrome",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "aulochrome",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.saxophone.aulochrome",
-  "rdfs:comment": "## Aulochrome\n\n2 soprano saxes joined together",
-  "rdfs:label": "Aulochrome",
-  "sofa:maxNote": "89",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "56",
-  "sofa:minPitch": ""
+    "@id": "Instrument/aulochrome", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "aulochrome", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.saxophone.aulochrome", 
+    "rdfs:comment": "## Aulochrome\n\n2 soprano saxes joined together", 
+    "rdfs:label": "Aulochrome", 
+    "sofa:maxMidi": "89", 
+    "sofa:maxNote": "F6", 
+    "sofa:maxPitch": "1396.9", 
+    "sofa:minMidi": "56", 
+    "sofa:minNote": "G#3", 
+    "sofa:minPitch": "207.65"
 }

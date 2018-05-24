@@ -1,23 +1,19 @@
 {
-  "@context": [
-    {
-      "@base": "../../"
-    },
-    "../../coll_context.jsonld"
-  ],
-  "@id": "Instrument/glockenspiel",
-  "@type": [
-    "micat:Instrument",
-    "annal:EntityData"
-  ],
-  "annal:id": "glockenspiel",
-  "annal:type": "micat:Instrument",
-  "annal:type_id": "Instrument",
-  "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.glockenspiel",
-  "rdfs:comment": "## Glockenspiel\n\nGlockenspiel",
-  "rdfs:label": "Glockenspiel",
-  "sofa:maxNote": "108",
-  "sofa:maxPitch": "",
-  "sofa:minNote": "79",
-  "sofa:minPitch": ""
+    "@id": "Instrument/glockenspiel", 
+    "@type": [
+        "micat:Instrument", 
+        "annal:EntityData"
+    ], 
+    "annal:id": "glockenspiel", 
+    "annal:type": "micat:Instrument", 
+    "annal:type_id": "Instrument", 
+    "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.glockenspiel", 
+    "rdfs:comment": "## Glockenspiel\n\nGlockenspiel", 
+    "rdfs:label": "Glockenspiel", 
+    "sofa:maxMidi": "108", 
+    "sofa:maxNote": "C8", 
+    "sofa:maxPitch": "4186.0", 
+    "sofa:minMidi": "79", 
+    "sofa:minNote": "G5", 
+    "sofa:minPitch": "783.99"
 }

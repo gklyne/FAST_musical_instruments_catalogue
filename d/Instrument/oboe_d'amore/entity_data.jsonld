@@ -10,8 +10,10 @@
     "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.oboe-damore", 
     "rdfs:comment": "## Oboe d'amore\n\nOboe d'amore", 
     "rdfs:label": "Oboe d'amore", 
-    "sofa:maxNote": "84", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "56", 
-    "sofa:minPitch": ""
+    "sofa:maxMidi": "84", 
+    "sofa:maxNote": "C6", 
+    "sofa:maxPitch": "1046.5", 
+    "sofa:minMidi": "56", 
+    "sofa:minNote": "G#3", 
+    "sofa:minPitch": "207.65"
 }
