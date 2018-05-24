@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/bass_flute", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "bass_flute", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute.bass", 
-    "rdfs:comment": "## Bass Flute\n\nBass Flute", 
-    "rdfs:label": "Bass Flute", 
-    "sofa:maxNote": "77", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "48", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/bass_flute",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "bass_flute",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute.bass",
+  "rdfs:comment": "## Bass Flute\n\nBass Flute",
+  "rdfs:label": "Bass Flute",
+  "sofa:maxNote": "77",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "48",
+  "sofa:minPitch": ""
 }

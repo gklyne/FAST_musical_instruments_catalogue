@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/Midi_low",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "21",
+  "annal:field_entity_type": "micat:Instrument",
+  "annal:field_fields": [],
+  "annal:field_placement": "small:0,12;medium:0,6",
+  "annal:field_ref_field": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "",
+  "annal:field_render_type": "_enum_render_type/Text",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "annal:Text",
+  "annal:id": "Midi_low",
+  "annal:placeholder": "(Low note (Midi note number))",
+  "annal:property_uri": "sofa:minMidi",
+  "annal:repeat_label_add": "Add",
+  "annal:repeat_label_delete": "Remove",
+  "annal:superproperty_uri": [],
+  "annal:tooltip": "Pitch range: low Midi note number\r\nIndicates the lowest note that is normally playable by this instrument, represented by its Midi note number.\r\n",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "# Midi range: low\r\n\r\nIndicates the lowest note that is normally playable by this instrument.\r\n\r\nThe note is represented by its MIDI note number, for which correspondences to Scientific Pitch Notation  (SPN) and frequency are documented in the [wiki page on SPN](https://en.wikipedia.org/wiki/Scientific_pitch_notation).\r\n\r\nDefault value is 21 (A0, 27.5Hz), the lowest note on a standard piano, per [Wikipedia](https://en.wikipedia.org/wiki/Piano_key_frequencies)).\r\n\r\nSee also: [Wikipedia: Musical note](https://en.wikipedia.org/wiki/Musical_note).",
+  "rdfs:label": "Midi range: low"
+}

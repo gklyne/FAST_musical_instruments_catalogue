@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/soprano_cornett", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "soprano_cornett", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/brass.cornett", 
-    "rdfs:comment": "## Soprano Cornett\n\nSoprano Cornett", 
-    "rdfs:label": "Soprano Cornett", 
-    "sofa:maxNote": "83", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "60", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/soprano_cornett",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "soprano_cornett",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/brass.cornett",
+  "rdfs:comment": "## Soprano Cornett\n\nSoprano Cornett",
+  "rdfs:label": "Soprano Cornett",
+  "sofa:maxNote": "83",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "60",
+  "sofa:minPitch": ""
 }

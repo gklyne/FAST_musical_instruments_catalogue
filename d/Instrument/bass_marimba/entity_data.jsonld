@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/bass_marimba", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "bass_marimba", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.marimba.bass", 
-    "rdfs:comment": "## Bass Marimba\n\nBass Marimba", 
-    "rdfs:label": "Bass Marimba", 
-    "sofa:maxNote": "65", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "36", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/bass_marimba",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "bass_marimba",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.marimba.bass",
+  "rdfs:comment": "## Bass Marimba\n\nBass Marimba",
+  "rdfs:label": "Bass Marimba",
+  "sofa:maxNote": "65",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "36",
+  "sofa:minPitch": ""
 }

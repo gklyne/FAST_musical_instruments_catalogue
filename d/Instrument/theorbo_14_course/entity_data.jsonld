@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/theorbo_14_course", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "theorbo_14_course", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.theorbo", 
-    "rdfs:comment": "## Theorbo\n\nTheorbo (14-course)", 
-    "rdfs:label": "Theorbo", 
-    "sofa:maxNote": "71", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "31", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/theorbo_14_course",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "theorbo_14_course",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.theorbo",
+  "rdfs:comment": "## Theorbo\n\nTheorbo (14-course)",
+  "rdfs:label": "Theorbo",
+  "sofa:maxNote": "71",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "31",
+  "sofa:minPitch": ""
 }

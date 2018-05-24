@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/f_alto_horn", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "f_alto_horn", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/brass.alto-horn", 
-    "rdfs:comment": "## F Alto Horn\n\nF Alto Horn", 
-    "rdfs:label": "F Alto Horn", 
-    "sofa:maxNote": "74", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "47", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/f_alto_horn",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "f_alto_horn",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/brass.alto-horn",
+  "rdfs:comment": "## F Alto Horn\n\nF Alto Horn",
+  "rdfs:label": "F Alto Horn",
+  "sofa:maxNote": "74",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "47",
+  "sofa:minPitch": ""
 }

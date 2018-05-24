@@ -21,13 +21,13 @@
   "annal:field_value_type": "annal:Float",
   "annal:id": "Pitch_high",
   "annal:placeholder": "(Pitch range high note (Hz))",
-  "annal:property_uri": "micat:pitch_high",
+  "annal:property_uri": "sofa:highPitch",
   "annal:repeat_label_add": "Add",
   "annal:repeat_label_delete": "Remove",
   "annal:superproperty_uri": [],
   "annal:tooltip": "Pitch range: high note.\r\nIndicates the highest note that is normally playable by this instrument, represented by its frequency Hz, which may be a fractional value.\r\n",
   "annal:type": "annal:Field",
   "annal:type_id": "_field",
-  "rdfs:comment": "# Pitch range: low note\r\n\r\nIndicates the highest note that is normally playable by this instrument.\r\n\r\nThe note is represented by its frequency Hz, which may be a fractional value.\r\n\r\nDefault value is C8 (4186.01Hz, the highest note on a standard piano, per [Wikipedia](https://en.wikipedia.org/wiki/Piano_key_frequencies)).\r\n\r\nSee also: [Wikipedia: Musical note](https://en.wikipedia.org/wiki/Musical_note).",
+  "rdfs:comment": "# Pitch range: high note\r\n\r\nIndicates the highest note that is normally playable by this instrument.\r\n\r\nThe note is represented by its frequency Hz, which may be a fractional value.\r\n\r\nDefault value is C8 (4186.01Hz, the highest note on a standard piano, per [Wikipedia](https://en.wikipedia.org/wiki/Piano_key_frequencies)).\r\n\r\nSee also: [Wikipedia: Musical note](https://en.wikipedia.org/wiki/Musical_note).",
   "rdfs:label": "Pitch range: high"
 }

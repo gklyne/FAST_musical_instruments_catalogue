@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/contrabass_bugle", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "contrabass_bugle", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/brass.bugle.contrabass", 
-    "rdfs:comment": "## Contrabass Bugle\n\nContrabass Bugle", 
-    "rdfs:label": "Contrabass Bugle", 
-    "sofa:maxNote": "55", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "43", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/contrabass_bugle",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "contrabass_bugle",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/brass.bugle.contrabass",
+  "rdfs:comment": "## Contrabass Bugle\n\nContrabass Bugle",
+  "rdfs:label": "Contrabass Bugle",
+  "sofa:maxNote": "55",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "43",
+  "sofa:minPitch": ""
 }

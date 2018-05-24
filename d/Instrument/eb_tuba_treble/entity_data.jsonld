@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/eb_tuba_treble", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "eb_tuba_treble", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/brass.tuba", 
-    "rdfs:comment": "## E\u266d Tuba\n\nE\u266d Tuba", 
-    "rdfs:label": "E\u266d Tuba", 
-    "sofa:maxNote": "64", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "26", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/eb_tuba_treble",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "eb_tuba_treble",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/brass.tuba",
+  "rdfs:comment": "## E\u266d Tuba\n\nE\u266d Tuba",
+  "rdfs:label": "E\u266d Tuba",
+  "sofa:maxNote": "64",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "26",
+  "sofa:minPitch": ""
 }

@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/d_tin_whistle", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "d_tin_whistle", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.whistle.tin.d", 
-    "rdfs:comment": "## D Tin Whistle\n\nsame as 6 hole Flageolet but metal construction", 
-    "rdfs:label": "D Tin Whistle", 
-    "sofa:maxNote": "98", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "74", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/d_tin_whistle",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "d_tin_whistle",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.whistle.tin.d",
+  "rdfs:comment": "## D Tin Whistle\n\nsame as 6 hole Flageolet but metal construction",
+  "rdfs:label": "D Tin Whistle",
+  "sofa:maxNote": "98",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "74",
+  "sofa:minPitch": ""
 }

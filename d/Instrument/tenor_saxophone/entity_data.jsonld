@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/tenor_saxophone", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "tenor_saxophone", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.saxophone.tenor", 
-    "rdfs:comment": "## Tenor Saxophone\n\nTenor Saxophone", 
-    "rdfs:label": "Tenor Saxophone", 
-    "sofa:maxNote": "77", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "44", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/tenor_saxophone",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "tenor_saxophone",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.saxophone.tenor",
+  "rdfs:comment": "## Tenor Saxophone\n\nTenor Saxophone",
+  "rdfs:label": "Tenor Saxophone",
+  "sofa:maxNote": "77",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "44",
+  "sofa:minPitch": ""
 }

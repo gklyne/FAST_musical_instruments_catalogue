@@ -12,7 +12,7 @@
   "annal:id": "micat",
   "annal:type": "annal:Vocabulary",
   "annal:type_id": "_vocab",
-  "annal:uri": "http://micat.example.org/",
+  "annal:uri": "http://meld.linkedmusic.org/micat/terms/",
   "rdfs:comment": "# Musical instruments\r\n\r\n",
   "rdfs:label": "Musical instruments",
   "rdfs:seeAlso": []

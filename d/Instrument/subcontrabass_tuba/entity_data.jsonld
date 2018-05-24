@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/subcontrabass_tuba", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "subcontrabass_tuba", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/brass.tuba.subcontrabass", 
-    "rdfs:comment": "## Sub-Contrabass Tuba\n\nSub-Contrabass Tuba", 
-    "rdfs:label": "Sub-Contrabass Tuba", 
-    "sofa:maxNote": "46", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "16", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/subcontrabass_tuba",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "subcontrabass_tuba",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/brass.tuba.subcontrabass",
+  "rdfs:comment": "## Sub-Contrabass Tuba\n\nSub-Contrabass Tuba",
+  "rdfs:label": "Sub-Contrabass Tuba",
+  "sofa:maxNote": "46",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "16",
+  "sofa:minPitch": ""
 }

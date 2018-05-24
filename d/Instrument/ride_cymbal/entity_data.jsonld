@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/ride_cymbal", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "ride_cymbal", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/metal.cymbal.ride", 
-    "rdfs:comment": "## Ride Cymbal\n\nRide Cymbal", 
-    "rdfs:label": "Ride Cymbal", 
-    "sofa:maxNote": "", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/ride_cymbal",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "ride_cymbal",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/metal.cymbal.ride",
+  "rdfs:comment": "## Ride Cymbal\n\nRide Cymbal",
+  "rdfs:label": "Ride Cymbal",
+  "sofa:maxNote": "",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "",
+  "sofa:minPitch": ""
 }

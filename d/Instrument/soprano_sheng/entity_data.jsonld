@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/soprano_sheng", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "soprano_sheng", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.sheng", 
-    "rdfs:comment": "## Soprano Sheng\n\nSoprano Sheng", 
-    "rdfs:label": "Soprano Sheng", 
-    "sofa:maxNote": "90", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "55", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/soprano_sheng",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "soprano_sheng",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.sheng",
+  "rdfs:comment": "## Soprano Sheng\n\nSoprano Sheng",
+  "rdfs:label": "Soprano Sheng",
+  "sofa:maxNote": "90",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "55",
+  "sofa:minPitch": ""
 }

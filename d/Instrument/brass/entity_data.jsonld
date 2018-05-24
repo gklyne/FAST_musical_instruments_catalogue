@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/brass", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "brass", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/brass.group", 
-    "rdfs:comment": "## Brass\n\nBrass Section", 
-    "rdfs:label": "Brass", 
-    "sofa:maxNote": "108", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "24", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/brass",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "brass",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/brass.group",
+  "rdfs:comment": "## Brass\n\nBrass Section",
+  "rdfs:label": "Brass",
+  "sofa:maxNote": "108",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "24",
+  "sofa:minPitch": ""
 }

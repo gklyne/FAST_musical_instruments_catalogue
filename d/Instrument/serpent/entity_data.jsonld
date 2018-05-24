@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/serpent", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "serpent", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/brass.serpent", 
-    "rdfs:comment": "## Serpent\n\nSerpent", 
-    "rdfs:label": "Serpent", 
-    "sofa:maxNote": "65", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "36", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/serpent",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "serpent",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/brass.serpent",
+  "rdfs:comment": "## Serpent\n\nSerpent",
+  "rdfs:label": "Serpent",
+  "sofa:maxNote": "65",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "36",
+  "sofa:minPitch": ""
 }

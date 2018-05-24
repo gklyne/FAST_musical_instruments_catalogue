@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/piano", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "piano", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.piano", 
-    "rdfs:comment": "## Piano\n\nPiano", 
-    "rdfs:label": "Piano", 
-    "sofa:maxNote": "108", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "21", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/piano",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "piano",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.piano",
+  "rdfs:comment": "## Piano\n\nPiano",
+  "rdfs:label": "Piano",
+  "sofa:maxNote": "108",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "21",
+  "sofa:minPitch": ""
 }

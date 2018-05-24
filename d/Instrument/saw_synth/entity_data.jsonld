@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/saw_synth", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "saw_synth", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/synth.tone.sawtooth", 
-    "rdfs:comment": "## Saw Synthesizer\n\nSawtooth Wave Synthesizer", 
-    "rdfs:label": "Saw Synthesizer", 
-    "sofa:maxNote": "96", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "36", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/saw_synth",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "saw_synth",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/synth.tone.sawtooth",
+  "rdfs:comment": "## Saw Synthesizer\n\nSawtooth Wave Synthesizer",
+  "rdfs:label": "Saw Synthesizer",
+  "sofa:maxNote": "96",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "36",
+  "sofa:minPitch": ""
 }

@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/danso", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "danso", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.danso", 
-    "rdfs:comment": "## Danso\n\nDanso", 
-    "rdfs:label": "Danso", 
-    "sofa:maxNote": "91", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "67", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/danso",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "danso",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.danso",
+  "rdfs:comment": "## Danso\n\nDanso",
+  "rdfs:label": "Danso",
+  "sofa:maxNote": "91",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "67",
+  "sofa:minPitch": ""
 }

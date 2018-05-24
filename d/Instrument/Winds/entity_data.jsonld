@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/Winds", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "Winds", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.group", 
-    "rdfs:comment": "## Winds\n\nWinds Section", 
-    "rdfs:label": "Winds", 
-    "sofa:maxNote": "108", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "24", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/Winds",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "Winds",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.group",
+  "rdfs:comment": "## Winds\n\nWinds Section",
+  "rdfs:label": "Winds",
+  "sofa:maxNote": "108",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "24",
+  "sofa:minPitch": ""
 }

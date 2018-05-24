@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/clavichord", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "clavichord", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.clavichord", 
-    "rdfs:comment": "## Clavichord\n\nClavichord", 
-    "rdfs:label": "Clavichord", 
-    "sofa:maxNote": "89", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "29", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/clavichord",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "clavichord",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.clavichord",
+  "rdfs:comment": "## Clavichord\n\nClavichord",
+  "rdfs:label": "Clavichord",
+  "sofa:maxNote": "89",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "29",
+  "sofa:minPitch": ""
 }

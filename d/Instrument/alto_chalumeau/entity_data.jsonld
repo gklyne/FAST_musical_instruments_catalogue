@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/alto_chalumeau", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "alto_chalumeau", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.chalumeau", 
-    "rdfs:comment": "## Alto Chalumeau\n\nAlto Chalumeau", 
-    "rdfs:label": "Alto Chalumeau", 
-    "sofa:maxNote": "67", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "53", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/alto_chalumeau",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "alto_chalumeau",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.chalumeau",
+  "rdfs:comment": "## Alto Chalumeau\n\nAlto Chalumeau",
+  "rdfs:label": "Alto Chalumeau",
+  "sofa:maxNote": "67",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "53",
+  "sofa:minPitch": ""
 }

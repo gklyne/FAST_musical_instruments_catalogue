@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/concertina", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "concertina", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.concertina", 
-    "rdfs:comment": "## Concertina\n\nConcertina", 
-    "rdfs:label": "Concertina", 
-    "sofa:maxNote": "93", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "36", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/concertina",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "concertina",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/keyboard.concertina",
+  "rdfs:comment": "## Concertina\n\nConcertina",
+  "rdfs:label": "Concertina",
+  "sofa:maxNote": "93",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "36",
+  "sofa:minPitch": ""
 }

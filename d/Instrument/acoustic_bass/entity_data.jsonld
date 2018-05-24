@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/acoustic_bass", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "acoustic_bass", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.bass.acoustic", 
-    "rdfs:comment": "## Acoustic Bass\n\nAcoustic Bass", 
-    "rdfs:label": "Acoustic Bass", 
-    "sofa:maxNote": "62", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "28", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/acoustic_bass",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "acoustic_bass",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.bass.acoustic",
+  "rdfs:comment": "## Acoustic Bass\n\nAcoustic Bass",
+  "rdfs:label": "Acoustic Bass",
+  "sofa:maxNote": "62",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "28",
+  "sofa:minPitch": ""
 }

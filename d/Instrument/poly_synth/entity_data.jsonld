@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/poly_synth", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "poly_synth", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/synth.pad.polysynth", 
-    "rdfs:comment": "## Poly Synthesizer\n\nPolysynth Pad Synthesizer", 
-    "rdfs:label": "Poly Synthesizer", 
-    "sofa:maxNote": "96", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "36", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/poly_synth",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "poly_synth",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/synth.pad.polysynth",
+  "rdfs:comment": "## Poly Synthesizer\n\nPolysynth Pad Synthesizer",
+  "rdfs:label": "Poly Synthesizer",
+  "sofa:maxNote": "96",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "36",
+  "sofa:minPitch": ""
 }

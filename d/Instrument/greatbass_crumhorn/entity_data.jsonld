@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/greatbass_crumhorn", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "greatbass_crumhorn", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.crumhorn.great-bass", 
-    "rdfs:comment": "## Greatbass Crumhorn\n\nGreatbass Crumhorn", 
-    "rdfs:label": "Greatbass Crumhorn", 
-    "sofa:maxNote": "50", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "36", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/greatbass_crumhorn",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "greatbass_crumhorn",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.crumhorn.great-bass",
+  "rdfs:comment": "## Greatbass Crumhorn\n\nGreatbass Crumhorn",
+  "rdfs:label": "Greatbass Crumhorn",
+  "sofa:maxNote": "50",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "36",
+  "sofa:minPitch": ""
 }

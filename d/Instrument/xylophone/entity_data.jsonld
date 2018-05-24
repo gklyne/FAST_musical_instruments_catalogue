@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/xylophone", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "xylophone", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.xylophone", 
-    "rdfs:comment": "## Xylophone\n\nXylophone", 
-    "rdfs:label": "Xylophone", 
-    "sofa:maxNote": "96", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "65", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/xylophone",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "xylophone",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/pitched-percussion.xylophone",
+  "rdfs:comment": "## Xylophone\n\nXylophone",
+  "rdfs:label": "Xylophone",
+  "sofa:maxNote": "96",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "65",
+  "sofa:minPitch": ""
 }

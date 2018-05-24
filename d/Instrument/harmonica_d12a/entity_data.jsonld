@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/harmonica_d12a", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "harmonica_d12a", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.harmonica", 
-    "rdfs:comment": "## 10 Hole A Diatonic Harmonica\n\n10 Hole Diatonic Harmonica in A", 
-    "rdfs:label": "10 Hole A Diatonic Harmonica", 
-    "sofa:maxNote": "93", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "57", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/harmonica_d12a",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "harmonica_d12a",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.harmonica",
+  "rdfs:comment": "## 10 Hole A Diatonic Harmonica\n\n10 Hole Diatonic Harmonica in A",
+  "rdfs:label": "10 Hole A Diatonic Harmonica",
+  "sofa:maxNote": "93",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "57",
+  "sofa:minPitch": ""
 }

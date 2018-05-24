@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/rauschpfeife", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "rauschpfeife", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.rauschpfeife", 
-    "rdfs:comment": "## Rauschpfeife\n\nRauschpfeife", 
-    "rdfs:label": "Rauschpfeife", 
-    "sofa:maxNote": "76", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "60", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/rauschpfeife",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "rauschpfeife",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.rauschpfeife",
+  "rdfs:comment": "## Rauschpfeife\n\nRauschpfeife",
+  "rdfs:label": "Rauschpfeife",
+  "sofa:maxNote": "76",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "60",
+  "sofa:minPitch": ""
 }

@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/oboe", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "oboe", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.oboe", 
-    "rdfs:comment": "## Oboe\n\nOboe", 
-    "rdfs:label": "Oboe", 
-    "sofa:maxNote": "87", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "58", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/oboe",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "oboe",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.oboe",
+  "rdfs:comment": "## Oboe\n\nOboe",
+  "rdfs:label": "Oboe",
+  "sofa:maxNote": "87",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "58",
+  "sofa:minPitch": ""
 }

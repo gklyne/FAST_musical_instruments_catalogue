@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/piccolo_oboe", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "piccolo_oboe", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.oboe.piccolo", 
-    "rdfs:comment": "## Piccolo Oboe\n\nPiccolo Oboe", 
-    "rdfs:label": "Piccolo Oboe", 
-    "sofa:maxNote": "90", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "61", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/piccolo_oboe",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "piccolo_oboe",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.oboe.piccolo",
+  "rdfs:comment": "## Piccolo Oboe\n\nPiccolo Oboe",
+  "rdfs:label": "Piccolo Oboe",
+  "sofa:maxNote": "90",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "61",
+  "sofa:minPitch": ""
 }

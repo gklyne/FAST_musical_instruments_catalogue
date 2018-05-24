@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/baritone_sarrusophone", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "baritone_sarrusophone", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.sarrusaphone", 
-    "rdfs:comment": "## Baritone Sarrusophone\n\nBaritone Sarrusophone", 
-    "rdfs:label": "Baritone Sarrusophone", 
-    "sofa:maxNote": "68", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "37", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/baritone_sarrusophone",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "baritone_sarrusophone",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.sarrusaphone",
+  "rdfs:comment": "## Baritone Sarrusophone\n\nBaritone Sarrusophone",
+  "rdfs:label": "Baritone Sarrusophone",
+  "sofa:maxNote": "68",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "37",
+  "sofa:minPitch": ""
 }

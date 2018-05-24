@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/alto_cornamuse", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "alto_cornamuse", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.cornamuse", 
-    "rdfs:comment": "## Alto Cornamuse\n\nAlto Cornamuse", 
-    "rdfs:label": "Alto Cornamuse", 
-    "sofa:maxNote": "67", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "55", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/alto_cornamuse",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "alto_cornamuse",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.cornamuse",
+  "rdfs:comment": "## Alto Cornamuse\n\nAlto Cornamuse",
+  "rdfs:label": "Alto Cornamuse",
+  "sofa:maxNote": "67",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "55",
+  "sofa:minPitch": ""
 }

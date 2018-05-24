@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/bass_eb_tuba", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "bass_eb_tuba", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/brass.tuba.bass", 
-    "rdfs:comment": "## Bass Tuba in E\u266d\n\nBass Tuba in E\u266d", 
-    "rdfs:label": "Bass Tuba in E\u266d", 
-    "sofa:maxNote": "64", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "26", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/bass_eb_tuba",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "bass_eb_tuba",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/brass.tuba.bass",
+  "rdfs:comment": "## Bass Tuba in E\u266d\n\nBass Tuba in E\u266d",
+  "rdfs:label": "Bass Tuba in E\u266d",
+  "sofa:maxNote": "64",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "26",
+  "sofa:minPitch": ""
 }

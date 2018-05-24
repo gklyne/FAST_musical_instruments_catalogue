@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/archlute_14_course", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "archlute_14_course", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.archlute", 
-    "rdfs:comment": "## Archlute\n\nArchlute (14-course)", 
-    "rdfs:label": "Archlute", 
-    "sofa:maxNote": "77", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "29", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/archlute_14_course",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "archlute_14_course",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.archlute",
+  "rdfs:comment": "## Archlute\n\nArchlute (14-course)",
+  "rdfs:label": "Archlute",
+  "sofa:maxNote": "77",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "29",
+  "sofa:minPitch": ""
 }

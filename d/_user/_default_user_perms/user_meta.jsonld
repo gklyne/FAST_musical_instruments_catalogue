@@ -14,7 +14,10 @@
   "annal:type_id": "_user",
   "annal:user_permission": [
     "VIEW",
-    "UPDATE"
+    "CREATE",
+    "UPDATE",
+    "DELETE",
+    "CONFIG"
   ],
   "annal:user_uri": "annal:User/_default_user_perms",
   "rdfs:comment": "Default permissions for authenticated user.",

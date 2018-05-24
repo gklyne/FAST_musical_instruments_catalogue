@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/sousaphone", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "sousaphone", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/brass.sousaphone", 
-    "rdfs:comment": "## Sousaphone\n\nSousaphone", 
-    "rdfs:label": "Sousaphone", 
-    "sofa:maxNote": "58", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "28", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/sousaphone",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "sousaphone",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/brass.sousaphone",
+  "rdfs:comment": "## Sousaphone\n\nSousaphone",
+  "rdfs:label": "Sousaphone",
+  "sofa:maxNote": "58",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "28",
+  "sofa:minPitch": ""
 }

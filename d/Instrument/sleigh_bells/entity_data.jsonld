@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/sleigh_bells", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "sleigh_bells", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/metal.bells.sleigh-bells", 
-    "rdfs:comment": "## Sleigh Bells\n\nSleigh Bells", 
-    "rdfs:label": "Sleigh Bells", 
-    "sofa:maxNote": "", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/sleigh_bells",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "sleigh_bells",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/metal.bells.sleigh-bells",
+  "rdfs:comment": "## Sleigh Bells\n\nSleigh Bells",
+  "rdfs:label": "Sleigh Bells",
+  "sofa:maxNote": "",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "",
+  "sofa:minPitch": ""
 }

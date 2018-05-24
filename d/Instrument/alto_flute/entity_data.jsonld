@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/alto_flute", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "alto_flute", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute.alto", 
-    "rdfs:comment": "## Alto Flute\n\nAlto Flute", 
-    "rdfs:label": "Alto Flute", 
-    "sofa:maxNote": "88", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "55", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/alto_flute",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "alto_flute",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.flutes.flute.alto",
+  "rdfs:comment": "## Alto Flute\n\nAlto Flute",
+  "rdfs:label": "Alto Flute",
+  "sofa:maxNote": "88",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "55",
+  "sofa:minPitch": ""
 }

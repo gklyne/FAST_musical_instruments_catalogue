@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/soprano_rauschpfeife", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "soprano_rauschpfeife", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.rauschpfeife", 
-    "rdfs:comment": "## Soprano Rauschpfeife\n\nSoprano Rauschpfeife", 
-    "rdfs:label": "Soprano Rauschpfeife", 
-    "sofa:maxNote": "76", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "60", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/soprano_rauschpfeife",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "soprano_rauschpfeife",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.rauschpfeife",
+  "rdfs:comment": "## Soprano Rauschpfeife\n\nSoprano Rauschpfeife",
+  "rdfs:label": "Soprano Rauschpfeife",
+  "sofa:maxNote": "76",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "60",
+  "sofa:minPitch": ""
 }

@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/kuhlohorn", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "kuhlohorn", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/brass.kuhlohorn", 
-    "rdfs:comment": "## Kuhlohorn\n\nKuhllohorn", 
-    "rdfs:label": "Kuhlohorn", 
-    "sofa:maxNote": "79", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "52", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/kuhlohorn",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "kuhlohorn",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/brass.kuhlohorn",
+  "rdfs:comment": "## Kuhlohorn\n\nKuhllohorn",
+  "rdfs:label": "Kuhlohorn",
+  "sofa:maxNote": "79",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "52",
+  "sofa:minPitch": ""
 }

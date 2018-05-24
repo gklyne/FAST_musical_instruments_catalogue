@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/a_bass_duduk", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "a_bass_duduk", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.duduk", 
-    "rdfs:comment": "## A Bass Duduk\n\nA Bass Duduk", 
-    "rdfs:label": "A Bass Duduk", 
-    "sofa:maxNote": "69", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "54", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/a_bass_duduk",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "a_bass_duduk",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.duduk",
+  "rdfs:comment": "## A Bass Duduk\n\nA Bass Duduk",
+  "rdfs:label": "A Bass Duduk",
+  "sofa:maxNote": "69",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "54",
+  "sofa:minPitch": ""
 }

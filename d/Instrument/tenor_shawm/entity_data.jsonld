@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/tenor_shawm", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "tenor_shawm", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.shawm", 
-    "rdfs:comment": "## Tenor Shawm\n\nTenor Shawm", 
-    "rdfs:label": "Tenor Shawm", 
-    "sofa:maxNote": "64", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "48", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/tenor_shawm",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "tenor_shawm",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.shawm",
+  "rdfs:comment": "## Tenor Shawm\n\nTenor Shawm",
+  "rdfs:label": "Tenor Shawm",
+  "sofa:maxNote": "64",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "48",
+  "sofa:minPitch": ""
 }

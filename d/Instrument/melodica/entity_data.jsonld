@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/melodica", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "melodica", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.melodica", 
-    "rdfs:comment": "## Melodica\n\nMelodica", 
-    "rdfs:label": "Melodica", 
-    "sofa:maxNote": "84", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "53", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/melodica",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "melodica",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.melodica",
+  "rdfs:comment": "## Melodica\n\nMelodica",
+  "rdfs:label": "Melodica",
+  "sofa:maxNote": "84",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "53",
+  "sofa:minPitch": ""
 }

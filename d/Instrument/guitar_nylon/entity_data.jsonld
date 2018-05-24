@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/guitar_nylon", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "guitar_nylon", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/pluck.guitar.nylon-string", 
-    "rdfs:comment": "## Classical Guitar\n\nAcoustic Nylon-strung Guitar", 
-    "rdfs:label": "Classical Guitar", 
-    "sofa:maxNote": "83", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "40", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/guitar_nylon",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "guitar_nylon",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/pluck.guitar.nylon-string",
+  "rdfs:comment": "## Classical Guitar\n\nAcoustic Nylon-strung Guitar",
+  "rdfs:label": "Classical Guitar",
+  "sofa:maxNote": "83",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "40",
+  "sofa:minPitch": ""
 }

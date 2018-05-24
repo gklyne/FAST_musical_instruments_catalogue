@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/soundtrack_synth", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "soundtrack_synth", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/synth.effects.soundtrack", 
-    "rdfs:comment": "## Soundtrack Synthesizer\n\nSoundtrack Effect Synthesizer", 
-    "rdfs:label": "Soundtrack Synthesizer", 
-    "sofa:maxNote": "96", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "36", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/soundtrack_synth",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "soundtrack_synth",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/synth.effects.soundtrack",
+  "rdfs:comment": "## Soundtrack Synthesizer\n\nSoundtrack Effect Synthesizer",
+  "rdfs:label": "Soundtrack Synthesizer",
+  "sofa:maxNote": "96",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "36",
+  "sofa:minPitch": ""
 }

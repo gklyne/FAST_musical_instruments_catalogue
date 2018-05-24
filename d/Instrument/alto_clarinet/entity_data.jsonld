@@ -1,17 +1,23 @@
 {
-    "@id": "Instrument/alto_clarinet", 
-    "@type": [
-        "micat:Instrument", 
-        "annal:EntityData"
-    ], 
-    "annal:id": "alto_clarinet", 
-    "annal:type": "micat:Instrument", 
-    "annal:type_id": "Instrument", 
-    "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.clarinet.alto", 
-    "rdfs:comment": "## Alto Clarinet\n\nAlto Clarinet", 
-    "rdfs:label": "Alto Clarinet", 
-    "sofa:maxNote": "80", 
-    "sofa:maxPitch": "", 
-    "sofa:minNote": "43", 
-    "sofa:minPitch": ""
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Instrument/alto_clarinet",
+  "@type": [
+    "micat:Instrument",
+    "annal:EntityData"
+  ],
+  "annal:id": "alto_clarinet",
+  "annal:type": "micat:Instrument",
+  "annal:type_id": "Instrument",
+  "micat:InstrumentTypeId": "micat:musicXMLid/wind.reed.clarinet.alto",
+  "rdfs:comment": "## Alto Clarinet\n\nAlto Clarinet",
+  "rdfs:label": "Alto Clarinet",
+  "sofa:maxNote": "80",
+  "sofa:maxPitch": "",
+  "sofa:minNote": "43",
+  "sofa:minPitch": ""
 }
