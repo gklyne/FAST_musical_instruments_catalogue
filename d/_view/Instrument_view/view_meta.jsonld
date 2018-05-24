@@ -53,6 +53,16 @@
       "annal:property_uri": ""
     },
     {
+      "annal:field_id": "_field/Midi_low",
+      "annal:field_placement": "",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/Midi_high",
+      "annal:field_placement": "",
+      "annal:property_uri": ""
+    },
+    {
       "annal:field_id": "_field/Pitch_low",
       "annal:field_placement": "small:0,12;medium:0,6",
       "annal:property_uri": ""
